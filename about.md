@@ -6,7 +6,7 @@ permalink: /about
 
 #  About Acadia 2026
 
-Lawrence Technological Universty
+Lawrence Technological University
 
 Detroit, Michigan
 
