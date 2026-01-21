@@ -4,11 +4,11 @@ layout: page
 permalink: /about
 ---
 
-#  About Acadia 2025
+#  About Acadia 2026
 
-Florida International Universty /  University  of Miami
+Lawrence Technological Universty
 
-Miami, Florida
+Detroit, Michigan
 
 
 Coming Soon!
