@@ -31,41 +31,41 @@ All accepted submissions will be presented during the conference and published i
 
 Submissions may address, but are not limited to, the following topics:
 
-Robotics and Autonomous Systems
+Robotics and autonomous systems
 
-Digital Fabrication and Hybrid Craft
+Digital fabrication and hybrid craft
 
-Machine Learning and Artificial Intelligence
+Machine learning and artificial intelligence
 
-Generative Algorithms and Predictive Simulation
+Generative algorithms and predictive simulation
 
-Extended Reality (VR, AR, MR)
+Extended reality (VR, AR, MR)
 
-Digital Heritage and Computational Preservation
+Digital heritage and computational preservation
 
-Material Innovation and Bio-Design
+Material innovation and bio-design
 
-Circular Construction and Low-Carbon Workflows
+Circular construction and low-carbon workflows
 
-Human–Computer Interaction and Interactive Systems
+Human–computer interaction and interactive systems
 
-Collective Intelligence and Multi-Agent Systems
+Collective intelligence and multi-agent systems
 
-Computational Design Methods and Simulation Frameworks
+Computational design methods and simulation frameworks
 
-Digital Storytelling and Algorithmic Narratives
+Digital storytelling and algorithmic narratives
 
-Computational Landscape and Territorial Design
+Computational landscape and territorial design
 
-Data, Ethics, and Algorithmic Bias
+Data ethics and algorithmic bias
 
-Pedagogies of Computational Design
+Pedagogies of computational design
 
-Speculative Design and World-Building
+Speculative design and world-building
 
-Public Technologies and Equitable Infrastructures
+Public technologies and equitable infrastructures
 
-Visual Culture and Digital Representation
+Visual culture and digital representation
 
 Submissions will be organized across thematic tracks, including:
 
