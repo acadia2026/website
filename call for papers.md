@@ -6,6 +6,9 @@ permalink: /call-for-papers
 {% include animation.html pattern="  PAPERS PROJECTS FIELD NOTES  " overlay_text="Calls For Submissions" width=600 height=300 %}
 # Calls for Submissions
 
+Preliminary calls for submissions will be developed in consultation with the ACADIA Board.
+
+
 ## Conference Theme
 Humanism Recoded
 
