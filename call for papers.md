@@ -33,6 +33,7 @@ All accepted submissions will be presented during the conference and published i
 
 
 TOPICS OF INTEREST
+
 Robotics and autonomous systems
 Digital fabrication and hybrid craft
 Machine learning and artificial intelligence
@@ -54,6 +55,7 @@ Visual culture and digital representation
 
 
 CONFERENCE TRACKS
+
 Machines That Care
 Robotics and autonomous systems as partners in repair, craft, and cultural production.
 
@@ -86,8 +88,10 @@ Computational design within planetary urgencies.
 
 
 REVIEW PROCESS
+
 All submissions will undergo a double-blind peer review process coordinated by the Technical Chairs and Project Chairs in accordance with ACADIA standards. Submissions will be evaluated based on originality, rigor, relevance to the conference theme, and contribution to computational design research and practice.
 
 
 IMPORTANT DATES
+
 Submission deadlines, templates, and formatting guidelines will be announced following approval by the ACADIA Board. Updates will be posted on the ACADIA 2026 website.
