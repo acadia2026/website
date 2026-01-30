@@ -15,6 +15,8 @@ As artificial intelligence, robotics, automation, and advanced fabrication conti
 
 ACADIA 2026 welcomes submissions in the following categories:
 
+
+SUBMISSION TYPES
 Technical Papers
 
 Full-length research papers presenting original methodologies, theoretical frameworks, computational systems, or design research that advance discourse in computation, fabrication, and culture.
@@ -29,68 +31,63 @@ Short-form submissions offering critical provocations, in-progress research, ref
 
 All accepted submissions will be presented during the conference and published in the ACADIA 2026 Proceedings.
 
-Submissions may address, but are not limited to, the following topics:
 
+TOPICS OF INTEREST
 Robotics and autonomous systems
-
 Digital fabrication and hybrid craft
-
 Machine learning and artificial intelligence
-
 Generative algorithms and predictive simulation
-
-Extended reality (VR, AR, MR)
-
+Extended reality including VR, AR, and MR
 Digital heritage and computational preservation
-
 Material innovation and bio-design
-
 Circular construction and low-carbon workflows
-
 Human–computer interaction and interactive systems
-
 Collective intelligence and multi-agent systems
-
 Computational design methods and simulation frameworks
-
 Digital storytelling and algorithmic narratives
-
 Computational landscape and territorial design
-
 Data ethics and algorithmic bias
-
 Pedagogies of computational design
-
 Speculative design and world-building
-
 Public technologies and equitable infrastructures
-
 Visual culture and digital representation
 
-Submissions will be organized across thematic tracks, including:
 
-Machines That Care – Robotics and autonomous systems as partners in repair, craft, and cultural production
+CONFERENCE TRACKS
+Machines That Care
+Robotics and autonomous systems as partners in repair, craft, and cultural production.
 
-Embodied Codes – Computation situated in bodies, practices, and local contexts
+Embodied Codes
+Computation situated in bodies, practices, and local contexts.
 
-Algorithmic Fictions – AI as narrator, collaborator, and storyteller
+Algorithmic Fictions
+Artificial intelligence as narrator, collaborator, and storyteller.
 
-Material Worlds – Circular systems, craft traditions, and experimental fabrication
+Material Worlds
+Circular systems, craft traditions, and experimental fabrication.
 
-Eco-Digital Fusion – Living materials, synthetic ecologies, and environmental computation
+Eco-Digital Fusion
+Living materials, synthetic ecologies, and environmental computation.
 
-Collective Intelligence – Shared authorship across humans, machines, and communities
+Collective Intelligence
+Shared authorship across humans, machines, and communities.
 
-Digital Commons – Technology as infrastructure for participation and equity
+Digital Commons
+Technology as infrastructure for participation and equity.
 
-Temporal Layers – Computation, memory, and digital heritage
+Temporal Layers
+Computation, memory, and digital heritage.
 
-Speculative Grounds – Design fictions and cultural imaginaries
+Speculative Grounds
+Design fictions and cultural imaginaries.
 
-Climate Matters – Computational design within planetary urgencies
+Climate Matters
+Computational design within planetary urgencies.
 
+
+REVIEW PROCESS
 All submissions will undergo a double-blind peer review process coordinated by the Technical Chairs and Project Chairs in accordance with ACADIA standards. Submissions will be evaluated based on originality, rigor, relevance to the conference theme, and contribution to computational design research and practice.
 
-Submission deadlines, templates, and formatting guidelines will be announced following approval by the ACADIA Board.
-Updates will be posted on the ACADIA 2026 website.
 
+IMPORTANT DATES
+Submission deadlines, templates, and formatting guidelines will be announced following approval by the ACADIA Board. Updates will be posted on the ACADIA 2026 website.
