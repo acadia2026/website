@@ -23,22 +23,3 @@ The College supports this work through advanced fabrication and prototyping faci
 
 
 {% include post-gallery.html category="technical" %}
-{% comment %}
----------------
-## WORKSHOP CHAIRS
-
-
-{% include post-gallery.html category="workshop" %}
-
----------------
-## EXHIBITION CHAIRS
-
-
-{% include post-gallery.html category="exhibition" %}
-
----------------
-## INDUSTRY AND PRACTICE CHAIRS
-
-
-{% include post-gallery.html category="industry" %}
-{% endcomment %}
