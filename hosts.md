@@ -23,7 +23,7 @@ The College supports this work through advanced fabrication and prototyping faci
 
 
 {% include post-gallery.html category="technical" %}
-
+{% comment %}
 ---------------
 ## WORKSHOP CHAIRS
 
@@ -41,3 +41,4 @@ The College supports this work through advanced fabrication and prototyping faci
 
 
 {% include post-gallery.html category="industry" %}
+{% endcomment %}
