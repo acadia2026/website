@@ -7,6 +7,7 @@ permalink: /shahin-vassigh
 project: true
 category: chair
 thumbnail: assets/images/organizers/chairs/sv.jpg
+published: false
 
 ---
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
