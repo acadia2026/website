@@ -6,6 +6,7 @@ caption: Marilys Nepomechie
 permalink: /Marilys Nepomechie
 category: industry
 thumbnail: assets/images/organizers/cochairs/mn.png
+published: false
 
 ---
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
