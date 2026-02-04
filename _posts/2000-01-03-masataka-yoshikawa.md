@@ -4,7 +4,7 @@ title: "Masataka Yoshikawa"
 caption: Masataka Yoshikawa
 categories:
   - workshop
-thumbnail: /assets/images/organizers/workshop/masataka-yoshikawa.jpg
+thumbnail: assets/images/organizers/workshop/masataka-yoshikawa.jpg
 permalink: /masataka-yoshikawa/
 ---
 
