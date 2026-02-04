@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Masataka Oshikawa"
-caption: Masataka Oshikawa
+title: "Masataka Yoshikawa"
+caption: Masataka Yoshikawa
 categories:
   - workshop
-permalink: /masataka-oshikawa/
+permalink: /masataka-Yoshikawa/
 ---
 
 ## Masataka Oshikawa
