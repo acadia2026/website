@@ -6,34 +6,36 @@ baseurl: "/website"
 logo: "/assets/images/acadia_logo.png"
 2025logo: "/assets/images/logo-l.png"
 
-
 header_pages:
-  # - index.md
-  - schedule.md    
-  - title: Attend
-    children:
-      - registration.md
+  # - schedule.md    
+
+  # - title: Attend
+  #   children:
+  #     - registration.md
+
   - title: Submit
     children:
       - workshops-call.md
       - call for papers.md
       - book-forum.md
-  - title: Program
-    children:
-      - workshops.md
-      - awards.md
-      - gallery.md
+
+  # - title: Program
+  #   children:
+  #     - workshops.md
+  #     - awards.md
+  #     - gallery.md
+
   - title: About
     children:
       - miami.md
       - hosts.md
-  - sponsors.md
+
+  # - sponsors.md
 
 style: light
 
 footer: 'follow us on <a href="https://www.instagram.com/acadiaorg/">Instagram</a>'
 
-# Build settings
 markdown: kramdown
 remote_theme: b2a3e8/jekyll-theme-console
 plugins:
