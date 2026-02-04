@@ -26,5 +26,29 @@ The College supports this work through advanced fabrication and prototyping faci
 ---------------
 #### TECHNICAL CHAIRS
 
+{% include post-gallery.html
+  category="technical"
+  auto_naming="true"
+  image_path="assets/images/organizers/technical/"
+  image_size="medium"
+  aspect_ratio="square" %}
 
-{% include post-gallery.html category="technical" %}
+---------------
+#### WORKSHOP CHAIRS
+
+{% include post-gallery.html
+  category="workshop"
+  auto_naming="true"
+  image_path="assets/images/organizers/workshop/"
+  image_size="medium"
+  aspect_ratio="square" %}
+
+  ---------------
+#### EXHIBITION CHAIRS
+
+{% include post-gallery.html
+  category="exhibition"
+  auto_naming="true"
+  image_path="assets/images/organizers/exhibition/"
+  image_size="medium"
+  aspect_ratio="square" %}
