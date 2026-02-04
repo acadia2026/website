@@ -4,6 +4,7 @@ title: "Gretchen Wilkins"
 caption: Gretchen Wilkins
 categories:
   - technical
+thumbnail: /assets/images/organizers/technical/gretchen-wilkins.jpg
 permalink: /gretchen-wilkins/
 ---
 
