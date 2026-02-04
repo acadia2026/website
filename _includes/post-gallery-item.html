@@ -28,7 +28,7 @@
   {% comment %} Generate image filename from caption and title {% endcomment %}
   {% assign caption_slug = post.caption | slugify %}
   {% assign title_slug = post.title | slugify %}
-  {% assign auto_image_path = image_path | append: caption_slug | append: ' - ' | append: title_slug | append: '.png' %}
+ {% assign auto_image_path = image_path | append: caption_slug | append: '.jpg' %}
   
   {% comment %} Check if auto-generated image exists, otherwise use thumbnail {% endcomment %}
   {% assign image_src = post.thumbnail %}
