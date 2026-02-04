@@ -6,6 +6,7 @@ caption: Shawna Meyer
 permalink: /Shawna Meyer 
 category: technical
 thumbnail: assets/images/organizers/cochairs/sm.jfif
+published: false
 
 ---
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
