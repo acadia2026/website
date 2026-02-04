@@ -4,7 +4,7 @@ url: "https://acadia2026.github.io"
 baseurl: "/website"
 
 logo: "/assets/images/acadia_logo.png"
-2025logo: "/assets/images/logo-l.png"
+2026logo: "/assets/images/2026_logo.png"
 
 header_pages:
   # - schedule.md    
