@@ -13,11 +13,11 @@ header_pages:
   #   children:
   #     - registration.md
 
-  - title: Submit
-    children:
-      - workshops-call.md
-      - call for papers.md
-      - book-forum.md
+ - title: Submit
+  children:
+    - call for papers.md
+    # - workshops-call.md
+    # - book-forum.md
 
   # - title: Program
   #   children:
