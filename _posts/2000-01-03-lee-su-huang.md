@@ -4,6 +4,7 @@ title: "Lee Su Huang"
 caption: Lee Su Huang
 categories:
   - site
+thumbnail: /assets/images/organizers/site/lee-su-huang.jpg
 permalink: /lee-su-huang/
 ---
 
