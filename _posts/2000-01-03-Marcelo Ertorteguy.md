@@ -6,6 +6,7 @@ caption: Marcelo Ertorteguy
 permalink: /Marcelo Ertorteguy
 category: exhibition
 thumbnail: assets/images/organizers/cochairs/me.jpg
+published: false
 
 ---
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
