@@ -5,7 +5,7 @@ caption: Masataka Yoshikawa
 categories:
   - workshop
 thumbnail: /assets/images/organizers/workshop/masataka-yoshikawa.jpg
-permalink: /masataka-Yoshikawa/
+permalink: /masataka-yoshikawa/
 ---
 
 ## Masataka Oshikawa
