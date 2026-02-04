@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "FULL NAME"
-caption: FULL NAME
+title: "Gretchen Wilkins"
+caption: Gretchen Wilkins
 categories:
-  - CATEGORYNAME
-permalink: /slug-name/
+  - technical
+permalink: /gretchen-wilkins/
 ---
 
-## FULL NAME
+## Gretchen Wilkins
 
-Add bio here.
+Insert Gretchen Wilkins’ bio here.
