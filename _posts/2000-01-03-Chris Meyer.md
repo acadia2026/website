@@ -6,6 +6,7 @@ caption: Chris Meyer
 permalink: /Chris Meyer
 category: technical
 thumbnail: assets/images/organizers/cochairs/cm.jfif
+published: false
 
 ---
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
