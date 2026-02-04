@@ -6,6 +6,7 @@ caption: Maxwell Jarosz
 permalink: /Maxwell-Jarosz 
 category: chair
 thumbnail: assets/images/organizers/chairs/mj.png
+published: false
 
 ---
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
