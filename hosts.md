@@ -17,7 +17,8 @@ The College supports this work through advanced fabrication and prototyping faci
 ---------------
 #### SITE CHAIRS
 
-{% include post-gallery.html category="chair" %}
+{% include post-gallery.html category="site" %}
+
 ---------------
 #### TECHNICAL CHAIRS
 
