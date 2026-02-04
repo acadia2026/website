@@ -41,8 +41,8 @@
 {% endif %}
 
 <li style="width: var(--gallery-item-width);">
-  <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
-    <img src="{{ image_src }}" 
+  <a href="{{ post.url | relative_url }}" title="{{ post.title }}">
+    <img src="{{ image_src | relative_url }}" 
          alt="{{ post.title }}" 
          title="{{ post.title }}"
          {% if aspect_ratio %}class="aspect-{{ aspect_ratio }}"{% endif %}
@@ -51,4 +51,4 @@
       <span>{{ post.caption }}</span>
     {% endif %}
   </a>
-</li> 
+</li>
