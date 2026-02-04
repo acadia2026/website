@@ -6,9 +6,11 @@ caption: Katarzyna Balug
 permalink: /Katarzyna Balug
 category: technical
 thumbnail: assets/images/organizers/cochairs/kb.jpg
-
+published: false
 ---
+
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
+
 
 ## Katarzyna Balug, Ph.D.
 Assistant Professor, FIU 
