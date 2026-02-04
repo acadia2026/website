@@ -6,6 +6,7 @@ caption: John Stuart
 permalink: /John Stuart
 category: industry
 thumbnail: assets/images/organizers/cochairs/js.jpg
+published: false
 
 ---
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
