@@ -8,6 +8,7 @@ project: true
 category: workshop
 thumbnail: assets/images/organizers/cochairs/lp.jpg
 published: false
+
 ---
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
 
