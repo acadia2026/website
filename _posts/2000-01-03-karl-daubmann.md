@@ -8,7 +8,7 @@ thumbnail: assets/images/organizers/site/karl-daubmann.jpg
 permalink: /karl-daubmann/
 ---
 
-![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
+![{{ page.title }}]({{ site.baseurl }}/{{ page.thumbnail }}){: class="post-thumbnail" }
 
 ## Karl Daubmann
 
