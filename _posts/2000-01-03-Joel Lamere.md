@@ -6,6 +6,7 @@ caption: Joel Lamere
 permalink: /Joel Lamere
 category: technical
 thumbnail: assets/images/organizers/cochairs/jl.jpg
+published: false
 
 ---
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
