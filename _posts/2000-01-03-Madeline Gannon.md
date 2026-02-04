@@ -6,6 +6,7 @@ caption: Madeline Gannon
 permalink: /Madeline Gannon
 category: industry
 thumbnail: assets/images/organizers/cochairs/mg.jpg
+published: false
 
 ---
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
