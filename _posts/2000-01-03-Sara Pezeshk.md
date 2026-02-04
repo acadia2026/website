@@ -6,6 +6,7 @@ caption: Sara Pezeshk
 permalink: /Sara Pezeshk
 category: technical
 thumbnail: assets/images/organizers/cochairs/sp.jpg
+published: false
 
 ---
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
