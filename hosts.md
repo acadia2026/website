@@ -9,7 +9,7 @@ permalink: /hosts
 ---------------
 #### HOSTS 
 
-ACADIA 2026 will be hosted by [Lawrence Technological University](https://ltu.edu/), College of Architecture and Design, in the Detroit metropolitan region. Situated within a city historically shaped by industrial innovation and architectural experimentation, LTU CoAD is recognized for its emphasis on technology-driven design education, computational workflows, and hands-on making.
+ACADIA 2026 will be hosted by [Lawrence Technological University](https://ltu.edu/), [College of Architecture and Design](https://www.ltu.edu/architecture_and_design/), in the Detroit metropolitan region. Situated within a city historically shaped by industrial innovation and architectural experimentation, LTU CoAD is recognized for its emphasis on technology-driven design education, computational workflows, and hands-on making.
 
 The College supports this work through advanced fabrication and prototyping facilities, including digital manufacturing and robotics resources, and maintains strong connections to Detroit’s design, manufacturing, and technology communities. This institutional focus, combined with Detroit’s ongoing role as a center for design, production, and cultural reinvention, provides a fitting context for hosting ACADIA 2026.
 
