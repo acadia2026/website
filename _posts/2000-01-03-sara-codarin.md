@@ -2,10 +2,12 @@
 layout: post
 title: "Sara Codarin"
 caption: Sara Codarin
+thumbnail: /assets/images/organizers/technical/sara-codarin.jpg
 categories:
   - technical
 permalink: /sara-codarin/
 ---
+
 
 ## Sara Codarin
 
