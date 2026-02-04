@@ -2,10 +2,13 @@
 layout: post
 title: "Karl Daubmann"
 caption: Karl Daubmann
-category: site
-permalink: /karl-daubmann/
+categories:
+  - site
 thumbnail: assets/images/organizers/site/karl-daubmann.jpg
+permalink: /karl-daubmann/
 ---
+
+![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
 
 ## Karl Daubmann
 
