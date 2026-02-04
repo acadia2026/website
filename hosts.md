@@ -13,7 +13,8 @@ ACADIA 2026 will be hosted by [Lawrence Technological University](https://ltu.ed
 
 The College supports this work through advanced fabrication and prototyping facilities, including digital manufacturing and robotics resources, and maintains strong connections to Detroit’s design, manufacturing, and technology communities. This institutional focus, combined with Detroit’s ongoing role as a center for design, production, and cultural reinvention, provides a fitting context for hosting ACADIA 2026.
 
-{% include post-gallery.html category="site" %}
+<!-- {% include post-gallery.html category="site" %} -->
+
 ---------------
 #### SITE CHAIRS
 
