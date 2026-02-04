@@ -6,6 +6,7 @@ caption: Bhavleen Kaur
 permalink: /Bhavleen Kaur 
 category: technical
 thumbnail: assets/images/organizers/cochairs/bk.png
+published: false
 
 ---
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
