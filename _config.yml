@@ -1,9 +1,11 @@
-title: 'ACADIA'
-description: "2025 ACADIA CONFERENCE"
-baseurl: ""
-url: "https://2025.acadia.org"
+title: "ACADIA"
+description: "ACADIA 2026 CONFERENCE"
+url: "https://acadia2026.github.io"
+baseurl: "/website"
+
 logo: "/assets/images/acadia_logo.png"
 2025logo: "/assets/images/logo-l.png"
+
 
 header_pages:
   # - index.md
