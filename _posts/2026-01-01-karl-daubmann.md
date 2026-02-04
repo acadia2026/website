@@ -2,8 +2,7 @@
 layout: post
 title: "Karl Daubmann"
 caption: Karl Daubmann
-categories:
-  - site
+category: site
 ---
 
 ## Karl Daubmann
