@@ -11,22 +11,22 @@ The conference peer-review process is organized around calls for technical paper
 
 ACADIA 2026 invites contributions, including but not limited to the following areas:
 
-Artificial Intelligence and AI-driven Design  
-Augmented Reality and Simulation  
-Authonomy and Human Agency  
-Biodesign and Climate Responsive Architecture  
-Computational Design  
-Data Capture and Sensing  
-Design-build and Construction  
-Digital Fabrication  
-Ethics and Data Practices  
-Human-Computer Interaction and Human-Robot Interaction  
-Material Computation  
-Pedagogies and Philosophies  
-Robotics and Automation  
-Simulation, Predictive Modeling  
-Spatial Computing and Extended Reality  
-Theory and Cultural Frameworks  
+   Artificial Intelligence and AI-driven Design  
+   Augmented Reality and Simulation  
+   Autonomy and Human Agency  
+   Biodesign and Climate Responsive Architecture  
+   Computational Design  
+   Data Capture and Sensing  
+   Design-build and Construction  
+   Digital Fabrication  
+   Ethics and Data Practices  
+   Human-Computer Interaction and Human-Robot Interaction  
+   Material Computation  
+   Pedagogies and Philosophies  
+   Robotics and Automation  
+   Simulation, Predictive Modeling  
+   Spatial Computing and Extended Reality  
+   Theory and Cultural Frameworks 
 
 We anticipate several subthemes for the call for submissions, framing broad areas of inquiry and establishing thematic orientations, including:
 
@@ -59,29 +59,26 @@ Computation and making within planetary urgencies.
 ### SUBMISSION INFORMATION AND DEADLINES
 ### 1. Technical Papers
 Full-length research papers presenting original methodologies, theoretical frameworks, computational systems, or design research that advance discourse in computation, fabrication, and culture.
-Submission Requirements: Full papers (4,000 words) are invited for submission. All paper submissions are subject to blind peer review. Accepted papers will be published in the conference proceedings, and authors will be invited to present at the conference. Published papers will be included in the CumInCad database and assigned a DOI. All ACADIA papers are searchable through Web of Science Platform and Scopus.
-#### Deadline: April 19, 2026, 11:59 pm AoE
-#### Notification of Acceptance: Late May, 2026
-#### Revised Papers Due: Late June, 2026
-Please use the ACADIA 2026 Papers Style Guide for formatting your submission, and review the  ACADIA Artificial Intelligence and Collaborative Authorship Policies prior to submitting your work.
+Submission Requirements: Full papers (4,000 words) are invited for submission. All paper submissions are subject to blind peer review. Accepted papers will be published in the conference proceedings, and authors will be invited to present at the conference. Published papers will be included in the CumInCad database and assigned a DOI. All ACADIA papers are searchable through Web of Science Platform and Scopus.  
+**Deadline: April 19, 2026, 11:59 pm PST  
+Notification of Acceptance: May, 2026  
+Revised Papers Due: June, 2026**  
 
 ### 2. Projects
 Built work, speculative prototypes, installations, or experimental workflows demonstrating the integration of computational tools with material, cultural, or social contexts.
 Submission Requirements: 600-word text (excluding citations and captions) plus a maximum of 10 images.
-Details: Project submissions will be blind peer-reviewed. Projects will be published in the conference proceedings and exhibited as posters in the Exhibition. Select submissions may be invited to present in the plenary sessions and/or participate in a discussion panel during the conference. Published projects will be included in the CumInCad database and assigned a DOI. All ACADIA projects are searchable through Web of Science Platform and Scopus.
-#### Deadline: May 17, 2026, 11:59 pm AoE
-#### Notification of Acceptance: Late June, 2026
-#### Revised Papers Due: Late July, 2026
-Please use the ACADIA 2026 Projects Style Guide for formatting your submission, and review the ACADIA Artificial Intelligence and Collaborative Authorship Policies prior to submitting your work.
+Details: Project submissions will be blind peer-reviewed. Projects will be published in the conference proceedings and exhibited as posters in the Exhibition. Select submissions may be invited to present in the plenary sessions and/or participate in a discussion panel during the conference. Published projects will be included in the CumInCad database and assigned a DOI. All ACADIA projects are searchable through Web of Science Platform and Scopus.  
+**Deadline: May 17, 2026, 11:59 pm PST  
+Notification of Acceptance: June, 2026  
+Revised Papers Due: July, 2026**  
 
 ### 3. Field Notes
 Short-form submissions offering critical provocations, in-progress research, reflective observations, or emerging practices that engage computation through situated, experimental, or exploratory approaches.
 Submission Requirements: 800–1,000 word texts max; images are permitted, and image-based essays are also welcome.
-Details: Field Notes are an invitation for shorter pieces that may include provocative artifacts regarding the culture and practice of computational design: experimental ideas, behind-the-scenes observations, brief narratives, provocations, and manifestos. Submissions will be jury-selected and published in the proceedings. Select submissions may be invited to present and/or participate in a discussion panel during the conference.
-#### Deadline: May 17, 2026, 11:59 pm AoE
-#### Notification of Acceptance: Late June, 2026
-#### Revised Papers Due: Late July, 2026
-Please use the ACADIA 2026 Field Notes Style Guide for formatting your submission, and review the  ACADIA Artificial Intelligence and Collaborative Authorship Policies prior to submitting your work.
+Details: Field Notes are an invitation for shorter pieces that may include provocative artifacts regarding the culture and practice of computational design: experimental ideas, behind-the-scenes observations, brief narratives, provocations, and manifestos. Submissions will be jury-selected and published in the proceedings. Select submissions may be invited to present and/or participate in a discussion panel during the conference.  
+**Deadline: May 17, 2026, 11:59 pm PST  
+Notification of Acceptance: June, 2026  
+Revised Papers Due: July, 2026**  
 
 ### REVIEW PROCESS
 
