@@ -4,7 +4,7 @@ title: "Hosts"
 permalink: /hosts/
 ---
 
-<section style="text-align:center; padding: 40px 0;">
+**<section style="text-align:center; padding: 40px 0;">
 
   <h1>HOSTS</h1>
 
@@ -23,7 +23,7 @@ permalink: /hosts/
 
   </div>
 
-</section>
+</section>**
 
 ---------------
 #### HOSTS 
