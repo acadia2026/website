@@ -6,6 +6,10 @@ categories:
   - workshop
 thumbnail: assets/images/organizers/workshop/masataka-yoshikawa.jpg
 permalink: /masataka-yoshikawa/
+role: "Assistant Professor of Architecture"
+email: myoshikaw@ltu.edu
+instagram: "@masataka.yoshikawa"
+website: "https://ltu.edu/faculty/yoshikawa-masataka/"
 ---
 
 ## Masataka Oshikawa
