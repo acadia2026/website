@@ -7,17 +7,17 @@ logo: "/assets/images/acadia_logo.png"
 2026logo: "/assets/images/2026_logo.png"
 
 header_pages:
-  # - schedule.md    
+  # - schedule.md
 
   # - title: Attend
   #   children:
   #     - registration.md
 
- - title: Submit
-  children:
-    - call for papers.md
-    # - workshops-call.md
-    # - book-forum.md
+  - title: Submit
+    children:
+      - call for papers.md
+      # - workshops-call.md
+      # - book-forum.md
 
   # - title: Program
   #   children:
