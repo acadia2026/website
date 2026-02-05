@@ -7,13 +7,19 @@ permalink: /hosts/
 <br>
 
 <div style="display:flex; gap:20px; flex-wrap:wrap; align-items:flex-start;">
+
   <a href="{{ site.baseurl }}/assets/images/ltu_campus.jpg">
-    <img src="{{ site.baseurl }}/assets/images/ltu_campus.jpg" alt="Lawrence Technological University Campus" style="max-width:420px; height:auto;">
+    <img src="{{ site.baseurl }}/assets/images/ltu_campus.jpg"
+         alt="Lawrence Technological University Campus"
+         style="width:420px !important; max-width:420px !important; height:auto !important; display:block;">
   </a>
 
   <a href="{{ site.baseurl }}/assets/images/ltu_taubman.jpg">
-    <img src="{{ site.baseurl }}/assets/images/ltu_taubman.jpg" alt="LTU Taubman Complex" style="max-width:420px; height:auto;">
+    <img src="{{ site.baseurl }}/assets/images/ltu_taubman.jpg"
+         alt="LTU Taubman Complex"
+         style="width:420px !important; max-width:420px !important; height:auto !important; display:block;">
   </a>
+
 </div>
 
 <div style="display:flex; gap:20px; flex-wrap:wrap;">
