@@ -6,6 +6,10 @@ categories:
   - technical
 thumbnail: assets/images/organizers/technical/sara-codarin.jpg
 permalink: /sara-codarin/
+role: "Assistant Professor of Architecture, LTU CoAD"
+email: scodarin@ltu.edu
+instagram: "@saracodarin"
+website: "https://www.saracodarin.com/"
 ---
 
 
