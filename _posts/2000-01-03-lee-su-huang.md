@@ -6,6 +6,10 @@ categories:
   - site
 thumbnail: assets/images/organizers/site/lee-su-huang.jpg
 permalink: /lee-su-huang/
+role: "Associate Professor of Architecture, LTU CoAD"
+email: lhuang1@ltu.edu
+instagram: "@huangleesu"
+website: "https://sh-o.us/"
 ---
 
 ## Lee Su Huang
