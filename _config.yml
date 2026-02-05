@@ -27,7 +27,7 @@ header_pages:
 
   - title: About
     children:
-      - miami.md
+      - detroit.md
       - hosts.md
 
   # - sponsors.md
