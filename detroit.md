@@ -6,6 +6,8 @@ permalink: /detroit/
 
 # Conference City: Detroit
 
+<img src="{{ site.baseurl }}/assets/images/detroit/hudson_site.jpg" alt="Hudson's Site Redevelopment, Detroit" style="max-width:700px; height:auto; margin-top:10px; margin-bottom:20px;">
+
 Detroit is a city defined by innovation, production, and reinvention. Known globally as the birthplace of the American automotive industry, Detroit has evolved into a center for creative production, advanced manufacturing, design research, and architectural experimentation. The city’s layered industrial heritage, adaptive reuse culture, and growing design community make it an ideal host location for ACADIA 2026.
 
 ---
