@@ -4,28 +4,32 @@ title: "Hosts"
 permalink: /hosts/
 ---
 
-**<section style="text-align:center; padding: 40px 0;">
+<br>
 
-  <h1>HOSTS</h1>
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
 
-  <!-- Host images -->
-  <div style="display:flex; justify-content:center; gap:40px; margin-top:40px; flex-wrap:wrap;">
-
-    <div style="text-align:center;">
-      <img src="/assets/images/organizers/ltu_campus.jpg" width="350" alt="LTU Campus">
-      <p><strong>Florida International University</strong></p>
-    </div>
-
-    <div style="text-align:center;">
-      <img src="/assets/images/organizers/ltu_taubman.jpg" width="350" alt="LTU Taubman">
-      <p><strong>University of Miami</strong></p>
-    </div>
-
+  <div style="text-align: center;">
+    <a href="{{ '/assets/images/organizers/ltu_campus.jpg' | relative_url }}">
+      <img src="{{ '/assets/images/organizers/ltu_campus.jpg' | relative_url }}"
+           alt="Lawrence Technological University Campus"
+           style="max-width: 400px; height: auto;">
+    </a>
+    <p>Lawrence Technological University Campus</p>
   </div>
 
-</section>**
+  <div style="text-align: center;">
+    <a href="{{ '/assets/images/organizers/ltu_taubman.jpg' | relative_url }}">
+      <img src="{{ '/assets/images/organizers/ltu_taubman.jpg' | relative_url }}"
+           alt="LTU Taubman Complex"
+           style="max-width: 400px; height: auto;">
+    </a>
+    <p>LTU Taubman Complex</p>
+  </div>
 
----------------
+</div>
+
+------------
+
 #### HOSTS 
 
 ACADIA 2026 will be hosted by [Lawrence Technological University](https://ltu.edu/), [College of Architecture and Design](https://www.ltu.edu/architecture_and_design/), in the Detroit metropolitan region. Situated within a city historically shaped by industrial innovation and architectural experimentation, LTU CoAD is recognized for its emphasis on technology-driven design education, computational workflows, and hands-on making.
