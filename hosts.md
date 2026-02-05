@@ -6,10 +6,11 @@ permalink: /hosts/
 
 <br>
 
-{% assign campus_img = site.baseurl | append: "/assets/images/organizers/ltu_campus.jpg" %}
-{% assign taubman_img = site.baseurl | append: "/assets/images/organizers/ltu_taubman.jpg" %}
+{% assign campus_img = site.baseurl | append: "/assets/images/ltu_campus.jpg" %}
+{% assign taubman_img = site.baseurl | append: "/assets/images/ltu_taubman.jpg" %}
 
 [![Lawrence Technological University Campus]({{ campus_img }})]({{ campus_img }}) &nbsp;&nbsp;&nbsp; [![LTU Taubman Complex]({{ taubman_img }})]({{ taubman_img }})
+
 
 
 ---
