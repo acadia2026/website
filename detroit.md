@@ -45,11 +45,13 @@ Visitors to Detroit will find a wide range of cultural, architectural, and publi
 - Ally Detroit Center  
 - Lafayette Park  
 
+
 **Design and Innovation Destinations**
 - Michigan Central Innovation District  
 - NewLab Detroit  
 - Cranbrook Educational Community  
 - Cranbrook Art Museum and Furniture Archive  
+
 
 **Cultural and Public Attractions**
 - Detroit Institute of Arts  
