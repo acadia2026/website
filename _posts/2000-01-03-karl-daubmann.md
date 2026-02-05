@@ -6,6 +6,10 @@ categories:
   - site
 thumbnail: assets/images/organizers/site/karl-daubmann.jpg
 permalink: /karl-daubmann/
+role: "Professor and Provost, LTU CoAD"
+email: kdaubmann@ltu.edu
+instagram: "@kmdaub"
+website: "https://www.daub-lab.com/"
 ---
 
 ![{{ page.title }}]({{ site.baseurl }}/{{ page.thumbnail }}){: class="post-thumbnail" }
