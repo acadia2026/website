@@ -6,9 +6,13 @@ permalink: /hosts/
 
 <br>
 
-| [![Lawrence Technological University Campus]({{ '/assets/images/organizers/ltu_campus.jpg' | relative_url }})]({{ '/assets/images/organizers/ltu_campus.jpg' | relative_url }}) | [![LTU Taubman Complex]({{ '/assets/images/organizers/ltu_taubman.jpg' | relative_url }})]({{ '/assets/images/organizers/ltu_taubman.jpg' | relative_url }}) |
+{% assign campus_img = '/assets/images/organizers/ltu_campus.jpg' | relative_url %}
+{% assign taubman_img = '/assets/images/organizers/ltu_taubman.jpg' | relative_url %}
+
+| [![Lawrence Technological University Campus]({{ campus_img }})]({{ campus_img }}) | [![LTU Taubman Complex]({{ taubman_img }})]({{ taubman_img }}) |
 | :--: | :--: |
 | Lawrence Technological University Campus | LTU Taubman Complex |
+
 
 ---
 
