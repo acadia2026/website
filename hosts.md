@@ -1,10 +1,36 @@
 ---
-title: /hosts
 layout: page
-permalink: /hosts
+title: "Hosts"
+permalink: /hosts/
 ---
 
-{% include animation.html pattern="  FIU & UM  " overlay_text="Hosting Institutions" width=600 height=300 %}
+<section style="text-align:center; padding: 40px 0;">
+
+  <h1>HOSTS</h1>
+
+  <!-- Banner image -->
+  <div style="margin: 20px 0;">
+    <img src="/assets/images/banner.png" width="800" alt="Hosts Banner">
+  </div>
+
+  <!-- Two‑column host images -->
+  <div style="display:flex; justify-content:center; gap:40px; margin-top:40px; flex-wrap:wrap;">
+
+    <div style="text-align:center;">
+      <img src="/assets/images/fiu.jpg" width="350" alt="FIU">
+      <p><strong>Florida International University</strong></p>
+    </div>
+
+    <div style="text-align:center;">
+      <img src="/assets/images/um.jpg" width="350" alt="University of Miami">
+      <p><strong>University of Miami</strong></p>
+    </div>
+
+  </div>
+
+  <h2 style="margin-top:60px;">SITE CHAIRS</h2>
+
+</section>
 
 ---------------
 #### HOSTS 
