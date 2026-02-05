@@ -8,27 +8,20 @@ permalink: /hosts/
 
   <h1>HOSTS</h1>
 
-  <!-- Banner image -->
-  <div style="margin: 20px 0;">
-    <img src="/assets/images/banner.png" width="800" alt="Hosts Banner">
-  </div>
-
-  <!-- Two‑column host images -->
+  <!-- Host images -->
   <div style="display:flex; justify-content:center; gap:40px; margin-top:40px; flex-wrap:wrap;">
 
     <div style="text-align:center;">
-      <img src="/assets/images/fiu.jpg" width="350" alt="FIU">
+      <img src="/assets/images/organizers/ltu_campus.jpg" width="350" alt="LTU Campus">
       <p><strong>Florida International University</strong></p>
     </div>
 
     <div style="text-align:center;">
-      <img src="/assets/images/um.jpg" width="350" alt="University of Miami">
+      <img src="/assets/images/organizers/ltu_taubman.jpg" width="350" alt="LTU Taubman">
       <p><strong>University of Miami</strong></p>
     </div>
 
   </div>
-
-  <h2 style="margin-top:60px;">SITE CHAIRS</h2>
 
 </section>
 
