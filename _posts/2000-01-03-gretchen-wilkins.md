@@ -6,6 +6,11 @@ categories:
   - technical
 thumbnail: assets/images/organizers/technical/gretchen-wilkins.jpg
 permalink: /gretchen-wilkins/
+
+role: "Chair and Associate Professor of Architecture, LTU CoAD"
+email: "gwilkins1@ltu.edu"
+instagram: "grtnwilkins"
+website: "https://ltu.edu/faculty/gretchen-wilkins/"
 ---
 
 ## Gretchen Wilkins
