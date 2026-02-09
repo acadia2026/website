@@ -8,15 +8,18 @@ permalink: /
 
 ---
 
-# ACADIA 2026  
-## Computing for Resilience
+### Technical Papers Deadline: April 19, 2026
+### Projects and Field Notes Deadline: May 17, 2026
 
-ACADIA 2026 will explore how computational design, digital fabrication, and emerging technologies can support resilient futures in architecture, urbanism, and the built environment. This year’s conference is hosted by **Lawrence Technological University’s College of Architecture and Design**, located in the Detroit metropolitan region — a city shaped by innovation, production, and reinvention.
+# ACADIA 2026 Humanism Recoded
 
-The conference will bring together researchers, designers, educators, and industry leaders to examine how computation can strengthen ecological, social, and material resilience across scales. Through peer‑reviewed papers, workshops, exhibitions, and keynote events, ACADIA 2026 will highlight new methods, tools, and frameworks that respond to the challenges and opportunities of our rapidly changing world.
+### Reframing Computation and Making through Embodiment and Culture  
+Humanism Recoded opens a conversation around design and research strategies that leverage digital technologies, robotics, computation, algorithms, material innovation, and advanced fabrication to humanize our visions for the future. This year’s conference is hosted by **[Lawrence Technological University’s College of Architecture and Design](https://ltu.edu/architecture-design/)**, located in the Detroit metropolitan region — a city shaped by innovation, production, and reinvention.
+
+The conference will bring together researchers, designers, educators, and industry leaders to examine how computation can be a humanistic force capable of generating meaningful digital and physical experiences, grounded in local specificity and global responsibility. Through peer‑reviewed papers, workshops, exhibitions, and keynote events, ACADIA 2026 will highlight new methods, tools, and frameworks that respond to the challenges and opportunities of our rapidly changing world.
 
 ### Coming Soon
-- Call for Papers  
+- Book Forum Submissions  
 - Workshops  
 - Exhibition Details  
 - Keynote Announcements  
