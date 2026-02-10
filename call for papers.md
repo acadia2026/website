@@ -7,54 +7,70 @@ permalink: /call-for-papers
 # Call for Submissions
 The conference peer-review process is organized around calls for technical papers, projects, and field notes. Technical papers present original research, methodologies, and theoretical frameworks that advance discourse on computation, making, and cultural practices. Project presentations focus on built work, speculative prototypes, and experimental workflows that connect technology with design culture. Field notes provide concise reflections, critical provocations, and in-progress investigations that document emerging practices.
 
+---
+
 ### Conference Theme: Humanism Recoded
 
 ACADIA 2026 invites contributions, including but not limited to the following areas:
 
-   Artificial Intelligence and AI-driven Design  
-   Augmented Reality and Simulation  
-   Autonomy and Human Agency  
-   Biodesign and Climate Responsive Architecture  
-   Computational Design  
-   Data Capture and Sensing  
-   Design-build and Construction  
-   Digital Fabrication  
-   Ethics and Data Practices  
-   Human-Computer Interaction and Human-Robot Interaction  
-   Material Computation  
-   Pedagogies and Philosophies  
-   Robotics and Automation  
-   Simulation, Predictive Modeling  
-   Spatial Computing and Extended Reality  
-   Theory and Cultural Frameworks 
+- Artificial Intelligence and AI-driven Design
+- Augmented Reality and Simulation
+- Autonomy and Human Agency
+- Biodesign and Climate Responsive Architecture
+- Computational Design
+- Data Capture and Sensing
+- Design-build and Construction
+- Digital Fabrication
+- Ethics and Data Practices
+- Human-Computer Interaction and Human-Robot Interaction
+- Material Computation
+- Pedagogies and Philosophies
+- Robotics and Automation
+- Simulation, Predictive Modeling
+- Spatial Computing and Extended Reality
+- Theory and Cultural Frameworks
+
+---
 
 We anticipate several subthemes for the call for submissions, framing broad areas of inquiry and establishing thematic orientations, including:
 
-### Machines that Care
-Robotics and autonomous systems reimagined as partners in repair, care, and cultural making.
-### Embodied Codes
-Computation situated in bodies, practices, and local contexts.
-### Algorithmic Fictions
-AI as narrator, collaborator, and storyteller of shared futures.
-### Humanistic Inquiries
-Critical perspectives on computation, making, and cultural practice.
-### Material Worlds
-Circular systems, craft traditions, and experimental fabrication.
-### Eco-Digital Fusion
-Living materials and synthetic ecologies in design workflows.
-### Collective Intelligence
-Shared authorship across humans, machines, and communities.
-### Digital Commons
-Technology as infrastructure for equity and participation.
-### Built Grounds
-Architecture as a site of making, use, and collective life.
-### Temporal Layers
-Design and heritage in dialogue with history and memory.
-### Speculative Grounds
-Design fictions, non-linear worlds, and cultural imaginaries.
-### Climate Matters
-Computation and making within planetary urgencies.
+- **Machines that Care**  
+  Robotics and autonomous systems reimagined as partners in repair, care, and cultural making.
 
+- **Embodied Codes**  
+  Computation situated in bodies, practices, and local contexts.
+
+- **Algorithmic Fictions**  
+  AI as narrator, collaborator, and storyteller of shared futures.
+
+- **Humanistic Inquiries**  
+  Critical perspectives on computation, making, and cultural practice.
+
+- **Material Worlds**  
+  Circular systems, craft traditions, and experimental fabrication.
+
+- **Eco-Digital Fusion**  
+  Living materials and synthetic ecologies in design workflows.
+
+- **Collective Intelligence**  
+  Shared authorship across humans, machines, and communities.
+
+- **Digital Commons**  
+  Technology as infrastructure for equity and participation.
+
+- **Built Grounds**  
+  Architecture as a site of making, use, and collective life.
+
+- **Temporal Layers**  
+  Design and heritage in dialogue with history and memory.
+
+- **Speculative Grounds**  
+  Design fictions, non-linear worlds, and cultural imaginaries.
+
+- **Climate Matters**  
+  Computation and making within planetary urgencies.
+
+---
 
 ### SUBMISSION INFORMATION AND DEADLINES
 ### 1. Technical Papers
