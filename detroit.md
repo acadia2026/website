@@ -82,5 +82,16 @@ However, the greater Metro Detroit area is a car-centric metropolis, so it is ge
 
 # Suggested Reading  
 
-- **[Detroit: The Dream Is Now: The Design, Art, and Resurgence of an American City](https://www.amazon.com/Detroit-Dream-Design-Resurgence-American/dp/1419723928)** by Michel Arnaud  
-- **[Building the Modern World: Albert Kahn in Detroit](https://www.amazon.com/Building-Modern-World-Detroit-Painted/dp/0814340350)** by Michael H. Hodges 
+# Suggested Reading
+
+- **Michel Arnaud — *Detroit: The Dream Is Now: The Design, Art, and Resurgence of an American City***  
+  [View Book](https://www.amazon.com/Detroit-Dream-Design-Resurgence-American/dp/1419723928)
+- **Michael H. Hodges — *Building the Modern World: Albert Kahn in Detroit***  
+  [View Book](https://www.amazon.com/Building-Modern-World-Detroit-Painted/dp/0814340350)
+- **Dale Guyer — *Minoru Yamasaki: Humanist Architecture for a Modernist World***  
+  [View Book](https://www.amazon.com/Minoru-Yamasaki-Humanist-Architecture-Modernist-ebook/dp/B0798MHV9R)
+- **Anirban Adhya — *Shrinking Cities and First Suburbs: The Case of Detroit and Warren, Michigan***  
+  [View Book](https://www.amazon.com/Shrinking-Cities-First-Suburbs-Michigan-ebook/dp/B06XF4137J)
+
+
+
