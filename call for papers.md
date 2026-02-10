@@ -30,45 +30,20 @@ ACADIA 2026 invites contributions, including but not limited to the following ar
 - Spatial Computing and Extended Reality
 - Theory and Cultural Frameworks
 
----
-
 We anticipate several subthemes for the call for submissions, framing broad areas of inquiry and establishing thematic orientations, including:
 
-- **Machines that Care**  
-  Robotics and autonomous systems reimagined as partners in repair, care, and cultural making.
-
-- **Embodied Codes**  
-  Computation situated in bodies, practices, and local contexts.
-
-- **Algorithmic Fictions**  
-  AI as narrator, collaborator, and storyteller of shared futures.
-
-- **Humanistic Inquiries**  
-  Critical perspectives on computation, making, and cultural practice.
-
-- **Material Worlds**  
-  Circular systems, craft traditions, and experimental fabrication.
-
-- **Eco-Digital Fusion**  
-  Living materials and synthetic ecologies in design workflows.
-
-- **Collective Intelligence**  
-  Shared authorship across humans, machines, and communities.
-
-- **Digital Commons**  
-  Technology as infrastructure for equity and participation.
-
-- **Built Grounds**  
-  Architecture as a site of making, use, and collective life.
-
-- **Temporal Layers**  
-  Design and heritage in dialogue with history and memory.
-
-- **Speculative Grounds**  
-  Design fictions, non-linear worlds, and cultural imaginaries.
-
-- **Climate Matters**  
-  Computation and making within planetary urgencies.
+- **Machines that Care** — Robotics and autonomous systems reimagined as partners in repair, care, and cultural making.
+- **Embodied Codes** — Computation situated in bodies, practices, and local contexts.
+- **Algorithmic Fictions** — AI as narrator, collaborator, and storyteller of shared futures.
+- **Humanistic Inquiries** — Critical perspectives on computation, making, and cultural practice.
+- **Material Worlds** — Circular systems, craft traditions, and experimental fabrication.
+- **Eco-Digital Fusion** — Living materials and synthetic ecologies in design workflows.
+- **Collective Intelligence** — Shared authorship across humans, machines, and communities.
+- **Digital Commons** — Technology as infrastructure for equity and participation.
+- **Built Grounds** — Architecture as a site of making, use, and collective life.
+- **Temporal Layers** — Design and heritage in dialogue with history and memory.
+- **Speculative Grounds** — Design fictions, non-linear worlds, and cultural imaginaries.
+- **Climate Matters** — Computation and making within planetary urgencies.
 
 ---
 
