@@ -20,51 +20,67 @@ Today, Detroit supports a growing network of design professionals, fabrication s
 
 ---
 
-## Architecture and Design Culture
+# Detroit Architecture  
+Detroit and its surroundings offer a rich collection of Art Deco landmarks and signature works by architects such as Mies van der Rohe, Minoru Yamasaki, and Philip Johnson. The recently restored Michigan Central Station is emerging as a new cultural hub in Corktown. 
+Plan a walking tour through Midtown and Downtown to experience this architectural heritage, or a field trip 10 miles north to visit the Cranbrook Academy of Art campus.
 
-Detroit offers a remarkable architectural landscape representing multiple eras of design, technological innovation, and urban development.
-
-The city’s historic downtown features major Art Deco landmarks such as the Guardian Building and the Fisher Building, both celebrated for their elaborate material expression and craftsmanship. Modernist architecture is equally prominent, including Lafayette Park, designed by Ludwig Mies van der Rohe, and One Woodward Avenue by Minoru Yamasaki.
-
-Recent revitalization efforts further highlight Detroit’s design leadership. The transformation of Michigan Central Station into a global innovation hub and the development of NewLab Detroit demonstrate the city’s ongoing commitment to technological research, mobility innovation, and design entrepreneurship.
-
-Nearby, the Cranbrook Educational Community in Bloomfield Hills represents one of the most influential centers for architecture, art, and design education in North America. Designed in part by Eliel Saarinen, Cranbrook continues to serve as a foundational institution in American modernist design history.
-
----
-
-## Points of Interest
-
-Visitors to Detroit will find a wide range of cultural, architectural, and public destinations throughout the region.
-
-**Downtown Detroit Architecture**
-- Guardian Building  
-- Fisher Building  
-- Renaissance Center  
-- Ally Detroit Center  
-- Lafayette Park  
+- **[The Renaissance Center](https://gmrencen.com/)** by John Portman & Associates  
+- **[Michigan Central](https://michigancentral.com/)** by Quinn Evans(restoration)  
+- **[NewLab Detroit](https://www.newlab.com/locations/detroit)** by Albert Kahn / Gensler  
+- **[Hudson's Detroit](https://www.hudsons-detroit.com/)** by SHoP Architects
+- **[Ally Detroit Center](https://www.bedrockdetroit.com/property/ally-detroit-center/)** by Philip Johnson & John Burgee  
+- **[One Woodward Avenue](https://historicdetroit.org/buildings/one-woodward-avenue)** by Minoru Yamasaki  
+- **[The Guardian Building](https://www.guardianbuilding.com/)** by Wirt C. Rowland (Smith, Hinchman & Grylls)
+- **[1300 Lafayette East](https://www.michiganmodern.org/modern-buildings/1300-lafayette-east/)** by Gunnar Birkerts (Birkerts & Straub)
+- **[Lafayette Park](https://www.miesdetroit.org/)** by Mies Van Der Rohe
+- **[McGregor Memorial Conference Center](https://mcgregor.wayne.edu/)** by Minoru Yamasaki  
+- **[Cranbrook Art Museum](https://cranbrookartmuseum.org/)** by Eliel Saarinen  
+- **[Cranbrook Williams Natatorium](https://schools.cranbrook.edu/the-place/williams-natatorium)** by Tod Williams and Billie Tsien  
+- **[Little Caesars Arena](https://visitdetroit.com/directory/little-caesars-arena/)** by HOK
+- **[Michigan Modern Websiite](https://www.michiganmodern.org/)**   
 
 
-**Design and Innovation Destinations**
-- Michigan Central Innovation District  
-- NewLab Detroit  
-- Cranbrook Educational Community  
-- Cranbrook Art Museum and Furniture Archive  
-
-
-**Cultural and Public Attractions**
-- Detroit Institute of Arts  
-- Motown Museum  
-- Eastern Market  
-- Belle Isle Park  
-- Detroit Riverwalk  
-- Campus Martius Park  
-
-These destinations highlight Detroit’s unique blend of historic preservation, urban revitalization, and design innovation.
+{% include image-gallery.html folder="/assets/images/detroit/arch" %}
 
 ---
 
-## Travel Information
+# Additional Sights  
 
-Detroit Metropolitan Wayne County Airport (DTW) serves as the primary airport for conference attendees. DTW is a major international and domestic travel hub and is located approximately 25–35 minutes from downtown Detroit and Lawrence Technological University.
+- **[Eastern Market](https://easternmarket.org/)**
+  2934 Russell Street, Detroit MI 48207  
 
-Lawrence Technological University, located in Southfield, Michigan, will serve as the host institution for ACADIA 2026.
+- **[Detroit Riverwalk](https://www.detroitriverfront.org/)**
+  1340 Atwater St, Detroit, MI 48207
+
+- **[MotorCity Casino](https://www.motorcitycasino.com/)**
+  1340 Atwater St, Detroit, MI 48207 
+
+- **[Belle Isle State Park](https://www.michigan.gov/recsearch/parks/belleisle)**
+  99 Pleasure Drive Detroit, Michigan 48207
+
+- **[The Henry Ford Musuem](https://www.thehenryford.org/visit/)**
+  20900 Oakwood Boulevard, Dearborn, MI 48124‑5029
+
+- **[Detroit Institute of Arts Musuem](https://dia.org/)**
+  5200 Woodward Avenue Detroit, MI 48202 
+
+- **[Cranbrook House & Gardens](https://housegardens.cranbrook.edu/)**
+  380 Lone Pine Rd, Bloomfield Hills, MI 48304 
+
+- **[Visit Detroit](https://visitdetroit.com/)**
+  Additional Resources
+
+---
+
+# Transportation  
+
+**Detroit Wayne County International Airport (DTW)** is a major Delta hub with access to public transportation, ride-sharing services like Uber and Lyft, and official taxis. Note that there are two terminals at DTW; the larger Delta terminal is McNamara Terminal, while all other airlines arrive at the smaller North Terminal. The **Detroit Air Xpress** bus connects the airport to Downtown Detroit with 16 trips daily at $6-8 USD. Public transport options within Detroit include the **Detroit People Mover** and the **QLINE tram**.  
+
+However, the greater Metro Detroit area is a car-centric metropolis, so it is generally recommended to use ride-sharing services or taxis when traveling outside of central Detroit.  
+
+---
+
+# Suggested Reading  
+
+- **[Detroit: The Dream Is Now: The Design, Art, and Resurgence of an American City](https://www.amazon.com/Detroit-Dream-Design-Resurgence-American/dp/1419723928)** by Michel Arnaud  
+- **[Building the Modern World: Albert Kahn in Detroit](https://www.amazon.com/Building-Modern-World-Detroit-Painted/dp/0814340350)** by Michael H. Hodges 
