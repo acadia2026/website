@@ -82,8 +82,6 @@ However, the greater Metro Detroit area is a car-centric metropolis, so it is ge
 
 # Suggested Reading  
 
-# Suggested Reading
-
 - **Michel Arnaud — *Detroit: The Dream Is Now: The Design, Art, and Resurgence of an American City***  
   [View Book](https://www.amazon.com/Detroit-Dream-Design-Resurgence-American/dp/1419723928)
 - **Michael H. Hodges — *Building the Modern World: Albert Kahn in Detroit***  
