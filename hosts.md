@@ -6,10 +6,10 @@ permalink: /hosts/
 
 <br>
 
-<div style="display:flex; gap:20px; flex-wrap:wrap;">
+<div>
 
-  <figure style="margin:0; text-align:center; flex:1;">
-    <a href="{{ site.baseurl }}/assets/images/ltu_campus.jpg">
+  <figure style="margin:0 0 20px 0; text-align:center;">
+    <a href="{{ '/assets/images/ltu_campus.jpg' | relative_url }}">
      <img src="{{ '/assets/images/ltu_campus.jpg' | relative_url }}"
            alt="Lawrence Technological University Campus"
            style="width:100%; height:auto; display:block;">
@@ -17,8 +17,8 @@ permalink: /hosts/
     <figcaption style="margin-top:6px;">Lawrence Technological University Campus</figcaption>
   </figure>
 
-  <figure style="margin:0; text-align:center; flex:1;">
-    <a href="{{ site.baseurl }}/assets/images/ltu_taubman.jpg">
+  <figure style="margin:0 0 20px 0; text-align:center;">
+    <a href="{{ '/assets/images/ltu_taubman.jpg' | relative_url }}">
      <img src="{{ '/assets/images/ltu_taubman.jpg' | relative_url }}"
            alt="LTU Taubman Complex"
            style="width:100%; height:auto; display:block;">
