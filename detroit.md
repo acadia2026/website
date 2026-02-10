@@ -52,9 +52,6 @@ Plan a walking tour through Midtown and Downtown to experience this architectura
 - **[Detroit Riverwalk](https://www.detroitriverfront.org/)**
   1340 Atwater St, Detroit, MI 48207
 
-- **[MotorCity Casino](https://www.motorcitycasino.com/)**
-  1340 Atwater St, Detroit, MI 48207 
-
 - **[Belle Isle State Park](https://www.michigan.gov/recsearch/parks/belleisle)**
   99 Pleasure Drive Detroit, Michigan 48207
 
