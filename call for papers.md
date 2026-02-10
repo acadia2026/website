@@ -3,6 +3,13 @@ title: /call for papers
 layout: page
 permalink: /call-for-papers
 ---
+
+<div style="max-width:700px; margin: 0 auto 24px auto;">
+  <img src="{{ '/assets/images/acadia_graphic1.png' | relative_url }}"
+       alt="ACADIA Call for Submissions graphic"
+       style="width:100%; height:auto; display:block;">
+</div>
+
 {% include animation.html pattern="  PAPERS PROJECTS FIELD NOTES  " overlay_text="Calls For Submissions" width=600 height=300 %}
 # Call for Submissions
 The conference peer-review process is organized around calls for technical papers, projects, and field notes. Technical papers present original research, methodologies, and theoretical frameworks that advance discourse on computation, making, and cultural practices. Project presentations focus on built work, speculative prototypes, and experimental workflows that connect technology with design culture. Field notes provide concise reflections, critical provocations, and in-progress investigations that document emerging practices.
