@@ -15,7 +15,7 @@ permalink: /
 ### Workshops: October 19-21, 2026
 ### Conference: October 22-24, 2026
 
-# ACADIA 2026 Humanism Recoded
+# ACADIA 2026 Humanism Recoded / Detroit, Michigan
 
 ### Reframing Computation and Making through Embodiment and Culture  
 Humanism Recoded opens a conversation around design and research strategies that leverage digital technologies, robotics, computation, algorithms, material innovation, and advanced fabrication to humanize our visions for the future. This year’s conference is hosted by **[Lawrence Technological University’s College of Architecture and Design](https://ltu.edu/architecture-design/)**, located in the Detroit metropolitan region — a city shaped by innovation, production, and reinvention.
