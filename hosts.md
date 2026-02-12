@@ -76,3 +76,20 @@ The College supports this work through advanced fabrication and prototyping faci
   image_path="assets/images/organizers/exhibition/"
   image_size="medium"
   aspect_ratio="square" %}
+
+ ---------------
+  ## Industry
+
+{% assign industry_hosts = site.posts | where_exp: "post", "post.categories contains 'industry'" %}
+
+<div class="host-grid">
+{% for post in industry_hosts %}
+  <div class="host-card">
+    <a href="{{ post.url | relative_url }}">
+      <img src="{{ post.thumbnail | relative_url }}" alt="{{ post.title }}">
+      <p>{{ post.caption }}</p>
+    </a>
+  </div>
+{% endfor %}
+</div>
+
