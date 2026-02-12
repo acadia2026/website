@@ -4,10 +4,16 @@ layout: default
 
 <article class="post">
   <header style="margin-bottom: 18px;">
-    <h1 style="margin-bottom: 8px;">{{ page.title }}</h1>
+    <h1 style="margin-bottom: 12px;">{{ page.title }}</h1>
+
+    {% include host-contact.html %}
 
     {% if page.thumbnail %}
-    <img src="{{ page.thumbnail | relative_url }}" alt="{{ page.title }}" style="width: 320px; max-width: 100%; height: auto; display: block; margin: 0 0 18px 0;">
+      <img
+        src="{{ page.thumbnail | relative_url }}"
+        alt="{{ page.title }}"
+        style="width: 320px; max-width: 100%; height: auto; display: block; margin: 0 0 18px 0;"
+      >
     {% endif %}
   </header>
 
