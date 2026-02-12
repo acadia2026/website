@@ -16,18 +16,3 @@ Christopher Westerlund is a computational designer and maker, and an alumnus of 
 
 Technology in Architectural Practice:
 https://aiadetroit.com/technology-in-architectural-practice/about_coded/
-
-
----
-layout: post
-title: "Fiorela Lesaj"
-caption: Fiorela Lesaj
-categories:
-  - industry
-thumbnail: assets/images/organizers/industry/fiorela-lesaj.jpg
-permalink: /fiorela-lesaj/
-role: "co.de.D planning committee"
-email: fiorela@lesaj.design
-instagram: ""
-website: ""
----
