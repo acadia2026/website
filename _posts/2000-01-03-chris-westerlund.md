@@ -4,7 +4,7 @@ title: "Christopher Westerlund"
 caption: Christopher Westerlund
 categories:
   - industry
-thumbnail: assets/images/organizers/industry/chris-westerlund.jpg
+thumbnail: /assets/images/organizers/industry/chris-westerlund.jpg
 permalink: /chris-westerlund/
 role: "Director of co.de.D."
 email: chris@make-lab.org
