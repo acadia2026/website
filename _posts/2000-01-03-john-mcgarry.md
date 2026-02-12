@@ -5,7 +5,7 @@ caption: John McGarry
 categories:
   - industry
 thumbnail: assets/images/organizers/industry/john-mcgarry.jpg
-permalink: /jon-mcgarry/
+permalink: /john-mcgarry/
 role: "Architect | Gensler Detroit Design Technology Leader"
 email: jkmcgarry1@gmail.com
 instagram: ""
