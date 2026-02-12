@@ -12,8 +12,7 @@ permalink: /
 
 ---
 
-### Workshops: October 19-21, 2026
-### Conference: October 22-24, 2026
+### Workshops: October 19-21, 2026<br/>### Conference: October 22-24, 2026
 
 # ACADIA 2026 Humanism Recoded / Detroit, Michigan
 
