@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Christopher Westerlund"
-caption: Christopher Westerlund
+title: "Chris Westerlund"
+caption: Chris Westerlund
 categories:
   - industry
 thumbnail: assets/images/organizers/industry/chris-westerlund.jpg
