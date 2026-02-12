@@ -78,7 +78,7 @@ The College supports this work through advanced fabrication and prototyping faci
   aspect_ratio="square" %}
 
  ---------------
-  ## Industry
+#### Industry
 
 {% include post-gallery.html
   category="industry"
