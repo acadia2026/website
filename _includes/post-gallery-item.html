@@ -33,9 +33,6 @@
   {% comment %} Check if auto-generated image exists, otherwise use thumbnail {% endcomment %}
   {% assign image_src = post.thumbnail %}
   {% comment %} Note: In Jekyll, we can't easily check file existence, so we'll use the auto path as primary {% endcomment %}
-  {% if auto_image_path != '' %}
-    {% assign image_src = auto_image_path %}
-  {% endif %}
 {% else %}
   {% assign image_src = post.thumbnail %}
 {% endif %}
