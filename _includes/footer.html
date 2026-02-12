@@ -1,37 +1,27 @@
 <footer style="display: flex; width: 100%; background-color: #ffffff; padding: 20px; box-sizing: border-box;">
-  <!-- First Column (split into three columns) -->
+
+  <!-- Logos Column -->
   <div style="width: 50%; display: flex;">
-    <div class="logo-container" style="width: 33.33%; padding: 10px; box-sizing: border-box; display: flex; align-items: center; justify-content: center;">
-      <a href="http://acadia.org" target="_blank" rel="noopener noreferrer">
-        <img src="/assets/images/acadia_logo.png" alt="acadia" style="max-width: 100%; height: auto;">
+    
+    <div class="logo-container" style="width: 50%; padding: 10px; display: flex; align-items: center; justify-content: center;">
+      <a href="https://acadia.org" target="_blank" rel="noopener noreferrer">
+        <img src="/assets/images/acadia_logo.png" alt="ACADIA" style="max-width: 100%; height: auto;">
       </a>
     </div>
-    <div class="logo-container" style="width: 33.33%; padding: 10px; box-sizing: border-box; display: flex; align-items: center; justify-content: center;">
-      <a href="https://ltu.edu/architecture-design/" target="_blank" rel="noopener noreferrer">
-        <img src="/assets/images/coad_logo.png" alt="LTU" style="max-width: 100%; height: auto;">
+
+    <div class="logo-container" style="width: 50%; padding: 10px; display: flex; align-items: center; justify-content: center;">
+      <a href="https://ltu.edu/architecture-design" target="_blank" rel="noopener noreferrer">
+        <img src="/assets/images/coad_logo.png" alt="LTU CoAD" style="max-width: 100%; height: auto;">
       </a>
     </div>
+
   </div>
 
-  <!-- Second Column -->
-  <div style="width: 50%; padding: 10px; box-sizing: border-box; display: flex; align-items: center; justify-content: center;">
-    <p style="text-align: center; margin: 0;">{{ site.footer }}</p>
-    <p style="text-align: center; margin: 0;">Contact: 2026@acadia.org</p>
+  <!-- Info Column -->
+  <div style="width: 50%; padding: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+    <p style="margin: 0;">ACADIA 2026 Conference</p>
+    <p style="margin: 0;">Detroit, Michigan</p>
+    <p style="margin: 0;">Contact: 2026@acadia.org</p>
   </div>
+
 </footer>
-
-<style>
-  /* Hide the entire footer on the whole website */
-  footer {
-    display: none !important;
-  }
-
-  /* Ensure the background color doesn't change on hover */
-  .logo-container:hover {
-    background-color: #ffffff;
-  }
-
-  .logo-container a:hover {
-    background-color: transparent;
-  }
-</style>
