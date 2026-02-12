@@ -1,5 +1,3 @@
-this is what i copied form there
-
 ---
 layout: default
 ---
@@ -7,6 +5,8 @@ layout: default
 <article class="post">
   <header style="margin-bottom: 18px;">
     <h1 style="margin-bottom: 12px;">{{ page.title }}</h1>
+
+    {% include host-contact.html %}
 
     {% if page.thumbnail %}
       <img
