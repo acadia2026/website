@@ -22,7 +22,6 @@ Today, Detroit supports a growing network of design professionals, fabrication s
 
 # Detroit Architecture  
 Detroit and its surroundings offer a rich collection of Art Deco landmarks and signature works by architects such as Mies van der Rohe, Minoru Yamasaki, and Philip Johnson. The recently restored Michigan Central Station is emerging as a new cultural hub in Corktown. 
-Plan a walking tour through Midtown and Downtown to experience this architectural heritage, or a field trip 10 miles north to visit the Cranbrook Academy of Art campus.
 
 - **[The Renaissance Center](https://gmrencen.com/)** by John Portman & Associates  
 - **[Michigan Central](https://michigancentral.com/)** by Quinn Evans(restoration)  
