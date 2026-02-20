@@ -20,6 +20,24 @@ Today, Detroit supports a growing network of design professionals, fabrication s
 
 ---
 
+## Affleck House  
+*Frank Lloyd Wright*
+
+![Affleck House Exterior](/assets/images/affleck-house.jpg)
+
+> “The space within becomes the reality of the building.”  
+> — Frank Lloyd Wright
+
+The Affleck House, designed by Frank Lloyd Wright, is one of Michigan’s significant examples of Usonian residential architecture.
+
+Owned by Lawrence Technological University and supported by the Donley Fund, the house continues to serve as an educational and cultural resource.
+
+Located in Bloomfield Hills, the Affleck House reflects Wright’s belief in organic architecture and the integration of structure, material, and landscape.
+
+[Learn more about the Affleck House](https://franklloydwright.org/site/affleck-house/)
+
+---
+
 # Detroit Architecture  
 Detroit and its surroundings offer a rich collection of Art Deco landmarks and signature works by architects such as Mies van der Rohe, Minoru Yamasaki, and Philip Johnson. The recently restored Michigan Central Station is emerging as a new cultural hub in Corktown. 
 
