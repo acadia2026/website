@@ -13,3 +13,5 @@ website: ""
 ---
 
 Fiorela is a design professional with over eight years of architectural experience across commercial, urban, and manufacturing projects. She specializes in prototypes and digital workflows, while also pursuing residential work and graphic design for non-profits. As a co.de.D committee member, she advances computational design within Detroit’s design community.
+
+**Contact:** [Email Fiorela](mailto:fiorela@lesaj.design)
