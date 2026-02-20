@@ -23,7 +23,7 @@ Today, Detroit supports a growing network of design professionals, fabrication s
 ## Affleck House  
 *Frank Lloyd Wright*
 
-![Affleck House Exterior](/assets/images/affleck-house.jpg)
+![Affleck House Exterior]({{ "/assets/images/affleck-house.jpg" | relative_url }})
 
 > “The space within becomes the reality of the building.”  
 > — Frank Lloyd Wright
