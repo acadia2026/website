@@ -16,3 +16,5 @@ Chris Westerlund is an Architect, computational designer, and maker, and an alum
 
 Technology in Architectural Practice:
 https://aiadetroit.com/technology-in-architectural-practice/about_coded/
+
+**Contact:** [make-lab.org](https://make-lab.org/)
