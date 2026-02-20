@@ -29,8 +29,7 @@ Today, Detroit supports a growing network of design professionals, fabrication s
        style="width:100%; height:auto; display:block;">
 </div>
 
-> “The space within becomes the reality of the building.”  
-> — Frank Lloyd Wright
+> “The space within becomes the reality of the building.” — Frank Lloyd Wright
 
 The Affleck House, designed by Frank Lloyd Wright, is one of Michigan’s significant examples of Usonian residential architecture.
 
