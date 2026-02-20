@@ -15,3 +15,5 @@ website: "https://sh-o.us/"
 ## Lee Su Huang
 
 Lee-Su Huang is an Associate Professor of Architecture at LTU CoAD and co-founder of SHO Architecture. His design research specializes in digital fabrication + augmented reality, parametric design, kinetic architecture, and interactive installations. Lee-Su received his B.Arch from Feng-Chia University and his M.Arch from Harvard GSD. He is co-organizer of the annual Playing Models Symposium on AI, Architecture, and Storytelling, previously held at Carnegie Mellon University, ETH Zurich, and the University of Florida.
+
+**Contact:** [sh-o.us](https://sh-o.us/)
