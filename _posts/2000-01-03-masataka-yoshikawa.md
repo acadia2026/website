@@ -12,8 +12,12 @@ instagram: "@masataka.yoshikawa"
 website: "https://ltu.edu/faculty/yoshikawa-masataka/"
 ---
 
-## Masataka Oshikawa
+## Masataka Yoshikawa
 
-Masataka Yoshikawa is an Assistant Professor of Architecture at LTU CoAD. He earned a M.Arch from the University of Michigan TCAUP. His research interrogates the contemporary design process and the role of architects’ design sensibility in this digital era by establishing a design workflow using 3D simulations & modeling and physical & virtual models through VR, MR, and digital fabrication tools. His work was recently featured in the 2025 Venice Architecture Biennale.
+Masataka Yoshikawa is an Assistant Professor of Architecture at Lawrence Technological University. His research focuses on the contemporary design process in architecture, examining how architects’ design sensibilities evolve in the digital age. He develops innovative design workflows integrating 3D simulations, modeling, and physical and virtual models using VR, MR, and digital fabrication tools.
 
-**Contact:** [LTU Faculty Page](https://ltu.edu/faculty/yoshikawa-masataka/)
+His work has been published in Ken Roberts Memorial Delineation Competition, Architectural Design, Architecture in Perspective, Artsin Square, Gradient, Portico, and Dimensions, and he has presented his research at SIGraDi, VIBRArch, Alt+F4, SCULPT, NCBDS, and ACSA. His work has also been exhibited at SARA NY ART, University of Texas at Arlington, Republic Center in Dallas, and 1001 Woodward Gallery in Detroit. His recent research, Fabricated Combines, was exhibited as a part of the 2025 Venice Architecture Biennale.
+
+Yoshikawa holds a Master of Architecture from the University of Michigan, and he previously practiced at PLY+ Architects in Michigan and Flying Elephant Studio in Bangalore.
+
+**Contact:** [LTU Faculty Page](https://ltu.edu/faculty/yoshikawa-masata
