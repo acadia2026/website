@@ -14,10 +14,14 @@ website: "https://ltu.edu/faculty/yoshikawa-masataka/"
 
 ## Masataka Yoshikawa
 
-Masataka Yoshikawa is an Assistant Professor of Architecture at Lawrence Technological University. His research focuses on the contemporary design process in architecture, examining how architects’ design sensibilities evolve in the digital age. He develops innovative design workflows integrating 3D simulations, modeling, and physical and virtual models using VR, MR, and digital fabrication tools.
+Masataka Yoshikawa is an Assistant Professor of Architecture at Lawrence Technological University. His research centers on architectural representation and the contemporary design process, with a particular focus on how architects’ design sensibilities are evolving in the digital age. Through this work, he investigates new modes of design thinking and production that bridge conceptual exploration, technical experimentation, and built form.
 
-His work has been published in Ken Roberts Memorial Delineation Competition, Architectural Design, Architecture in Perspective, Artsin Square, Gradient, Portico, and Dimensions, and he has presented his research at SIGraDi, VIBRArch, Alt+F4, SCULPT, NCBDS, and ACSA. His work has also been exhibited at SARA NY ART, University of Texas at Arlington, Republic Center in Dallas, and 1001 Woodward Gallery in Detroit. His recent research, Fabricated Combines, was exhibited as a part of the 2025 Venice Architecture Biennale.
+Yoshikawa develops innovative design workflows that integrate 3D simulation, modeling across physical and virtual environments using extended reality, digital fabrication tools, and artificial intelligence. His practice and research examine how emerging technologies can expand architectural imagination while reshaping methods of representation, collaboration, and making.
 
-Yoshikawa holds a Master of Architecture from the University of Michigan, and he previously practiced at PLY+ Architects in Michigan and Flying Elephant Studio in Bangalore.
+His recent work was exhibited at the 2025 Venice Architecture Biennale. He is also a recipient of the 2025 Vision Awards and was selected as one of Architizer’s Visionary 100. His work has been published in a range of venues, including the *Ken Roberts Memorial Delineation Competition 50th Anniversary Book, Architectural Design, Architecture in Perspective, Officina, and Dimensions*.
 
-**Contact:** [LTU Faculty Page](https://ltu.edu/faculty/yoshikawa-masata
+In addition to his publications, Yoshikaa has presented his research at numerous conferences, including SIGraDi, VIBRArch, ARCC, BTES, CAADRIA, Alt+F4, SCULPT, and NCBDS. His work has also been featured in exhibitions and venues such as SARA NY ART, the University of Texas at Arlington, and the Republic Center in Dallas, among others.
+
+Yoshikawa holds a Master of Architecture from the University of Michigan. Prior to joining academia, he practiced at PLY+ Architects in Michigan and Flying Elephant Studio in Bangalore, experiences that continue to inform his interdisciplinary approach to design, representation, and emerging technologies.
+
+**Contact:** [LTU Faculty Page](https://ltu.edu/faculty/yoshikawa-masataka/)
