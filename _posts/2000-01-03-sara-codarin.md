@@ -15,6 +15,10 @@ website: "https://www.saracodarin.com/"
 
 ## Sara Codarin
 
-Sara Codarin is an Assistant Professor of Architecture at LTU CoAD. Her research spans robotic fabrication, digital craft, computational workflows, and generative AI for world-building. She holds both a master's degree and a Ph.D. from the University of Ferrara, with a focus on robotics for architectural restoration processes. Her work has been exhibited at the Pratt Institute’s School of Architecture, Detroit Month of Design, Milan Design Week, and the 2025 Venice Architecture Biennale.
+Sara Codarin is an Assistant Professor of Architecture at Lawrence Technological University, College of Architecture and Design. Her research explores robotic fabrication, additive manufacturing, digital craft, ecological issues, computational workflows, and generative AI for world-building. She earned a Master of Architecture and a PhD from the University of Ferrara, where she developed methodologies for integrating robotics into architectural restoration.
 
-**Contact:** [saracodarin.com](https://www.saracodarin.com/)
+Sara has presented her work at platforms including ACSA, ARCC, NCBDS, AIA National, and Playing Models, and has led workshops for ACADIA, Sigradi, DigitalFUTURES, and the University of Texas at Austin SoA. She is a co-PI on a National Science Foundation EPIIC grant and co-founder of the Prototyping Lab for Offsite Prefabrication, which investigates digital fabrication strategies for low-carbon construction.
+
+Her collaborative project Fabricated Combines on creative AI was selected for the main exhibition of the Venice Biennale Architettura 2025 at the Corderie dell’Arsenale. She also co-curated the exhibitions Design with Intelligence, Constructing Futures, and Mobile Detroit 2050 for the Detroit Month of Design. Her work has been shown at venues such as Pratt Institute’s School of Architecture, Milan Design Week, the University of Colorado Art Museum, and the Ford House in Detroit. Sara is a techno-optimist, and she loves robots.
+
+**Contact:** [saracodarin.com](https://www.saracodarin.com/) [Faculty Profile](https://ltu.edu/faculty/codarin-sara/)
