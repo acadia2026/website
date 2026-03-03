@@ -1,5 +1,5 @@
 ---
-title: /call for papers
+title: /call for submissions
 layout: page
 permalink: /call-for-papers
 ---
