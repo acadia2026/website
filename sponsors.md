@@ -8,8 +8,8 @@ permalink: /sponsors/
 
 <h2>Academic and Institutional Support</h2>
 
-<div style="display:flex; gap:60px; align-items:center; flex-wrap:wrap; margin-top:20px;">
-
+<div style="display:flex; gap:60px; align-items:center; flex-wrap:wrap; margin-top:20px; margin-bottom:30px;">
+  
   <img src="{{ '/assets/images/ltu_logo.jpg' | relative_url }}"
        alt="Lawrence Technological University Logo"
        style="height:110px; width:auto; object-fit:contain;">
