@@ -1,55 +1,21 @@
 ---
-title: Sponsors
 layout: page
-permalink: /sponsors
+title: Sponsors
+permalink: /sponsors/
 ---
-{% include animation.html pattern="  SPONSORS  " overlay_text="SPONSORS" width=600 height=300 %}
 
-<!-- **Platinum Sponsors**  
-{% include image-gallery.html folder="/assets/images/sponsors/platinum" %}   -->
+<h1>Sponsors</h1>
 
-**Gold Sponsors**  
-{% include image-gallery.html 
-   folder="/assets/images/sponsors/gold" 
-   item_width="40%" 
-   image_size="large" 
-   show_caption="false" 
-   detect_links="true" %}  
+<h2>Academic and Institutional Support</h2>
 
-**Silver Sponsors**  
-{% include image-gallery.html 
-   folder="/assets/images/sponsors/silver" 
-   item_width="30%" 
-   image_size="medium" 
-   show_caption="false" 
-   detect_links="true" %}  
+<div class="sponsor-logos">
+  <div class="sponsor-logo-item">
+    <img src="{{ '/assets/images/sponsors/ltu-logo.png' | relative_url }}" alt="Lawrence Technological University logo">
+  </div>
 
-**Bronze Sponsors**  
-{% include image-gallery.html 
-   folder="/assets/images/sponsors/bronze" 
-   item_width="30%" 
-   image_size="medium" 
-   show_caption="false" 
-   detect_links="true" %}  
+  <div class="sponsor-logo-item">
+    <img src="{{ '/assets/images/sponsors/coad-logo.png' | relative_url }}" alt="College of Architecture and Design logo">
+  </div>
+</div>
 
-**Conference Sponsors**  
-{% include image-gallery.html 
-   folder="/assets/images/sponsors/conference" 
-   item_width="20%" 
-   image_size="small" 
-   show_caption="false" 
-   detect_links="true" %}  
-
-**Academic and Institutional Support**  
-{% include image-gallery.html 
-   folder="/assets/images/sponsors/academic" 
-   item_width="30%" 
-   image_size="medium" 
-   show_caption="false" 
-   detect_links="true" %}  
-
-<!-- **Media Sponsors**  
-{% include image-gallery.html folder="/assets/images/miami/media" %}  
-
-**Other Sponsors**  
-{% include image-gallery.html folder="/assets/images/miami/other" %}   -->
+<p>For sponsor opportunities, please contact <a href="mailto:2026@acadia.org">2026@acadia.org</a>.</p>
