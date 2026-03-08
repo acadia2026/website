@@ -4,21 +4,13 @@ title: Sponsors
 permalink: /sponsors/
 ---
 
-## Academic and Institutional Support
+<h1>Sponsors</h1>
 
-<div style="display:flex; gap:60px; align-items:center; flex-wrap:wrap; margin-top:30px;">
+<h2>Academic and Institutional Support</h2>
 
-<img src="{{ '/assets/images/ltu_logo.png' | relative_url }}" 
-alt="Lawrence Technological University Logo"
-style="height:110px; width:auto;">
-
-<img src="{{ '/assets/images/coad_logo.png' | relative_url }}" 
-alt="College of Architecture and Design Logo"
-style="height:110px; width:auto;">
-
+<div style="display:flex; gap:60px; align-items:center; justify-content:flex-start; flex-wrap:wrap; margin-top:24px;">
+  <img src="{{ '/assets/images/ltu_logo.png' | relative_url }}" alt="Lawrence Technological University logo" style="height:110px; width:auto; object-fit:contain;">
+  <img src="{{ '/assets/images/coad_logo.png' | relative_url }}" alt="College of Architecture and Design logo" style="height:110px; width:auto; object-fit:contain;">
 </div>
 
-<br>
-
-For sponsor opportunities, please contact  
-<a href="mailto:2026@acadia.org">2026@acadia.org</a>.
+<p>For sponsor opportunities, please contact <a href="mailto:2026@acadia.org">2026@acadia.org</a>.</p>
