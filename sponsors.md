@@ -14,7 +14,7 @@ permalink: /sponsors/
        alt="Lawrence Technological University Logo"
        style="height:110px; width:auto; object-fit:contain;">
 
-  <img src="{{ '/assets/images/coad_logo.jpg' | relative_url }}"
+  <img src="{{ '/assets/images/coad_logo.png' | relative_url }}"
        alt="College of Architecture and Design Logo"
        style="height:110px; width:auto; object-fit:contain;">
 
