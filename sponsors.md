@@ -10,11 +10,11 @@ permalink: /sponsors/
 
 <div class="sponsor-logos">
   <div class="sponsor-logo-item">
-    <img src="{{ '/assets/images/sponsors/ltu-logo.png' | relative_url }}" alt="Lawrence Technological University logo">
+    <img src="{{ '/assets/images/ltu_campus.jpg' | relative_url }}" alt="Lawrence Technological University">
   </div>
 
   <div class="sponsor-logo-item">
-    <img src="{{ '/assets/images/sponsors/coad-logo.png' | relative_url }}" alt="College of Architecture and Design logo">
+    <img src="{{ '/assets/images/coad_logo.png' | relative_url }}" alt="College of Architecture and Design">
   </div>
 </div>
 
