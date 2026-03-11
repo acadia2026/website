@@ -1,5 +1,5 @@
 ---
-title: /workshops
+title: /call for workshops
 layout: page
 permalink: /callforworkshops
 ---
