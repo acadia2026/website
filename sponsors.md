@@ -21,5 +21,5 @@ permalink: /sponsors/
 </div>
 
 <p>For sponsor opportunities, please contact 
-<a href="mailto:2026@acadia.org">2026@acadia.org</a>.
+<a href="mailto:2026@acadia.org">development@acadia.org</a>.
 </p>
