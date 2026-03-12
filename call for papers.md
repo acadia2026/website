@@ -53,7 +53,7 @@ We anticipate several subthemes for the call for submissions, framing broad area
 
 ---
 
-### SUBMISSION INFORMATION AND DEADLINES
+### SUBMISSION INFORMATION AND DEADLINES (EasyChair Portal will open March 31st)
 ### 1. Technical Papers
 Full-length research papers presenting original methodologies, theoretical frameworks, computational systems, or design research that advance discourse in computation, fabrication, and culture.
 Submission Requirements: Full papers (4,000 words) are invited for submission. All paper submissions are subject to blind peer review. Accepted papers will be published in the conference proceedings, and authors will be invited to present at the conference. Published papers will be included in the CumInCad database and assigned a DOI. All ACADIA papers are searchable through Web of Science Platform and Scopus.  
