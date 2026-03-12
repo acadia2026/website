@@ -74,58 +74,44 @@ Workshop outcomes will be **published** as part of the 2026 ACADIA proceedings.
 
 ---
 
-## Available Spaces and Equipment  
+## Available Spaces  
 
 **The LTU CoAD buildLab** offers the following dedicated spaces:
 
 - 2600 sq ft shop space focused on the processing and assembly of wood and plastics; it includes both traditional wood shop and digital fabrication tools;  
 - 250 sq ft Spray Room for the safe and proper application of paints, adhesives, and stains;  
 - 630 sq ft Casting Room for the use of plaster, concrete, and hydrocal.
- 
 
---- worked on till here - taka
+{% include image-gallery.html folder="/assets/images/miami/um" %}  
 
-### FIU Available Equipment  
+--- 
 
-- KUKA KR-10 R1100 Sixx  
-- KUKA KR 30 – HA  
-- Universal Robots UR16e, UR10e (with 4m external axis)  
-- uFactory Xarm 6, uFactory 850  
-- WASP LDM XXL Extruder (concrete/clay)  
-- StoneFlower Ceramic 3D Printing KIT  
-- (2) MDPE-EX2, MDPE-EX6 (plastic)  
-- (4) Prusas (FDM), Mark Two Markforged (Carbon Fiber FDM)  
-- (6) Form 2 FormLabs (SLA)  
-- (3) Bambu Labs X1C  
-- (2) RatRig V-Core 50x50x50 cm (FDM)  
-- BioBots BIO printer  
-- PotterBot 10 PRO  
-- (2) Universal 60w CO2, (1) Trotec 120w CO2  
-- (4) HTC Vive Pro, (3) HoloLens 2, (3) Magic Leap, (2) Meta Quest PRO  
-- ZED2, Azure Kinect, Intel Realsense Depth Cameras  
-- (2) RTX 3090 eGPU  
-- Filabot EX6, pelletizer, reclaimer  
-- Precious Plastics shredder, sheet press  
-- Standard woodworking tools, light metalworking tools  
-- 4' x 8' CNC Router  
-- Open Builds Lead CNC (40x40)  
+### Available Digital Fabrication Equipment
+
+- (2) KUKA KR-16
+- (2) KUKA KR-6
+- (2) KUKA KR-3
+- (3) ABB IRB 120
+- Clay extruder w/ robotic build plate
+- Hotwire cutter
+- CONCR3DE 3D Bioprinter (Armadillo Green)
+- 3-axis 4’ x 8’ CNC Router
+- 60W CO2 laser for cutting and etching thin materials for model-making
+- Wenzel DesignTec clay mill for processing soft foam, clay, and hard-board (PU-foam)
+- PotterBot 10 Pro for clay printing
+- (14) Prusa 3D printers: seven MK3s, six MK4s with various PLA filaments, and a Prusa XL with two tools.
+- (2) HOLOLENS 2, and Quest 2&3
 
 {% include image-gallery.html folder="/assets/images/miami/fiu" %}  
 
-### UM Available Equipment  
+*All CoAD workshop facilities have full-time and part-time staff to help monitor and facilitate any workshop requirements, as well as student assistants that can be deployed as needed for support.
 
-- KUKA R2700 (with rotary external axis, 3D pellet printer, gripper, wire cutter, ceramic printer, and spindle)  
-- KUKA KR4 R600 (Ready 2 Educate Package)  
-- COBOD BOD2 (roughly 30' x 30' x 12'h)  
-- (6) Ultimaker (FDM), (6) Bambu (SLA)  
-- (3) FormLabs (SLA, 3B, 4, 4L)  
-- (4) Boss HP2440 (40"x24")  
-- (2) Universal 60w CO2 (36"x24")  
-- (2) Universal 60w CO2 (32"x18")  
-- Standard woodworking tools  
-- 4' x 8' CNC Router with tool changer, 2' x 4' CNC Router  
-- Access to ceramic firing kilns  
-- (10) Magic Leap 1 Headsets  
-- (1) Magic Leap 2 Headset  
+**For workshops specifically focused on digital design and computational workflows, sessions would be hosted across the city of Detroit in collaboration with local firms located in landmark historic buildings downtown. 
 
-{% include image-gallery.html folder="/assets/images/miami/um" %}  
+--- 
+
+### LTU CoE Workshop Facilities Support
+
+The fabrication lab in the College of Engineering provides support for metalworking, offering access to traditional equipment such as welders and plasma cutters.
+
+
