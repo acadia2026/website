@@ -16,7 +16,7 @@ header_pages:
   - title: Submit
     children:
       - call for papers.md
-      # - workshops-call.md
+      - call for workshops 2026.md
       # - book-forum.md
 
   # - title: Program
