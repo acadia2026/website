@@ -82,7 +82,7 @@ Workshop outcomes will be **published** as part of the 2026 ACADIA proceedings.
 - 250 sq ft Spray Room for the safe and proper application of paints, adhesives, and stains;  
 - 630 sq ft Casting Room for the use of plaster, concrete, and hydrocal.
 
-{% include image-gallery.html folder="/assets/images/miami/um" %}  
+<!--{% include image-gallery.html folder="/assets/images/miami/um" %}  -->
 
 --- 
 
@@ -102,7 +102,7 @@ Workshop outcomes will be **published** as part of the 2026 ACADIA proceedings.
 - (14) Prusa 3D printers: seven MK3s, six MK4s with various PLA filaments, and a Prusa XL with two tools.
 - (2) HOLOLENS 2, and Quest 2&3
 
-{% include image-gallery.html folder="/assets/images/miami/fiu" %}  
+<!-- {% include image-gallery.html folder="/assets/images/miami/fiu" %}   -->
 
 *All CoAD workshop facilities have full-time and part-time staff to help monitor and facilitate any workshop requirements, as well as student assistants that can be deployed as needed for support.
 
