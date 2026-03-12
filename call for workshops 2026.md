@@ -3,7 +3,7 @@ title: /call for workshops
 layout: page
 permalink: /callforworkshops2026
 ---
-{% include animation.html pattern="  WORKSHOP CALL EXTENDED  " overlay_text="Call for Workshops Extended to May 19" width=600 height=300 %}
+
 
 **HUMANISM RECODED: Reframing Computation and Making through Embodiment and Culture**  
 
