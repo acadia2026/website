@@ -59,7 +59,7 @@ Full-length research papers presenting original methodologies, theoretical frame
 Submission Requirements: Full papers (4,000 words) are invited for submission. All paper submissions are subject to blind peer review. Accepted papers will be published in the conference proceedings, and authors will be invited to present at the conference. Published papers will be included in the CumInCad database and assigned a DOI. All ACADIA papers are searchable through Web of Science Platform and Scopus.  
 **Deadline:** April 19, 2026, 11:59 pm PST<br>**Notification of Acceptance:** May 2026<br>**Revised Papers Due:** June 2026
 
-2023 & 2024 best paper [samples](/samplepublications) 
+2023 & 2024 Best Paper [samples](/samplepublications) 
 
 ### 2. Projects
 Built work, speculative prototypes, installations, or experimental workflows demonstrating the integration of computational tools with material, cultural, or social contexts.
@@ -67,7 +67,7 @@ Submission Requirements: 600-word text (excluding citations and captions) plus a
 Details: Project submissions will be blind peer-reviewed. Projects will be published in the conference proceedings and exhibited as posters in the Exhibition. Select submissions may be invited to present in the plenary sessions and/or participate in a discussion panel during the conference. Published projects will be included in the CumInCad database and assigned a DOI. All ACADIA projects are searchable through Web of Science Platform and Scopus.  
 **Deadline:** May 17, 2026, 11:59 pm PST<br>**Notification of Acceptance:** June 2026<br>**Revised Papers Due:** July 2026
 
-2023 & 2024 best project [samples](/samplepublications) 
+2023 & 2024 Best Project [samples](/samplepublications) 
 
 ### 3. Field Notes
 Short-form submissions offering critical provocations, in-progress research, reflective observations, or emerging practices that engage computation through situated, experimental, or exploratory approaches.
