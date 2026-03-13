@@ -56,7 +56,7 @@ Workshop proposals should include the following:
 
 Please fill out and submit your submission form by **April 19th**. Proposals will undergo a juried review process, and successful applicants will receive funding to cover travel, materials, and an honorarium.  
 
-[Submission form](https://forms.gle/Dp5eFNQY3tP2z6JM7)  
+[Submission form] 
 
 Contact workshop chairs for additional information: **2026@acadia.org**  
 
