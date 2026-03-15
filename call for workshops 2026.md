@@ -3,7 +3,7 @@ title: /call for workshops
 layout: page
 permalink: /callforworkshops2026
 ---
-assets/images/acadia_graphic3.png
+
 <div style="max-width:700px; margin: 0 auto 24px auto;">
   <img src="{{ '/assets/images/acadia_graphic3.png' | relative_url }}"
        alt="ACADIA Call for Submissions graphic"
