@@ -10,6 +10,7 @@ permalink: /callforworkshops2026
        style="width:100%; height:auto; display:block;">
 </div>
 
+**Call for Workshops**  
 **HUMANISM RECODED: Reframing Computation and Making through Embodiment and Culture**  
 
 Humanism Recoded opens a conversation around design and research strategies that leverage digital technologies, robotics, computation, algorithms, material innovation, and advanced fabrication to humanize our visions for the future. The 2026 ACADIA conference at [Lawrence Technological University](https://2026.acadia.org/hosts/). Lawrence Technological University, invites workshop proposals that place human presence, culture, and collective intelligence at the center of computational design—engaging digital technologies, robotics, algorithms, material innovation, and advanced fabrication as empathetic, inclusive agents in shaping futures. We welcome strategies that pair generative and robotic workflows with embodied, site-specific knowledge to address urgent socio-technical and environmental challenges through ethical, culturally situated, and participatory design practices. To enable broader access and a wider range of participants to the conference and workshops, proposals at all skill levels are encouraged to submit.
