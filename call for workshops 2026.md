@@ -3,7 +3,7 @@ title: /call for workshops
 layout: page
 permalink: /callforworkshops2026
 ---
-
+assets/images/acadia_graphic3.png
 
 **HUMANISM RECODED: Reframing Computation and Making through Embodiment and Culture**  
 
