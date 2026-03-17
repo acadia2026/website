@@ -56,35 +56,30 @@ We anticipate several subthemes for the call for submissions, framing broad area
 ### SUBMISSION INFORMATION AND DEADLINES (EasyChair Portal will open March 31st)
 ### 1. Full Papers
 Full Papers should present original work embedded within substantial research or creative practice. Submissions may include research-based projects, theoretical papers, design workflows, and/or innovative techniques and methods that advance the field of computational design.
-Submission Requirements: Full papers (4,000 words) are invited for submission. All paper submissions are subject to blind peer review. Accepted papers will be published in the conference proceedings, and authors will be invited to present at the conference. Published papers will be included in the CumInCad database and assigned a DOI. All ACADIA papers are searchable through Web of Science Platform and Scopus. Please refer to ACADIA’s Publication Ethics Guidelines for detailed policies regarding academic writing, originality, plagiarism, intellectual property, and the peer review process.  
+**Submission Requirements:** Full papers (4,000 words) are invited for submission. All paper submissions are subject to blind peer review. Accepted papers will be published in the conference proceedings, and authors will be invited to present at the conference. Published papers will be included in the CumInCad database and assigned a DOI. All ACADIA papers are searchable through Web of Science Platform and Scopus. Please refer to ACADIA’s Publication Ethics Guidelines for detailed policies regarding academic writing, originality, plagiarism, intellectual property, and the peer review process.  
 **Deadline:** April 19, 2026, 11:59 pm PST<br>**Notification of Acceptance:** May 2026<br>**Revised Papers Due:** June 2026
 
-Please use the [ACADIA 2026 Full Papers Style Guide](https://drive.google.com/file/d/1UKvijWV8HaQlIc8KQaKAH3IZMSzintxp/view?usp=sharing) for formatting your submission, and review the Paper/Project Submission Guidelines, the ACADIA Collaborative Authorship Policies, and the ACADIA Artificial Intelligence Guidelines prior to submitting your work.
+Please use the [ACADIA 2026 Full Papers Style Guide](https://drive.google.com/file/d/1UKvijWV8HaQlIc8KQaKAH3IZMSzintxp/view?usp=sharing) for formatting your submission, and review the Paper/Project Submission Guidelines, the ACADIA Collaborative Authorship Policies, and the ACADIA Artificial Intelligence Guidelines prior to submitting your work.  
 2023 & 2024 Best Paper [samples](/samplepublications) 
 
 ### 2. Projects
 Built work, speculative prototypes, installations, or experimental workflows demonstrating the integration of computational tools with material, cultural, or social contexts.
-Submission Requirements: 600-word text (excluding citations and captions) plus a maximum of 10 images.
-Details: Project submissions will be blind peer-reviewed. Projects will be published in the conference proceedings and exhibited as posters in the Exhibition. Select submissions may be invited to present in the plenary sessions and/or participate in a discussion panel during the conference. Published projects will be included in the CumInCad database and assigned a DOI. All ACADIA projects are searchable through Web of Science Platform and Scopus. Please refer to ACADIA’s Publication Ethics Guidelines for detailed policies regarding academic writing, originality, plagiarism, intellectual property, and the peer review process.  
+**Submission Requirements:** 600-word text (excluding citations and captions) plus a maximum of 10 images.
+**Details:** Project submissions will be blind peer-reviewed. Projects will be published in the conference proceedings and exhibited as posters in the Exhibition. Select submissions may be invited to present in the plenary sessions and/or participate in a discussion panel during the conference. Published projects will be included in the CumInCad database and assigned a DOI. All ACADIA projects are searchable through Web of Science Platform and Scopus. Please refer to ACADIA’s Publication Ethics Guidelines for detailed policies regarding academic writing, originality, plagiarism, intellectual property, and the peer review process.  
 **Deadline:** May 17, 2026, 11:59 pm PST<br>**Notification of Acceptance:** June 2026<br>**Revised Papers Due:** July 2026
 
-Please use the [ACADIA 2026 Projects Style Guide](https://drive.google.com/file/d/1UKvijWV8HaQlIc8KQaKAH3IZMSzintxp/view?usp=sharing) for formatting your submission, and review the Paper/Project Submission Guidelines, the ACADIA Collaborative Authorship Policies, and the ACADIA Artificial Intelligence Guidelines prior to submitting your work.
+Please use the [ACADIA 2026 Projects Style Guide](https://drive.google.com/file/d/1UKvijWV8HaQlIc8KQaKAH3IZMSzintxp/view?usp=sharing) for formatting your submission, and review the Paper/Project Submission Guidelines, the ACADIA Collaborative Authorship Policies, and the ACADIA Artificial Intelligence Guidelines prior to submitting your work.  
 2023 & 2024 Best Project [samples](/samplepublications) 
 
 ### 3. Field Notes
 Short-form submissions offering critical provocations, in-progress research, reflective observations, or emerging practices that engage computation through situated, experimental, or exploratory approaches.
-Submission Requirements: 800–1,000 word texts max; images are permitted, and image-based essays are also welcome.
-Details: Field Notes are an invitation for shorter pieces that may include provocative artifacts regarding the culture and practice of computational design: experimental ideas, behind-the-scenes observations, brief narratives, provocations, and manifestos. Submissions will be jury-selected and published in the proceedings. Select submissions may be invited to present and/or participate in a discussion panel during the conference.  
+**Submission Requirements:** 800–1,000 word texts max; images are permitted, and image-based essays are also welcome.
+**Details:** Field Notes are an invitation for shorter pieces that may include provocative artifacts regarding the culture and practice of computational design: experimental ideas, behind-the-scenes observations, brief narratives, provocations, and manifestos. Submissions will be jury-selected and published in the proceedings. Select submissions may be invited to present and/or participate in a discussion panel during the conference.  
 **Deadline:** May 17, 2026, 11:59 pm PST<br>**Notification of Acceptance:** June 2026<br>**Revised Papers Due:** July 2026
 
-Please use the [ACADIA 2026 Field Notes Style Guide](https://drive.google.com/file/d/1UKvijWV8HaQlIc8KQaKAH3IZMSzintxp/view?usp=sharing) for formatting your submission, and review the Paper/Project Submission Guidelines, the ACADIA Collaborative Authorship Policies, and the ACADIA Artificial Intelligence Guidelines prior to submitting your work.
+Please use the [ACADIA 2026 Field Notes Style Guide](https://drive.google.com/file/d/1UKvijWV8HaQlIc8KQaKAH3IZMSzintxp/view?usp=sharing) for formatting your submission, and review the Paper/Project Submission Guidelines, the ACADIA Collaborative Authorship Policies, and the ACADIA Artificial Intelligence Guidelines prior to submitting your work.  
 2023 & 2024 Field Notes [samples](/samplepublications) 
 
 ### REVIEW PROCESS
 
 All submissions will undergo a double-blind peer review process coordinated by the Technical Chairs and Project Chairs in accordance with ACADIA standards. Submissions will be evaluated based on originality, rigor, relevance to the conference theme, and contribution to computational design research and practice.
-
-
-### IMPORTANT DATES
-
-Submission deadlines, templates, and formatting guidelines will be announced following approval by the ACADIA Board. Updates will be posted on the ACADIA 2026 website.
