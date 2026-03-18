@@ -24,7 +24,7 @@ The conference will bring together researchers, designers, educators, and indust
 ### Important Dates
 - [Full Papers submission](/call-for-papers) deadline: **April 19, 2026** - EasyChair submission portal opening March 31, 2026  
 - [Projects / Field Notes submission](/call-for-papers) deadline: **May 17, 2026** - EasyChair submission portal opening March 31, 2026  
-- [Call for Workshop proposals](/callforworkshops2026) deadline: **April 19, 2026** - Submission form now open    
+- [Call for Workshop proposals](/callforworkshops2026) deadline: **April 19, 2026** - [Submission form](https://docs.google.com/forms/d/e/1FAIpQLScUjFriVPTL5B1noCmOGMdrdmycw0kc3rznTNsq7kHKSmuSjA/viewform?usp=sharing&ouid=108128233923826065100) now open    
 - Call for Book Forum submissions: Early May   
 - Registration opens: Early August  
 
