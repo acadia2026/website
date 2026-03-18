@@ -22,9 +22,9 @@ Humanism Recoded opens a conversation around design and research strategies that
 The conference will bring together researchers, designers, educators, and industry leaders to examine how computation can be a humanistic force capable of generating meaningful digital and physical experiences, grounded in local specificity and global responsibility. Through peer‑reviewed papers, workshops, exhibitions, and keynote events, ACADIA 2026 will highlight new methods, tools, and frameworks that respond to the challenges and opportunities of our rapidly changing world.
 
 ### Important Dates
-- Papers submission deadline: **April 19, 2026** - EasyChair submission information + templates forthcoming  
-- Projects / Field Notes submission deadline: **May 17, 2026** - EasyChair submission information + templates forthcoming  
-- Call for Workshop proposals: Early March   
+- [Full Papers submission](/call-for-papers) deadline: **April 19, 2026** - EasyChair submission portal opening March 31, 2026  
+- [Projects / Field Notes submission](/call-for-papers) deadline: **May 17, 2026** - EasyChair submission portal opening March 31, 2026  
+- [Call for Workshop proposals](/callforworkshops2026) deadline: **April 19, 2026** - Submission form now open    
 - Call for Book Forum submissions: Early May   
 - Registration opens: Early August  
 
