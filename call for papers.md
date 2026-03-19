@@ -11,30 +11,11 @@ permalink: /call-for-papers
 </div>
 
 # Call for Submissions
-The conference peer-review process is organized around calls for technical papers, projects, and field notes. Technical papers present original research, methodologies, and theoretical frameworks that advance discourse on computation, making, and cultural practices. Project presentations focus on built work, speculative prototypes, and experimental workflows that connect technology with design culture. Field notes provide concise reflections, critical provocations, and in-progress investigations that document emerging practices.
+The conference peer-review process is organized around calls for full papers, projects, and field notes. Full papers present original research, methodologies, and theoretical frameworks that advance discourse on computation, making, and cultural practices. Project presentations focus on built work, speculative prototypes, and experimental workflows that connect technology with design culture. Field notes provide concise reflections, critical provocations, and in-progress investigations that document emerging practices.
 
 ---
 
 ### Conference Theme: Humanism Recoded
-
-ACADIA 2026 invites contributions, including but not limited to the following areas:
-
-- Artificial Intelligence and AI-driven Design
-- Augmented Reality and Simulation
-- Autonomy and Human Agency
-- Biodesign and Climate Responsive Architecture
-- Computational Design
-- Data Capture and Sensing
-- Design-build and Construction
-- Digital Fabrication
-- Ethics and Data Practices
-- Human-Computer Interaction and Human-Robot Interaction
-- Material Computation
-- Pedagogies and Philosophies
-- Robotics and Automation
-- Simulation, Predictive Modeling
-- Spatial Computing and Extended Reality
-- Theory and Cultural Frameworks
 
 We anticipate several subthemes for the call for submissions, framing broad areas of inquiry and establishing thematic orientations, including:
 
