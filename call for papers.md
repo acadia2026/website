@@ -30,7 +30,7 @@ We propose a curated set of subthemes that extend the conference theme into spec
 - **Built Grounds** — Architecture as a site of making, use, and collective life.
 - **Temporal Layers** — Design and heritage in dialogue with history and memory.
 - **Speculative Grounds** — Design fictions, non-linear worlds, and cultural imaginaries.
-- **Climate Matters** — Computation and making within planetary urgencies.  
+- **Climate Matters** — Computation and making within planetary urgencies.
 
 
 ACADIA 2026 invites research contributions across, but not limited to, the following areas. Submissions may also engage hybrid approaches that cut across multiple domains:
@@ -61,7 +61,7 @@ Please use the [ACADIA 2026 Projects Style Guide](https://drive.google.com/file/
 ### 3. Field Notes
 Short-form submissions offering critical provocations, in-progress research, reflective observations, or emerging practices that engage computation through situated, experimental, or exploratory approaches.
 **Submission Requirements:** 800–1,000 word texts max; images are permitted, and image-based essays are also welcome.
-**Details:** Field Notes are an invitation for shorter pieces that may include provocative artifacts regarding the culture and practice of computational design: experimental ideas, behind-the-scenes observations, brief narratives, provocations, and manifestos. Submissions will be jury-selected and published in the proceedings. Select submissions may be invited to present and/or participate in a discussion panel during the conference.  
+**Details:** Field Notes are an invitation for shorter pieces that may include provocative artifacts regarding the culture and practice of computational design: experimental ideas, behind-the-scenes observations, brief narratives, provocations, and manifestos. Submissions will be jury-selected and published in the proceedings, and authors will be invited to present at the conference.  
 **Deadline:** May 17, 2026, 11:59 pm PST<br>**Notification of Acceptance:** June 2026<br>**Revised Papers Due:** July 2026
 
 Please use the [ACADIA 2026 Field Notes Style Guide](https://drive.google.com/file/d/1UKvijWV8HaQlIc8KQaKAH3IZMSzintxp/view?usp=sharing) for formatting your submission, and review the Paper/Project Submission Guidelines, the ACADIA Collaborative Authorship Policies, and the ACADIA Artificial Intelligence Guidelines prior to submitting your work.  
