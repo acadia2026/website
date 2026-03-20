@@ -32,6 +32,7 @@ We propose a curated set of subthemes that extend the conference theme into spec
 - **Speculative Grounds** — Design fictions, non-linear worlds, and cultural imaginaries.
 - **Climate Matters** — Computation and making within planetary urgencies.
 
+---
 
 ACADIA 2026 invites research contributions across, but not limited to, the following areas. Submissions may also engage hybrid approaches that cut across multiple domains:
 
