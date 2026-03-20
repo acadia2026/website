@@ -30,11 +30,12 @@ We propose a curated set of subthemes that extend the conference theme into spec
 - **Built Grounds** — Architecture as a site of making, use, and collective life.
 - **Temporal Layers** — Design and heritage in dialogue with history and memory.
 - **Speculative Grounds** — Design fictions, non-linear worlds, and cultural imaginaries.
-- **Climate Matters** — Computation and making within planetary urgencies.
+- **Climate Matters** — Computation and making within planetary urgencies.  
+
 
 ACADIA 2026 invites research contributions across, but not limited to, the following areas. Submissions may also engage hybrid approaches that cut across multiple domains:
 
-Artificial Intelligence and AI-driven Design | Augmented Reality and Simulation | Autonomy and Human Agency | Biodesign and Climate Responsive Architecture | Computational Design | Data Capture and Sensing | Design-build and Construction | Digital Fabrication | Ethics and Data Practices | Human-Computer Interaction and Human-Robot Interaction | Material Computation | Pedagogies and Philosophies | Robotics and Automation | Simulation, Predictive Modeling | Spatial Computing and Extended Reality | Theory and Cultural Frameworks
+Artificial Intelligence and AI-driven Design &#124; Augmented Reality and Simulation &#124; Autonomy and Human Agency &#124; Biodesign and Climate Responsive Architecture &#124; Computational Design &#124; Data Capture and Sensing &#124; Design-build and Construction &#124; Digital Fabrication &#124; Ethics and Data Practices &#124; Human-Computer Interaction and Human-Robot Interaction &#124; Material Computation &#124; Pedagogies and Philosophies &#124; Robotics and Automation &#124; Simulation, Predictive Modeling &#124; Spatial Computing and Extended Reality &#124; Theory and Cultural Frameworks
 
 
 ---
@@ -51,7 +52,7 @@ Please use the [ACADIA 2026 Full Papers Style Guide](https://drive.google.com/fi
 ### 2. Projects
 Built work, speculative prototypes, installations, or experimental workflows demonstrating the integration of computational tools with material, cultural, or social contexts.
 **Submission Requirements:** 600-word text (excluding citations and captions) plus a maximum of 10 images.
-**Details:** Project submissions will be blind peer-reviewed. Projects will be published in the conference proceedings and exhibited as posters in the Exhibition. Select submissions may be invited to present in the plenary sessions and/or participate in a discussion panel during the conference. Published projects will be included in the CumInCad database and assigned a DOI. All ACADIA projects are searchable through Web of Science Platform and Scopus. Please refer to ACADIA’s Publication Ethics Guidelines for detailed policies regarding academic writing, originality, plagiarism, intellectual property, and the peer review process.  
+**Details:** Project submissions will be blind peer-reviewed. Projects will be published in the conference proceedings and exhibited as posters in the Exhibition, and authors will be invited to present at the conference. Published projects will be included in the CumInCad database and assigned a DOI. All ACADIA projects are searchable through Web of Science Platform and Scopus. Please refer to ACADIA’s Publication Ethics Guidelines for detailed policies regarding academic writing, originality, plagiarism, intellectual property, and the peer review process.  
 **Deadline:** May 17, 2026, 11:59 pm PST<br>**Notification of Acceptance:** June 2026<br>**Revised Papers Due:** July 2026
 
 Please use the [ACADIA 2026 Projects Style Guide](https://drive.google.com/file/d/1UKvijWV8HaQlIc8KQaKAH3IZMSzintxp/view?usp=sharing) for formatting your submission, and review the Paper/Project Submission Guidelines, the ACADIA Collaborative Authorship Policies, and the ACADIA Artificial Intelligence Guidelines prior to submitting your work.  
