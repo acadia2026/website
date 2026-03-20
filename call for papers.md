@@ -17,7 +17,7 @@ The conference peer-review process is organized around calls for full papers, pr
 
 ### Conference Theme: Humanism Recoded
 
-We anticipate several subthemes for the call for submissions, framing broad areas of inquiry and establishing thematic orientations, including:
+We propose a curated set of subthemes that extend the conference theme into specific areas of inquiry and frame the call for submissions, including:
 
 - **Machines that Care** — Robotics and autonomous systems reimagined as partners in repair, care, and cultural making.
 - **Embodied Codes** — Computation situated in bodies, practices, and local contexts.
@@ -31,6 +31,11 @@ We anticipate several subthemes for the call for submissions, framing broad area
 - **Temporal Layers** — Design and heritage in dialogue with history and memory.
 - **Speculative Grounds** — Design fictions, non-linear worlds, and cultural imaginaries.
 - **Climate Matters** — Computation and making within planetary urgencies.
+
+ACADIA 2026 invites research contributions across, but not limited to, the following areas. Submissions may also engage hybrid approaches that cut across multiple domains:
+
+Artificial Intelligence and AI-driven Design | Augmented Reality and Simulation | Autonomy and Human Agency | Biodesign and Climate Responsive Architecture | Computational Design | Data Capture and Sensing | Design-build and Construction | Digital Fabrication | Ethics and Data Practices | Human-Computer Interaction and Human-Robot Interaction | Material Computation | Pedagogies and Philosophies | Robotics and Automation | Simulation, Predictive Modeling | Spatial Computing and Extended Reality | Theory and Cultural Frameworks
+
 
 ---
 
