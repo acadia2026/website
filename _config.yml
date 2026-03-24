@@ -17,7 +17,7 @@ header_pages:
     children:
       - call for papers.md
       - call for workshops 2026.md
-      - phd workshop.md
+      - phd-workshop.md
       # - book-forum.md
 
   # - title: Program
