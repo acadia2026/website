@@ -8,8 +8,8 @@ permalink: /phd-workshop
 
 ---
 
-**Event Date:** October 21, 2026
-**Workshop Location:** LTU CoAD Campus in Southfield, Michigan**
+**Event Date:** October 21, 2026  
+**Workshop Location:** LTU CoAD Campus in Southfield, Michigan**  
 **Submission Opens:** Early May 2026  
 **Submission Deadline:** June 1, 2026 (11:59 PM PST)  
 **Notification of Acceptance:** June 30, 2026  
@@ -22,4 +22,4 @@ A one-day workshop held as part of the **ACADIA 2026: Humanism Recoded / Detroit
 
 - **Eligibility:** PhD researchers at North American institutions with an approved dissertation proposal.
 - **Submission Requirements:** 150-word abstract, dissertation proposal with methodology and bibliography, and up to 4 captioned images.
-- **Submission Linke:** EasyChair submission portal to open soon.
+- **Submission Link:** EasyChair submission portal to open March 31st.
