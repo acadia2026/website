@@ -12,14 +12,14 @@ permalink: /book-forum
 
 **Event Dates:** October 22–24, 2026  
 **Submission Opens:** Early May 2026  
-**Submission Deadline:** September 20, 2026 (11:59 PM PST)  
-**Notification of Decisions:** September 25, 2026  
+**Submission Deadline:** July 31, 2026 (11:59 PM PST)  
+**Notification of Decisions:** August 15, 2026  
 
-As part of **ACADIA 2026: Humanism Recoded / Detroit, Michigan**, we invite authors of books published between 2021 and 2026 to participate in the ACADIA Book Forum: *PechaKucha Spotlights*.
+As part of **ACADIA 2026: Humanism Recoded / Detroit, Michigan**, we invite authors of books published between 2021 and 2026 to participate in the ACADIA Book Forum.
 
 This curated program highlights recent contributions that reframe computation and making through embodiment and culture. We welcome books engaging artificial intelligence, robotics, digital fabrication, spatial computing, material innovation, theory, pedagogy, and emerging technological practices that humanize design futures.
 
-Selected authors will deliver a PechaKucha-style 5-minute presentation introducing their book’s key themes, contributions, and cultural impact. Selected books will also be featured in a collective exhibition space during the conference, and abstracts will be included in the post-conference proceedings.
+Selected authors will be invited to deliver a presentation introducing their book’s key themes, contributions, and cultural impact. Selected books will also be featured in a collective exhibition space during the conference, and abstracts will be included in the post-conference proceedings.
 
 **[Submit your book here](INSERT SUBMISSION LINK)**
 
