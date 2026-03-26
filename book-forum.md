@@ -21,7 +21,11 @@ This curated program highlights recent contributions that reframe computation an
 
 Selected authors will be invited to deliver a presentation introducing their book’s key themes, contributions, and cultural impact. Selected books will also be featured in a collective exhibition space during the conference, and abstracts will be included in the post-conference proceedings.
 
-**[Submit your book here](INSERT SUBMISSION LINK)**
+<p>
+  <a href="https://docs.google.com/document/d/1bFLSw1HOQbZpDtTRncsUhMFmUaAd9OAMYOlTf9ARljE/edit?usp=drivesdk" style="color: red; font-weight: bold;">
+    Submit your book here
+  </a>
+</p>
 
 ---
 
