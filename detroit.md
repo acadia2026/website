@@ -62,6 +62,10 @@ Detroit and its surroundings offer a rich collection of Art Deco landmarks and s
 
 {% include image-gallery.html folder="/assets/images/detroit/arch" %}
 
+<img src="{{ '/assets/images/site_locations.png' | relative_url }}" 
+     alt="Site Locations Map" 
+     style="width:100%; max-width:100%; height:auto; margin-top:10px; margin-bottom:20px;">
+
 ---
 
 # Additional Sights  
@@ -94,6 +98,10 @@ Detroit and its surroundings offer a rich collection of Art Deco landmarks and s
 **Detroit Wayne County International Airport (DTW)** is a major Delta hub with access to public transportation, ride-sharing services like Uber and Lyft, and official taxis. Note that there are two terminals at DTW; the larger Delta terminal is McNamara Terminal, while all other airlines arrive at the smaller North Terminal. The **Detroit Air Xpress** bus connects the airport to Downtown Detroit with 16 trips daily at $6-8 USD. Public transport options within Detroit include the **Detroit People Mover** and the **QLINE tram**.  
 
 However, the greater Metro Detroit area is a car-centric metropolis, so it is generally recommended to use ride-sharing services or taxis when traveling outside of central Detroit.  
+
+<img src="{{ '/assets/images/locations_map.png' | relative_url }}" 
+     alt="Transportation Routes Map" 
+     style="width:100%; max-width:100%; height:auto; margin-top:10px; margin-bottom:20px;">
 
 ---
 
