@@ -62,11 +62,9 @@ Detroit and its surroundings offer a rich collection of Art Deco landmarks and s
 
 {% include image-gallery.html folder="/assets/images/detroit/arch" %}
 
-<a href="{{ '/assets/images/site_locations.png' | relative_url }}" target="_blank">
-  <img src="{{ '/assets/images/site_locations.png' | relative_url }}" 
-       alt="Site Locations Map" 
-       style="width:100%; max-width:100%; height:auto; margin-top:10px; margin-bottom:20px;">
-</a>
+<img src="{{ '/assets/images/site_locations.png' | relative_url }}" 
+     alt="Site Locations Map" 
+     style="width:100%; max-width:100%; height:auto; margin-top:10px; margin-bottom:20px;">
 
 ---
 
@@ -101,11 +99,9 @@ Detroit and its surroundings offer a rich collection of Art Deco landmarks and s
 
 However, the greater Metro Detroit area is a car-centric metropolis, so it is generally recommended to use ride-sharing services or taxis when traveling outside of central Detroit.  
 
-<a href="{{ '/assets/images/locations_map.png' | relative_url }}" target="_blank">
-  <img src="{{ '/assets/images/locations_map.png' | relative_url }}" 
-       alt="Transportation Routes Map" 
-       style="width:100%; max-width:100%; height:auto; margin-top:10px; margin-bottom:20px;">
-</a>
+<img src="{{ '/assets/images/locations_map.png' | relative_url }}" 
+     alt="Transportation Routes Map" 
+     style="width:100%; max-width:100%; height:auto; margin-top:10px; margin-bottom:20px;">
 
 ---
 
