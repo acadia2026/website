@@ -37,6 +37,7 @@ Applicants should submit the following via the [EasyChair Portal](https://easych
 All submissions will undergo a competitive review by a panel of academics from the ACADIA community. Successful applicants will be selected based on the innovation, relevance, and potential impact of their research within the CAAD field.
 
 ---
+
 ## Key Dates  
 
 - **Submission Deadline:** July 1, 2026 (11:59 PM PST)
@@ -45,7 +46,9 @@ All submissions will undergo a competitive review by a panel of academics from t
 - **Workshop Date:** Wednesday, October 21, 2026 (Hybrid)
 - **Workshop Location:** LTU CoAD Campus Southfield, MI<br/>
 
-**Contact:**
+---
+
+**Contact:**  
 - Assia Crawford: acrawford1@tulane.edu
 - Daniel Koehler: daniel.koehler@utexas.edu
 - Sina Mostafavi: sina.mostafavi@ttu.edu
