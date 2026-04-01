@@ -10,7 +10,7 @@ permalink: /phd-workshop
        style="width:100%; height:auto; display:block;">
 </div>
 
-# ACADIA 2026 Ph.D. CAAD Workshop - Detroit  
+# ACADIA 2026 Ph.D. CAAD Workshop - Detroit, MI  
 
 ---
 
@@ -37,15 +37,15 @@ Applicants should submit the following via the [EasyChair Portal](https://easych
 All submissions will undergo a competitive review by a panel of academics from the ACADIA community. Successful applicants will be selected based on the innovation, relevance, and potential impact of their research within the CAAD field.
 
 ---
-## Key Dates
+## Key Dates<br/>
 
-**Submission Deadline:** July 1, 2026 (11:59 PM PST)\
-**Notification of Acceptance:** Aug 1, 2026\
-**Poster Submission:** Sep 1, 2026\
-**Workshop Date:** Wednesday, October 21, 2026 (Hybrid)\
-**Workshop Location:** LTU CoAD Campus Southfield, MI
+**Submission Deadline:** July 1, 2026 (11:59 PM PST)<br/>
+**Notification of Acceptance:** Aug 1, 2026<br/>
+**Poster Submission:** Sep 1, 2026<br/>
+**Workshop Date:** Wednesday, October 21, 2026 (Hybrid)<br/>
+**Workshop Location:** LTU CoAD Campus Southfield, MI<br/>
 
-**Contact:**\
+**Contact:**<br/>
 Assia Crawford: acrawford1@tulane.edu<br/>
 Daniel Koehler: daniel.koehler@utexas.edu<br/>
 Sina Mostafavi: sina.mostafavi@ttu.edu
