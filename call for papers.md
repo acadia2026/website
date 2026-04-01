@@ -41,13 +41,14 @@ Artificial Intelligence and AI-driven Design &#124; Augmented Reality and Simula
 
 ---
 
-### SUBMISSION INFORMATION AND DEADLINES (EasyChair Portal will open March 31st)
+### SUBMISSION INFORMATION AND DEADLINES (EasyChair Portal now open for submissions)
 ### 1. Full Papers
 Full Papers should present original work embedded within substantial research or creative practice. Submissions may include research-based projects, theoretical papers, design workflows, and/or innovative techniques and methods that advance the field of computational design.
 **Submission Requirements:** Full papers (4,000 words) are invited for submission. All paper submissions are subject to blind peer review. Accepted papers will be published in the conference proceedings, and authors will be invited to present at the conference. Published papers will be included in the CumInCad database and assigned a DOI. All ACADIA papers are searchable through Web of Science Platform and Scopus. Please refer to ACADIA’s Publication Ethics Guidelines for detailed policies regarding academic writing, originality, plagiarism, intellectual property, and the peer review process.  
 **Deadline:** April 19, 2026, 11:59 pm PST<br>**Notification of Acceptance:** May 2026<br>**Revised Papers Due:** June 2026
 
 Please use the [ACADIA 2026 Full Papers Style Guide](https://drive.google.com/file/d/1UKvijWV8HaQlIc8KQaKAH3IZMSzintxp/view?usp=sharing) for formatting your submission, and review the Paper/Project Submission Guidelines, the ACADIA Collaborative Authorship Policies, and the ACADIA Artificial Intelligence Guidelines prior to submitting your work.  
+Submit your paper: [EasyChair Submission Portal](https://easychair.org/my2/conference?conf=acadia2026) </br>
 2023 & 2024 Best Paper [samples](/samplepublications) 
 
 ### 2. Projects
@@ -57,6 +58,7 @@ Built work, speculative prototypes, installations, or experimental workflows dem
 **Deadline:** May 17, 2026, 11:59 pm PST<br>**Notification of Acceptance:** June 2026<br>**Revised Papers Due:** July 2026
 
 Please use the [ACADIA 2026 Projects Style Guide](https://drive.google.com/file/d/1UKvijWV8HaQlIc8KQaKAH3IZMSzintxp/view?usp=sharing) for formatting your submission, and review the Paper/Project Submission Guidelines, the ACADIA Collaborative Authorship Policies, and the ACADIA Artificial Intelligence Guidelines prior to submitting your work.  
+Submit your project: [EasyChair Submission Portal](https://easychair.org/my2/conference?conf=acadia2026)</br>
 2023 & 2024 Best Project [samples](/samplepublications) 
 
 ### 3. Field Notes
@@ -66,6 +68,7 @@ Short-form submissions offering critical provocations, in-progress research, ref
 **Deadline:** May 17, 2026, 11:59 pm PST<br>**Notification of Acceptance:** June 2026<br>**Revised Papers Due:** July 2026
 
 Please use the [ACADIA 2026 Field Notes Style Guide](https://drive.google.com/file/d/1UKvijWV8HaQlIc8KQaKAH3IZMSzintxp/view?usp=sharing) for formatting your submission, and review the Paper/Project Submission Guidelines, the ACADIA Collaborative Authorship Policies, and the ACADIA Artificial Intelligence Guidelines prior to submitting your work.  
+Submit your Field Notes: [EasyChair Submission Portal](https://easychair.org/my2/conference?conf=acadia2026)</br>
 2023 & 2024 Field Notes [samples](/samplepublications) 
 
 ### REVIEW PROCESS
