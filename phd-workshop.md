@@ -29,7 +29,7 @@ This workshop is open to PhD researchers at institutions in North America who ha
 ---
 
 ## Submission Requirements
-Applicants should use the linked [template](https://docs.google.com/document/d/16dCtibbfZJV7JGoHe9Q_qb-CCJiKnNF3/edit?usp=drive_link&ouid=101935870301350948190&rtpof=true&sd=true) and submit the following via the [EasyChair Portal](https://easychair.org/my2/conference?conf=acadia2026):
+Applicants should use the linked [template](https://drive.google.com/file/d/1oXFGi0AcvxdG0d57qLgR6Bk08GeV1ZVY/view?usp=sharing) and submit the following via the [EasyChair Portal](https://easychair.org/my2/conference?conf=acadia2026):
 
 - **A 250-word abstract** summarizing a relevant aspect of your recent research—such as a book chapter, work package, milestone, or prototype—that you wish to discuss with ACADIA peers. Please include up to 4 captioned supporting images. A template with further guidance is available at the submission portal.
 - **The accepted dissertation proposal** describing the research, methodology, work-in-progress findings, and bibliography. Submissions must include the doctoral research title, the applicant's name, and the advisor's name.
