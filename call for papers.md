@@ -45,7 +45,7 @@ Artificial Intelligence and AI-driven Design &#124; Augmented Reality and Simula
 ### 1. Full Papers
 Full Papers should present original work embedded within substantial research or creative practice. Submissions may include research-based projects, theoretical papers, design workflows, and/or innovative techniques and methods that advance the field of computational design.
 **Submission Requirements:** Full papers (4,000 words) are invited for submission. All paper submissions are subject to blind peer review. Accepted papers will be published in the conference proceedings, and authors will be invited to present at the conference. Published papers will be included in the CumInCad database and assigned a DOI. All ACADIA papers are searchable through Web of Science Platform and Scopus. Please refer to ACADIA’s Publication Ethics Guidelines for detailed policies regarding academic writing, originality, plagiarism, intellectual property, and the peer review process.  
-**Deadline:** ~April 19~ May 3 (EXTENDED!), 2026, 11:59 pm AoE (Anywhere on Earth) <br>**Notification of Acceptance:** May 2026<br>**Revised Papers Due:** June 2026
+**Deadline:** ~~April 19~~ **May 3 (EXTENDED!), 2026, 11:59 pm AoE (Anywhere on Earth)** <br>**Notification of Acceptance:** May 2026<br>**Revised Papers Due:** June 2026
 
 Please use the [ACADIA 2026 Full Papers Style Guide](https://drive.google.com/file/d/1UKvijWV8HaQlIc8KQaKAH3IZMSzintxp/view?usp=sharing) for formatting your submission, and review the Paper/Project Submission Guidelines, the ACADIA Collaborative Authorship Policies, and the ACADIA Artificial Intelligence Guidelines prior to submitting your work.  
 Submit your paper: [EasyChair Submission Portal](https://easychair.org/my2/conference?conf=acadia2026)
