@@ -43,7 +43,7 @@ Please prepare the following materials:
 - High-resolution cover image (JPEG or PNG, 300 dpi)
 - Confirmation that you can provide:
   - A physical copy of your book for display during ACADIA 2026 in Detroit (October 22–24)
-  - A PechaKucha presentation file for your 5-minute talk
+  - A presentation file for your talk
   - In-person attendance and full conference registration
 
 ---
