@@ -4,7 +4,6 @@ layout: page
 permalink: /book-forum
 ---
 
-{% include animation.html pattern="  BOOK FORUM  " overlay_text="Call for Book Forum" width=600 height=300 %} 
 
 # ACADIA 2026 Book Forum  
 
