@@ -105,7 +105,8 @@ Workshop outcomes will be **published** as part of the 2026 ACADIA proceedings.
 - 60W CO2 laser for cutting and etching thin materials for model-making
 - Wenzel DesignTec clay mill for processing soft foam, clay, and hard-board (PU-foam)
 - PotterBot 10 Pro for clay printing
-- Eazao Potter X-1
+- Eazao Potter X-1 Desktop ceramic 3D printer
+- Eazao Matrix M600 Large Format Ceramic 3D Printer
 - (14) Prusa 3D printers: seven MK3s, six MK4s with various PLA filaments, and a Prusa XL with two tools.
 - (2) HOLOLENS 2, and Quest 2&3
 
