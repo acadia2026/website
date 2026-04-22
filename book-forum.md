@@ -4,6 +4,11 @@ layout: page
 permalink: /book-forum
 ---
 
+<div style="max-width:700px; margin: 0 auto 24px auto;">
+  <img src="{{ '/assets/images/acadia_graphic1.png' | relative_url }}"
+       alt="ACADIA Book Forum graphic"
+       style="width:100%; height:auto; display:block;">
+</div>
 
 # ACADIA 2026 Book Forum  
 
