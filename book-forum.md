@@ -5,7 +5,7 @@ permalink: /book-forum
 ---
 
 <div style="max-width:700px; margin: 0 auto 24px auto;">
-  <img src="{{ '/assets/images/book-forum-poster.png' | relative_url }}"
+  <img src="{{ '/assets/images/acadia-2026-book-forum-poster.png' | relative_url }}"
        alt="ACADIA Book Forum graphic"
        style="width:100%; height:auto; display:block;">
 </div>
