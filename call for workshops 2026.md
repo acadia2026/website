@@ -120,7 +120,7 @@ Workshop outcomes will be **published** as part of the 2026 ACADIA proceedings.
   <h3>Robotics Lab</h3>
   <div class="equipment-grid">
     <div class="equipment-card">
-      <img src="{{ '/assets/images/workshops/kuka-clay-extruder.jpg' | relative_url }}" alt="Robotic clay extrusion">
+      <img src="{{ '/assets/images/workshops/kuka-clay-extruder.jpeg' | relative_url }}" alt="Robotic clay extrusion">
       <p>Robotic Clay Extrusion</p>
     </div>
 
