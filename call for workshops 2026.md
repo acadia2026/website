@@ -62,7 +62,7 @@ Workshop proposals should include the following:
 
 Please fill out and submit your submission form by **~~April 19th~~ May 3, 2026 (EXTENDED!)** AoE (Anywhere on Earth). Proposals will undergo a juried review process, and successful applicants will receive funding to cover travel, materials, and an honorarium.  
 
-[Submission form](https://docs.google.com/forms/d/e/1FAIpQLScUjFriVPTL5B1noCmOGMdrdmycw0kc3rznTNsq7kHKSmuSjA/viewform?usp=sharing&ouid=108128233923826065100) 
+[Submission form (Please use Google Chrome)](https://docs.google.com/forms/d/e/1FAIpQLScUjFriVPTL5B1noCmOGMdrdmycw0kc3rznTNsq7kHKSmuSjA/viewform?usp=sharing&ouid=108128233923826065100) 
 
 Contact workshop chairs for additional information: **2026@acadia.org**  
 
