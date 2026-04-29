@@ -25,7 +25,7 @@ The conference will bring together researchers, designers, educators, and indust
 - [Full Papers submission](/call-for-papers) deadline: **~~April 19, 2026~~ May 3, 2026 (EXTENDED!)** AoE (Anywhere on Earth) - [EasyChair Submission Portal](https://easychair.org/conferences2/submission_new?a=36394579#%7Bfr:u1iiATjM3dNn%7D)  
 - [Projects / Field Notes submission](/call-for-papers) deadline: **May 17, 2026** AoE (Anywhere on Earth) - [EasyChair Submission Portal](https://easychair.org/conferences2/submission_new?a=36394579#%7Bfr:u1iiATjM3dNn%7D)  
 - [Ph.D. CAAD Workshop](/phd-workshop) deadline: **July 1, 2026**  AoE (Anywhere on Earth) - [EasyChair Submission Portal](https://easychair.org/conferences2/submission_new?a=36394579#%7Bfr:u1iiATjM3dNn%7D)  
-- [Call for Workshop proposals](/callforworkshops2026) deadline: **~~April 19, 2026~~ May 3, 2026 (EXTENDED!)** - [Submission form](https://docs.google.com/forms/d/e/1FAIpQLScUjFriVPTL5B1noCmOGMdrdmycw0kc3rznTNsq7kHKSmuSjA/viewform?usp=sharing&ouid=108128233923826065100) now open. Please use Google Chrome for the submission form.    
+- [Call for Workshop proposals](/callforworkshops2026) deadline: **~~April 19, 2026~~ May 3, 2026 (EXTENDED!)** - [Submission form](https://docs.google.com/forms/d/e/1FAIpQLScUjFriVPTL5B1noCmOGMdrdmycw0kc3rznTNsq7kHKSmuSjA/viewform?usp=sharing&ouid=108128233923826065100) now open. (Please use Google Chrome)    
 - Call for Book Forum submissions: Early May   
 - Registration opens: Early August  
 
