@@ -180,31 +180,35 @@ The fabrication lab in the College of Engineering provides support for metalwork
 }
 
 .equipment-section h3 {
-  margin-top: 24px;
-  margin-bottom: 10px;
+  margin-top: 22px;
+  margin-bottom: 8px;
 }
 
 .equipment-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
-  gap: 14px;
-  margin-bottom: 18px;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 10px;
+  margin-bottom: 16px;
 }
 
 .equipment-card {
   text-align: center;
+  margin: 0;
+  padding: 6px;
+  background: #f8f8f8;
+  border-radius: 6px;
 }
 
 .equipment-card img {
   width: 100%;
-  height: 95px;
-  object-fit: contain;
-  background: #ffffff;
+  height: 130px;
+  object-fit: cover;
   border-radius: 4px;
 }
 
 .equipment-card p {
-  margin-top: 6px;
+  margin-top: 4px;
+  margin-bottom: 0;
   font-size: 0.8rem;
   line-height: 1.25;
 }
