@@ -6,16 +6,16 @@ permalink: /callforworkshops2026
 
 <div style="max-width:700px; margin: 0 auto 24px auto;">
   <img src="{{ '/assets/images/acadia_graphic3_R2.png' | relative_url }}"
-       alt="ACADIA Call for Submissions graphic"
+       alt="ACADIA Call for Workshops graphic"
        style="width:100%; height:auto; display:block;">
 </div>
 
-**CALL FOR WORKSHOPS
+**CALL FOR WORKSHOPS  
 HUMANISM RECODED: Reframing Computation and Making through Embodiment and Culture**  
 
-Humanism Recoded opens a conversation around design and research strategies that leverage digital technologies, robotics, computation, algorithms, material innovation, and advanced fabrication to humanize our visions for the future. The 2026 ACADIA conference at [Lawrence Technological University](https://2026.acadia.org/hosts/). Lawrence Technological University, invites workshop proposals that place human presence, culture, and collective intelligence at the center of computational design—engaging digital technologies, robotics, algorithms, material innovation, and advanced fabrication as empathetic, inclusive agents in shaping futures. We welcome strategies that pair generative and robotic workflows with embodied, site-specific knowledge to address urgent socio-technical and environmental challenges through ethical, culturally situated, and participatory design practices. To enable broader access and a wider range of participants to the conference and workshops, proposals at all skill levels are encouraged to submit.
+Humanism Recoded opens a conversation around design and research strategies that leverage digital technologies, robotics, computation, algorithms, material innovation, and advanced fabrication to humanize our visions for the future. The 2026 ACADIA conference at [Lawrence Technological University](https://2026.acadia.org/hosts/) invites workshop proposals that place human presence, culture, and collective intelligence at the center of computational design, engaging digital technologies, robotics, algorithms, material innovation, and advanced fabrication as empathetic, inclusive agents in shaping futures. We welcome strategies that pair generative and robotic workflows with embodied, site-specific knowledge to address urgent socio-technical and environmental challenges through ethical, culturally situated, and participatory design practices. To enable broader access and a wider range of participants to the conference and workshops, proposals at all skill levels are encouraged.
 
-Workshops will be held in person, online and /or hybrid, leveraging facilities and equipment at LTU as well as hosted across the city of Detroit in collaboration with local firms located in landmark historic buildings downtown. We encourage proposals that engage with the conference theme and utilize the available resources to push the boundaries of digital design and fabrication.
+Workshops will be held in person, online, and/or hybrid, leveraging facilities and equipment at LTU as well as hosted across the city of Detroit in collaboration with local firms located in landmark historic buildings downtown. We encourage proposals that engage with the conference theme and utilize the available resources to push the boundaries of digital design and fabrication.
 
 ---
 
@@ -40,7 +40,7 @@ Workshop proposals should include the following:
 1. **Instructor Information**: Names, affiliations, bios, CVs, and links to previous teaching examples.  
 2. **Workshop Title and Type**: Specify whether the workshop is technical, seminar-based, or another format.  
 3. **Workshop Description**: Provide an overview of topics covered, learning objectives, expected outcomes, required software, and any technical constraints.  
-4. **Workshop Schedule**: Indicate the duration (1–3 days), a daily breakdown, and recommended hours per day (3–8).  
+4. **Workshop Schedule**: Indicate the duration, 1–3 days, a daily breakdown, and recommended hours per day, 3–8.  
 5. **Participant Information**: Define the optimal number of participants, target audience, and any prerequisites.  
 6. **Equipment and Materials**: List the required software, hardware, and other necessary materials.  
 7. **Proposed Budget**: Include an itemized budget detailing anticipated costs and potential funding sources.  
@@ -49,12 +49,11 @@ Workshop proposals should include the following:
 
 ## Important Information
 
-- Each workshop receives up to **$2,000** for travel, accommodations, materials and supplies.  
-- One full conference ticket is covered for the workshop lead. 
+- Each workshop receives up to **$2,000** for travel, accommodations, materials, and supplies.  
+- One full conference ticket is covered for the workshop lead.  
 - Workshop payments are made after the workshop has been completed.  
-- Pending sponsorships, additional material funds may be available.
+- Pending sponsorships, additional material funds may be available.  
 - Workshop leaders are required to present outcomes at the workshop closing event. Results will be published in the post-conference proceedings.  
-
 
 ---
 
@@ -70,11 +69,11 @@ Contact workshop chairs for additional information: **2026@acadia.org**
 
 ## Sponsor a Workshop  
 
-Companies and organizations are invited to sponsor an ACADIA 2026 workshop. Sponsoring a workshop offers direct engagement with participants, visibility for your tools and technologies, and the opportunity to shape the hands-on learning experience at the conference. To discuss workshop sponsorship opportunities, contact our Development Officers at **development@acadia.org**
+Companies and organizations are invited to sponsor an ACADIA 2026 workshop. Sponsoring a workshop offers direct engagement with participants, visibility for tools and technologies, and the opportunity to shape the hands-on learning experience at the conference. To discuss workshop sponsorship opportunities, contact the Development Officers at **development@acadia.org**.
 
 ---
 
-We look forward to receiving proposals that push the boundaries of digital design and fabrication, leveraging Miami's unique challenges and opportunities to create resilient and innovative solutions for the built environment.  
+We look forward to receiving proposals that push the boundaries of digital design and fabrication, leveraging Detroit’s unique challenges and opportunities to create resilient and innovative approaches for the built environment.  
 
 Workshop outcomes will be **published** as part of the 2026 ACADIA proceedings.  
 
@@ -87,8 +86,6 @@ Workshop outcomes will be **published** as part of the 2026 ACADIA proceedings.
 - 2600 sq ft shop space focused on the processing and assembly of wood and plastics; it includes both traditional wood shop and digital fabrication tools;  
 - 250 sq ft Spray Room for the safe and proper application of paints, adhesives, and stains;  
 - 630 sq ft Casting Room for the use of plaster, concrete, and hydrocal.
-
-<!--{% include image-gallery.html folder="/assets/images/miami/um" %}  -->
 
 --- 
 
@@ -110,16 +107,103 @@ Workshop outcomes will be **published** as part of the 2026 ACADIA proceedings.
 - (14) Prusa 3D printers: seven MK3s, six MK4s with various PLA filaments, and a Prusa XL with two tools.
 - (2) HOLOLENS 2, and Quest 2&3
 
-<!-- {% include image-gallery.html folder="/assets/images/miami/fiu" %}   -->
+*All CoAD workshop facilities have full-time and part-time staff to help monitor and facilitate workshop requirements, as well as student assistants that can be deployed as needed for support.*
 
-*All CoAD workshop facilities have full-time and part-time staff to help monitor and facilitate any workshop requirements, as well as student assistants that can be deployed as needed for support.
+**For workshops specifically focused on digital design and computational workflows, sessions would be hosted across the city of Detroit in collaboration with local firms located in landmark historic buildings downtown.**
 
-**For workshops specifically focused on digital design and computational workflows, sessions would be hosted across the city of Detroit in collaboration with local firms located in landmark historic buildings downtown. 
+---
 
---- 
+## Available Equipment + Facilities
+
+<div class="equipment-section">
+
+  <h3>Robotics Lab</h3>
+  <div class="equipment-grid">
+    <div class="equipment-card">
+      <img src="{{ '/assets/images/workshops/kuka-clay-extruder.jpg' | relative_url }}" alt="Robotic clay extrusion">
+      <p>Robotic Clay Extrusion</p>
+    </div>
+
+    <div class="equipment-card">
+      <img src="{{ '/assets/images/workshops/kuka-robot-pair.jpg' | relative_url }}" alt="KUKA industrial robots">
+      <p>KUKA Industrial Robots</p>
+    </div>
+
+    <div class="equipment-card">
+      <img src="{{ '/assets/images/workshops/kuka-robot-operation.jpg' | relative_url }}" alt="Robot control and programming">
+      <p>Robot Control + Programming</p>
+    </div>
+
+    <div class="equipment-card">
+      <img src="{{ '/assets/images/workshops/large-kuka-robot.jpg' | relative_url }}" alt="Large-scale robotic arm">
+      <p>Large-Scale Robotic Arm</p>
+    </div>
+  </div>
+
+  <h3>Digital Fabrication</h3>
+  <div class="equipment-grid">
+    <div class="equipment-card">
+      <img src="{{ '/assets/images/workshops/cnc-router-shopbot.jpg' | relative_url }}" alt="CNC router">
+      <p>CNC Router</p>
+    </div>
+
+    <div class="equipment-card">
+      <img src="{{ '/assets/images/workshops/waterjet-cutter.jpg' | relative_url }}" alt="Waterjet cutter">
+      <p>Waterjet Cutting</p>
+    </div>
+  </div>
+
+  <h3>Wood Shop + Fabrication Space</h3>
+  <div class="equipment-grid">
+    <div class="equipment-card">
+      <img src="{{ '/assets/images/workshops/wood-shop-overview.jpg' | relative_url }}" alt="Fabrication studio">
+      <p>Fabrication Studio</p>
+    </div>
+
+    <div class="equipment-card">
+      <img src="{{ '/assets/images/workshops/wood-tools-line.jpg' | relative_url }}" alt="Woodworking tools">
+      <p>Woodworking Tools</p>
+    </div>
+  </div>
+
+</div>
+
+---
 
 ### LTU CoE Workshop Facilities Support
 
 The fabrication lab in the College of Engineering provides support for metalworking, offering access to traditional equipment such as welders and plasma cutters.
 
+<style>
+.equipment-section {
+  margin-top: 32px;
+}
 
+.equipment-section h3 {
+  margin-top: 28px;
+  margin-bottom: 12px;
+}
+
+.equipment-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.equipment-card {
+  text-align: center;
+}
+
+.equipment-card img {
+  width: 100%;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.equipment-card p {
+  margin-top: 8px;
+  font-size: 0.9rem;
+}
+</style>
