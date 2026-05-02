@@ -15,7 +15,6 @@ permalink: /book-forum
 ---
 
 **Event Dates:** October 22–24, 2026  
-**Submission Opens:** Early May 2026  
 **Submission Deadline:** July 31, 2026, 11:59 PM AoE (Anywhere on Earth)  
 **Notification of Decisions:** August 15, 2026  
 
