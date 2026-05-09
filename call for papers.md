@@ -48,7 +48,7 @@ Full Papers should present original work embedded within substantial research or
 **Deadline:** ~~April 19~~ **May 17 ( FINAL EXTENSION!), 2026, 11:59 pm AoE (Anywhere on Earth)** <br>**Notification of Acceptance:** May 2026<br>**Revised Papers Due:** June 2026
 
 Please use the [ACADIA 2026 Full Papers Style Guide](https://drive.google.com/file/d/1UKvijWV8HaQlIc8KQaKAH3IZMSzintxp/view?usp=sharing) for formatting your submission, and review the Paper/Project Submission Guidelines, the ACADIA Collaborative Authorship Policies, and the ACADIA Artificial Intelligence Guidelines prior to submitting your work.  
-Submit your paper: [EasyChair Submission Portal](https://easychair.org/my/conference?conf=acadia2026)
+Submit your paper: [EasyChair Submission Portal](https://easychair.org/conferences/?conf=acadia2026)
 2023 & 2024 Best Paper [samples](/samplepublications) 
 
 ### 2. Projects
@@ -58,7 +58,7 @@ Built work, speculative prototypes, installations, or experimental workflows dem
 **Deadline:** ~~May 17~~ **June 1 ( FINAL EXTENSION!), 2026, 11:59 pm AoE (Anywhere on Earth)** <br>**Notification of Acceptance:** June 2026<br>**Revised Papers Due:** July 2026
 
 Please use the [ACADIA 2026 Projects Style Guide](https://drive.google.com/file/d/1UKvijWV8HaQlIc8KQaKAH3IZMSzintxp/view?usp=sharing) for formatting your submission, and review the Paper/Project Submission Guidelines, the ACADIA Collaborative Authorship Policies, and the ACADIA Artificial Intelligence Guidelines prior to submitting your work.  
-Submit your project: [EasyChair Submission Portal](https://easychair.org/my/conference?conf=acadia2026)
+Submit your project: [EasyChair Submission Portal](https://easychair.org/conferences/?conf=acadia2026)
 2023 & 2024 Best Project [samples](/samplepublications) 
 
 ### 3. Field Notes
@@ -68,7 +68,7 @@ Short-form submissions offering critical provocations, in-progress research, ref
 **Deadline:** ~~May 17~~ **June 1 ( FINAL EXTENSION!), 2026, 11:59 pm AoE (Anywhere on Earth)** <br>**Notification of Acceptance:** June 2026<br>**Revised Papers Due:** July 2026
 
 Please use the [ACADIA 2026 Field Notes Style Guide](https://drive.google.com/file/d/1UKvijWV8HaQlIc8KQaKAH3IZMSzintxp/view?usp=sharing) for formatting your submission, and review the Paper/Project Submission Guidelines, the ACADIA Collaborative Authorship Policies, and the ACADIA Artificial Intelligence Guidelines prior to submitting your work.  
-Submit your Field Notes: [EasyChair Submission Portal](https://easychair.org/my/conference?conf=acadia2026)
+Submit your Field Notes: [EasyChair Submission Portal](https://easychair.org/conferences/?conf=acadia2026)
 2023 & 2024 Field Notes [samples](/samplepublications) 
 
 ### REVIEW PROCESS
