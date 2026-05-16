@@ -5,7 +5,7 @@ permalink: /call-for-papers
 ---
 
 <div style="max-width:700px; margin: 0 auto 24px auto;">
-  <img src="{{ '/assets/images/acadia_graphic1_R3.png' | relative_url }}"
+  <img src="{{ '/assets/images/acadia_graphic1_R4.png' | relative_url }}"
        alt="ACADIA Call for Submissions graphic"
        style="width:100%; height:auto; display:block;">
 </div>
