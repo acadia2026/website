@@ -6,8 +6,13 @@ permalink: /sponsors/
 
 <h1>Sponsors</h1>
 
-Gold Sponsors
-{% include image-gallery.html folder="/assets/images/sponsors/gold" item_width="40%" image_size="large" show_caption="false" detect_links="true" %}
+**Gold Sponsors**  
+{% include image-gallery.html 
+   folder="/assets/images/sponsors/gold" 
+   item_width="40%" 
+   image_size="large" 
+   show_caption="false" 
+   detect_links="true" %}  
 
 <h2>Academic and Institutional Support</h2>
 
