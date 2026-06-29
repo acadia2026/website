@@ -37,9 +37,14 @@ jobs:
         # https://github.com/ruby/setup-ruby/releases/tag/v1.207.0
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1' # Not needed with a .ruby-version file
+          # Ruby 3.4 ships a modern Bundler that understands libc-specific
+          # platform gems (e.g. sass-embedded x86_64-linux-gnu). The old
+          # Bundler bundled with Ruby 3.1 ignored those precompiled gems and
+          # tried to build sass-embedded from source, which fails on 3.1.7's
+          # OpenSSL/json (undefined method `set_minmax_proto_version`).
+          ruby-version: '3.4'
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-          cache-version: 0 # Increment this number if you need to re-download cached gems
+          cache-version: 1 # Increment this number if you need to re-download cached gems
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v6
