@@ -1,7 +1,7 @@
 title: "ACADIA"
 description: "ACADIA 2026 CONFERENCE"
-url: "https://acadia2026.github.io"
-baseurl: "/website"
+url: "https://2026.acadia.org"
+baseurl: ""
 
 logo: "/assets/images/acadia_logo.png"
 2026logo: "/assets/images/2026_logo.png"
