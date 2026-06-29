@@ -7,6 +7,7 @@ gem "csv"
 
 # Use github-pages gem which bundles compatible Jekyll and dependencies
 gem "github-pages", group: :jekyll_plugins
+gem "rexml", ">= 3.2.7"
 
 # Additional plugins (github-pages may include these, but explicit is safer)
 gem "jekyll-remote-theme"
