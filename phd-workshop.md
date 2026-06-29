@@ -40,7 +40,7 @@ All submissions will undergo a competitive review by a panel of academics from t
 
 ## Key Dates  
 
-- **Submission Deadline:** July 1, 2026 AoE (Anywhere on Earth)
+- **Submission Deadline:** ~~July 1, 2026~~ ** (Extended!) July 20th, 2026 AoE (Anywhere on Earth)**
 - **Notification of Acceptance:** Aug 1, 2026
 - **Poster Submission:** Sep 1, 2026
 - **Workshop Date:** Wednesday, October 21, 2026 (Hybrid)
