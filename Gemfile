@@ -2,13 +2,18 @@
 
 source "https://rubygems.org"
 
-# CSV gem required for Ruby 3.4+ (not needed for Ruby < 3.4, but harmless)
-gem "csv"
+# This site is built and deployed by our own GitHub Actions workflow
+# (configure-pages -> jekyll build -> upload-pages-artifact -> deploy-pages),
+# so we use standalone Jekyll instead of the legacy `github-pages` gem.
+# Using `github-pages` here pulled in jekyll-github-metadata, which crashed
+# the build via jekyll-remote-theme (undefined method `global_munger`).
+gem "jekyll", "~> 4.3"
 
-# Use github-pages gem which bundles compatible Jekyll and dependencies
-gem "github-pages", group: :jekyll_plugins
+# Stdlib gems that newer Rubies no longer bundle by default (harmless on older).
+gem "csv"
 gem "rexml", ">= 3.2.7"
 
-# Additional plugins (github-pages may include these, but explicit is safer)
-gem "jekyll-remote-theme"
-gem "jekyll-seo-tag"
+group :jekyll_plugins do
+  gem "jekyll-remote-theme"
+  gem "jekyll-seo-tag"
+end
