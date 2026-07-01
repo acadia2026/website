@@ -14,6 +14,14 @@ permalink: /sponsors/
    show_caption="false" 
    detect_links="true" %}  
 
+**Bronze Sponsors**  
+{% include image-gallery.html 
+   folder="/assets/images/sponsors/bronze" 
+   item_width="40%" 
+   image_size="large" 
+   show_caption="false" 
+   detect_links="true" %}  
+
 <h2>Academic and Institutional Support</h2>
 
 <div style="display:flex; gap:60px; align-items:center; flex-wrap:wrap; margin-top:20px; margin-bottom:30px;">
