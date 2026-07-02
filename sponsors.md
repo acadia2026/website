@@ -17,7 +17,7 @@ permalink: /sponsors/
 **Bronze Sponsors**  
 {% include image-gallery.html 
    folder="/assets/images/sponsors/bronze" 
-   item_width="40%" 
+   item_width="30%" 
    image_size="large" 
    show_caption="false" 
    detect_links="true" %}  
@@ -25,7 +25,7 @@ permalink: /sponsors/
 **Conference Sponsors**  
 {% include image-gallery.html 
    folder="/assets/images/sponsors/conference" 
-   item_width="40%" 
+   item_width="20%" 
    image_size="large" 
    show_caption="false" 
    detect_links="true" %}  
