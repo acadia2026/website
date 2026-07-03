@@ -6,7 +6,7 @@ permalink: /sponsors/
 
 <h1>Sponsors</h1>
 
-**Gold Sponsors**  
+<h2>Gold Sponsors</h2>   
 {% include image-gallery.html 
    folder="/assets/images/sponsors/gold" 
    item_width="40%" 
@@ -14,7 +14,7 @@ permalink: /sponsors/
    show_caption="false" 
    detect_links="true" %}  
 
-**Bronze Sponsors**  
+<h2>Bronze Sponsors</h2>   
 {% include image-gallery.html 
    folder="/assets/images/sponsors/bronze" 
    item_width="30%" 
@@ -22,7 +22,7 @@ permalink: /sponsors/
    show_caption="false" 
    detect_links="true" %}  
 
-**Conference Sponsors**  
+<h2>Conference Sponsors</h2> 
 {% include image-gallery.html 
    folder="/assets/images/sponsors/conference" 
    item_width="20%" 
@@ -32,15 +32,12 @@ permalink: /sponsors/
 
 <h2>Academic and Institutional Support</h2>
 
-<div style="display:flex; gap:60px; align-items:center; flex-wrap:wrap; margin-top:20px; margin-bottom:30px;">
-  
-  <img src="{{ '/assets/images/ltu_logo.jpg' | relative_url }}"
-       alt="Lawrence Technological University Logo"
-       style="height:110px; width:auto; object-fit:contain;">
-
-  <img src="{{ '/assets/images/coad_logo.png' | relative_url }}"
-       alt="College of Architecture and Design Logo"
-       style="height:110px; width:auto; object-fit:contain;">
+{% include image-gallery.html 
+   folder="/assets/images/sponsors/academic" 
+   item_width="30%" 
+   image_size="large" 
+   show_caption="false" 
+   detect_links="true" %}  
 
 </div>
 
