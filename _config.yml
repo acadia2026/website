@@ -9,9 +9,9 @@ logo: "/assets/images/acadia_logo.png"
 header_pages:
   # - schedule.md
 
-  # - title: Attend
-  #   children:
-  #     - registration.md
+  - title: Attend
+    children:
+      - registration.md
 
   - title: Submit
     children:
