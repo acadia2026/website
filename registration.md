@@ -4,6 +4,14 @@ title: /register
 permalink: /registration/
 ---
 
+<div style="max-width:700px; margin: 0 auto 24px auto;">
+  <img src="{{ '/assets/images/acadia_graphic2.png' | relative_url }}"
+       alt="ACADIA Call for Submissions graphic"
+       style="width:100%; height:auto; display:block;">
+</div>
+
+---
+
 # ACADIA 2026 Conference Registration: Oct 22-24
 
 **[Register on Eventbrite!](https://acadia-2026-conference-tickets.eventbrite.com/)**
