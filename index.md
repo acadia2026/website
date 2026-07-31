@@ -26,7 +26,7 @@ The conference will bring together researchers, designers, educators, and indust
 - [Projects / Field Notes submission](/call-for-papers) deadline: **~~May 17, 2026~~ June 1, 2026 (FINAL EXTENSION!)** AoE (Anywhere on Earth) - [EasyChair Submission Portal](https://easychair.org/conferences/?conf=acadia2026)  
 - [Ph.D. CAAD Workshop](/phd-workshop) deadline: **~~July 1, 2026~~(Extended)July 20, 2026**  AoE (Anywhere on Earth) - [EasyChair Submission Portal](https://easychair.org/conferences/?conf=acadia2026)  
 - [Call for Workshop proposals](/callforworkshops2026) deadline: **~~April 19, 2026~~ May 17, 2026 (FINAL EXTENSION!)** - [Submission form](https://docs.google.com/forms/d/e/1FAIpQLScUjFriVPTL5B1noCmOGMdrdmycw0kc3rznTNsq7kHKSmuSjA/viewform?usp=sharing&ouid=108128233923826065100) now open. (Please use Google Chrome)    
-- Call for Book Forum submissions deadline: **July 31, 2026** 11:59 PM AoE (Anywhere on Earth)  
+- Call for Book Forum submissions deadline: **~~July 31, 2026~~ August 14, 2026 (FINAL EXTENSION!)** 11:59 PM AoE (Anywhere on Earth)  
 - Registration opens: Early August  
 
 Stay tuned as we release updates throughout Summer and Fall 2026.  
