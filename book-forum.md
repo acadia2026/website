@@ -15,8 +15,8 @@ permalink: /book-forum
 ---
 
 **Event Dates:** October 22–24, 2026  
-**Submission Deadline:** July 31, 2026, 11:59 PM AoE (Anywhere on Earth)  
-**Notification of Decisions:** August 15, 2026  
+**Submission Deadline:** ~~July 31, 2026~~ August 14, 2026 (FINAL EXTENSION!)** 11:59 PM AoE (Anywhere on Earth)  
+**Notification of Decisions:** Late August, 2026  
 
 As part of **ACADIA 2026: Humanism Recoded / Detroit, Michigan**, we invite authors of books published between 2021 and 2026 to participate in the ACADIA Book Forum.
 
