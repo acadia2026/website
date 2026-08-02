@@ -6,7 +6,7 @@ caption:  Soft–Hard Programmable Furniture
 permalink: /print-scan-adapt
 project: true
 category: site-workshop
-thumbnail: assets/images/workshops/acadia25-workshop_printscanadapt.jpg
+thumbnail: assets/images/workshops/acadia26-workshop_SoftHand1.png
 
 ---
 
