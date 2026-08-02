@@ -120,7 +120,7 @@ Deliverables:
 
 ## Workshop Gallery
 
-{% include image-gallery.html folder="assets/images/workshops/RoboticPerseption" item_width="30%" show_caption="false" %}
+{% include image-gallery.html folder="assets/images/workshops/BeyondLayers" item_width="30%" show_caption="false" %}
 
 ## Refund and Change Policy
 
