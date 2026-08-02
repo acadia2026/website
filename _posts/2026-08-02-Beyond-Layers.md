@@ -6,7 +6,7 @@ caption:  Beyond Layers
 permalink: /Beyond-Layers
 project: true
 category: site-workshop
-thumbnail: assets/images/workshops/acadia26-workshop_RoboticPerception.jpg
+thumbnail: assets/images/workshops/acadia26-workshop_BeyondLayers.JPG
 
 ---
 
