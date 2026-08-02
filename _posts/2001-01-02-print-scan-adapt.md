@@ -12,11 +12,9 @@ thumbnail: assets/images/workshops/acadia25-workshop_printscanadapt.jpg
 
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
 
-# Print-Scan-Adapt: Feedback-Driven Bead Geometry Control in Pellet Extrusion
+# Soft–Hard Programmable Furniture: Gradient Multi-Material 3D Printing between Comfort, Structure, and Domestic Use
 
-# [Registration Link]()
-
-**Workshop Registration opens August 21st, 2026! Click the link above to be notified when registration becomes available.**
+# Workshop Registration opens August 21st, 2026!
 
 ## Refund and Change Policy
 
