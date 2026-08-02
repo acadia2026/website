@@ -6,7 +6,7 @@ caption:  Procedural Robot Control
 permalink: /procedural-robot-control
 project: true
 category: site-workshop
-thumbnail: assets/images/workshops/acadia26-workshop_SoftHand1.png
+thumbnail: assets/images/workshops/acadia26-workshop_Interactive1.png
 
 ---
 
