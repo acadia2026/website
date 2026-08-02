@@ -3,14 +3,12 @@ layout: post
 title:  "Soft–Hard Programmable Furniture: Gradient Multi-Material 3D Printing between Comfort, Structure, and Domestic Use"
 date:   2014-06-01
 caption:  Soft–Hard Programmable Furniture
-permalink: /print-scan-adapt
+permalink: /soft-hand-programmable-furniture
 project: true
 category: site-workshop
 thumbnail: assets/images/workshops/acadia26-workshop_SoftHand1.png
 
 ---
-
-![{{ page.title }}]{: class="post-thumbnail" }
 
 # Soft–Hard Programmable Furniture: Gradient Multi-Material 3D Printing between Comfort, Structure, and Domestic Use
 
