@@ -22,7 +22,7 @@ header_pages:
       - book-forum.md
 
    - title: Program
-     children:
+  #   children:
   #     - workshops.md
   #     - awards.md
   #     - gallery.md
