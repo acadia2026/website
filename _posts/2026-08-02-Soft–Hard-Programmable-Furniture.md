@@ -11,7 +11,7 @@ thumbnail: assets/images/workshops/acadia26-workshop_SoftHand1.png
 ---
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
 
- <img src="{{ '/assets/images/workshops/kuka-clay-extruder.jpeg' | relative_url }}" alt="Robotic clay extrusion">
+ <img src="{{ '/assets/images/workshops/acadia26-workshop_SoftHand1.png' | relative_url }}" alt="Robotic clay extrusion">
 
 # Soft–Hard Programmable Furniture: Gradient Multi-Material 3D Printing between Comfort, Structure, and Domestic Use
 # Workshop Registration opens August 21st, 2026!
