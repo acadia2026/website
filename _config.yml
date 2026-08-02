@@ -21,8 +21,9 @@ header_pages:
       - phd-workshop.md
       - book-forum.md
 
-  # - title: Program
-  #   children:
+   - title: Program
+     children:
+      - call for workshops 2026.md
   #     - workshops.md
   #     - awards.md
   #     - gallery.md
