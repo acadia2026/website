@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Soft–Hard Programmable Furniture"
+
 date:   2014-06-01
 caption:  Soft–Hard Programmable Furniture
 permalink: /soft-hand-programmable-furniture
@@ -9,9 +9,6 @@ category: site-workshop
 thumbnail: assets/images/workshops/acadia26-workshop_SoftHand1.png
 
 ---
-![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
-
- <img src="{{ '/assets/images/workshops/acadia26-workshop_SoftHand1.png' | relative_url }}" alt="Robotic clay extrusion">
 
 # Soft–Hard Programmable Furniture: Gradient Multi-Material 3D Printing between Comfort, Structure, and Domestic Use
 # Workshop Registration opens August 21st, 2026!
