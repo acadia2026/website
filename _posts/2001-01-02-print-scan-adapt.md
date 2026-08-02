@@ -16,11 +16,13 @@ thumbnail: assets/images/workshops/acadia25-workshop_printscanadapt.jpg
 
 # Workshop Registration opens August 21st, 2026!
 
+# Workshop Dates: 10/19 - 10/21
+
 ## Refund and Change Policy
 
-**Important:** Refund and change requests will not be accepted beyond Monday, October 20th.
+**Important:** Refund and change requests will not be accepted beyond Monday, October 5th.
 
-### Location : LTU
+### Location : LTU, Southfield
 
 ## Workshop Team
 ---
@@ -63,6 +65,7 @@ Participants will prepare a final presentation showing their material-gradient l
 - **Audience**: Students, researchers, and professionals in architecture, design, and digital fabrication
 - **Skill Level**: Intermediate. Prior knowledge of Rhino/Grasshopper is helpful but not required
 - **Group Size**: ~15 participants
+- **Hardware**: laptop capable of running Rhino 7 or Rhino 8 with Grasshopper
 
 ## Workshop Gallery
 
