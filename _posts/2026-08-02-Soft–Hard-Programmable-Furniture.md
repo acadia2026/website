@@ -6,7 +6,7 @@ caption:  Soft–Hard Programmable Furniture
 permalink: /soft-hand-programmable-furniture
 project: true
 category: site-workshop
-thumbnail: assets/images/workshops/acadia25-workshop_forcesinclay.png
+thumbnail: assets/images/workshops/acadia26-workshop_SoftHand1.png
 
 ---
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
