@@ -7,7 +7,7 @@ logo: "/assets/images/acadia_logo.png"
 2026logo: "/assets/images/2026_logo.png"
 
 header_pages:
-   - schedule.md
+# - schedule.md
 
   - title: Attend
     children:
@@ -23,7 +23,6 @@ header_pages:
 
  #  - title: Program
   #   children:
-  #    - call for workshops 2026.md
   #     - workshops.md
   #     - awards.md
   #     - gallery.md
