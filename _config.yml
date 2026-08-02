@@ -23,7 +23,7 @@ header_pages:
 
    - title: Program
      children:
-       - workshops.md
+  #     - workshops.md
   #     - awards.md
   #     - gallery.md
 
