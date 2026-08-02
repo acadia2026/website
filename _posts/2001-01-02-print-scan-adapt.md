@@ -18,10 +18,6 @@ thumbnail: assets/images/workshops/acadia25-workshop_printscanadapt.jpg
 
 # Workshop Dates: 10/19 - 10/21
 
-## Refund and Change Policy
-
-**Important:** Refund and change requests will not be accepted beyond Monday, October 5th.
-
 ### Location : LTU, Southfield
 
 ## Workshop Team
@@ -70,3 +66,7 @@ Participants will prepare a final presentation showing their material-gradient l
 ## Workshop Gallery
 
 {% include image-gallery.html folder="assets/images/workshops/print-scan-adapt" item_width="30%" show_caption="false" %}
+
+## Refund and Change Policy
+
+**Important:** Refund and change requests will not be accepted beyond Monday, October 5th.
