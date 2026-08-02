@@ -20,45 +20,69 @@ thumbnail: assets/images/workshops/acadia26-workshop_Interactive1.png
 ## Workshop Team
 ---
 
-**Teng Teng**, Lawrence Technological University  
-**Yefan Zhi**, University of Pennsylvania
+**Luis Arturo Pacheco**, Florida Atlantic University  
 
 ## Workshop Description
-This workshop investigates soft–hard programmable furniture through gradient multi-material 3D printing. Instead of treating structure and comfort as separate components—rigid frames, cushions, upholstery, pads, or protective edges—the workshop explores how these conditions can be continuously programmed within a single printed furniture system.
+This workshop explores procedural animation as a framework for robotic control and human-machine interaction. Rather than treating robots as systems driven exclusively through fixed trajectories, code-heavy programming, or isolated industrial workflows, participants will develop robotic behaviors through animation logic, procedural systems, spatial interaction, and real-time feedback.
+Framed within the ACADIA 2026 theme Humanism Recoded, the workshop investigates how computational design workflows can become more embodied, expressive, and human-centered through animation-based approaches to robotics. The workshop positions procedural animation as an interaction paradigm capable of shaping robotic behavior, fabrication processes, and collaborative human-machine workflows.
+Using Blender and Animaquina, participants will author robotic motion through keyframes, constraints, procedural systems, Geometry Nodes, and live interaction techniques commonly associated with animation, game development, and digital art. Participants will explore how robots can respond to human input, environmental conditions, and procedural behaviors in ways that move beyond traditional offline robotic programming.
+The workshop emphasizes accessibility and inclusivity by lowering technical barriers traditionally associated with robotic systems. By leveraging spatial and visual workflows, the workshop enables architects, artists, designers, and researchers to engage robotics as a medium for embodied interaction, creative expression, and adaptive fabrication.
+Participants will develop experimental robotic behaviors, interactive toolpaths, and procedural fabrication workflows through a series of guided exercises and collaborative projects.
 
-Participants will examine furniture as a material transition between body contact, structural support, and domestic use. Through stools, low seats, benches, side tables, flexible edges, and backrests, they will map where furniture needs to be stiff, soft, compressible, protective, or tactile. These requirements will be translated into gradient material zones using prepared Rhino/Grasshopper templates that control geometry, rib density, surface texture, infill strategy, and material recipes.
+Participants willl learn:
+Understand procedural animation as a framework for robot control.
+Learn how animation concepts such as constraints, drivers, keyframes, and procedural systems can generate robotic behaviors.
+Explore human-machine interaction through spatial and embodied interfaces.
+Develop interactive robotic workflows using Blender and Animaquina.
+Investigate real-time and sensor-driven robotic interactions.
 
-Fabrication will be supported by two instructor-provided custom multi-material 3D printers. A compact printer with an approximately 30 cm × 30 cm build area will be used for rapid material samples, gradient studies, detail tests, and small-scale furniture models. A larger printer with an approximately 1 m × 1 m build area will be used to fabricate full-scale furniture components and usable prototypes. This two-machine setup allows participants to move efficiently from small tests to furniture-scale applications within the three-day workshop.
+By the end of the workshop, participants will produce:
 
-Expected outcomes include a soft–hard material sample atlas, small-scale furniture studies, full-scale printed components, and one or more exhibition-ready usable furniture prototypes. Through physical testing—sitting, leaning, pressing, bending, and touching—participants will evaluate how gradient material transitions can create integrated cushioning, structural continuity, soft edges, tactile surfaces, and new aesthetic possibilities for furniture design.
+Experimental robotic motion studies
+Interactive procedural toolpaths
+Human-machine interaction prototypes
+Sensor-driven robotic behaviors
+Documentation suitable for exhibition, publication, or future 
 
 ## Workshop Schedule
 
-### Day 1 – Soft–Hard Furniture Mapping and Small-Scale Tests
+### Day 1 – Foundations of Procedural Robot Control
 **Time**: 10:00 am – 5:00 pm (w/ 1-hour break)
-The workshop begins with an introduction to soft–hard programmable furniture, gradient multi-material printing, safety procedures, and the two-machine fabrication setup. Participants will analyze furniture through body contact, structural support, compression, edge protection, and tactile use. Using prepared Rhino/Grasshopper templates, teams will map soft and hard zones for stools, low seats, benches, side tables, backrests, or flexible edge systems.
+Morning
+- Introduction and conceptual framing
+- Blender animation fundamentals
+- Digital twins and robot interaction environments
 
-The 30 cm × 30 cm custom printer will be used for rapid gradient samples, material tests, surface texture studies, and small-scale furniture models. By the end of Day 1, each team will have a clear furniture concept, a soft–hard material map, and printed test samples.
+Afternoon
+- Constraints, drivers, and behavioral motion
+- Interactive toolpath workflows
+- Real-time robot communication
+- Initial robotic experiments
 
-### Day 2 – Design Refinement and Full-Scale Printing
+### Day 2 – Human-Machine Interaction and Behavioral Systems
 **Time**: 10:00 am – 5:00 pm (w/ 1-hour break)
-Teams will review the Day 1 samples and finalize geometry, material recipes, infill logic, rib density, and surface texture. The small printer will continue to support quick iterations, connection details, and scaled models.
+Morning
+- Human-in-the-loop robotic interaction
+- Sensor-driven behaviors
+- Live robotic demonstrations
 
-The 1 m × 1 m custom printer will be used to fabricate full-scale furniture components or usable prototypes. While full-scale prints are running, participants will document the process, adjust parameters, prepare assembly details, and evaluate printed samples. By the end of Day 2, teams should complete major full-scale printed parts or a near-complete furniture prototype.
+Afternoon
+- Final project brainstorm and prototyping
+- Development of participant projects
 
-### Day 3 – Final Prints, Testing, and Exhibition
+### Day 3 – Final Projects
 **Time**: 10:00 am – 5:00 pm (w/ 1-hour break)
-The final day focuses on finishing, assembly, physical testing, and exhibition preparation. Teams will complete remaining prints, trim and assemble components, and test the furniture through sitting, leaning, pressing, bending, touching, and edge-contact scenarios.
-
-Participants will prepare a final presentation showing their material-gradient logic, printed samples, toolpath strategy, fabrication process, and observed soft–hard behavior. The workshop concludes with an exhibition of the material sample atlas, small-scale studies, full-scale components, and one or more usable furniture prototypes.
+- Final project development
+- Documentation and presentations
+- Public demonstrations and discussion
 
 **Total Workshop Time**: 18~20 hours over 3 days
 
 ## Participant Information
 - **Audience**: Students, researchers, and professionals in architecture, design, and digital fabrication
-- **Skill Level**: Intermediate. Prior knowledge of Rhino/Grasshopper is helpful but not required
+- **Skill Level**: Intermediate. Prior knowledge of Blender is helpful but not required
 - **Group Size**: ~15 participants
-- **Hardware**: laptop capable of running Rhino 7 or Rhino 8 with Grasshopper
+- **Hardware**: laptop capable of running Blender
 
 ## Workshop Gallery
 
