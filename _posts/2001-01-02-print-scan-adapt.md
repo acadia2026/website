@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Print-Scan-Adapt: Feedback-Driven Bead Geometry Control in Pellet Extrusion"
+title:  "Soft–Hard Programmable Furniture: Gradient Multi-Material 3D Printing between Comfort, Structure, and Domestic Use"
 date:   2014-06-01
-caption:  AA Print-Scan-Adapt Workshop
+caption:  Soft–Hard Programmable Furniture
 permalink: /print-scan-adapt
 project: true
 category: site-workshop
