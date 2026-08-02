@@ -10,8 +10,6 @@ thumbnail: assets/images/workshops/acadia26-workshop_SoftHand1.png
 
 ---
 
-# Soft–Hard Programmable Furniture: Gradient Multi-Material 3D Printing between Comfort, Structure, and Domestic Use
-
 # Workshop Registration opens August 21st, 2026!
 
 # Workshop Dates: 10/19 - 10/21
