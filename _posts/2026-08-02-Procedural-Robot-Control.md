@@ -86,7 +86,7 @@ Afternoon
 
 ## Workshop Gallery
 
-{% include image-gallery.html folder="assets/images/workshops/print-scan-adapt" item_width="30%" show_caption="false" %}
+{% include image-gallery.html folder="assets/images/workshops/interactive" item_width="30%" show_caption="false" %}
 
 ## Refund and Change Policy
 
