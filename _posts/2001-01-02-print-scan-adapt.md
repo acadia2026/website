@@ -37,13 +37,6 @@ Fabrication will be supported by two instructor-provided custom multi-material 3
 
 Expected outcomes include a soft–hard material sample atlas, small-scale furniture studies, full-scale printed components, and one or more exhibition-ready usable furniture prototypes. Through physical testing—sitting, leaning, pressing, bending, and touching—participants will evaluate how gradient material transitions can create integrated cushioning, structural continuity, soft edges, tactile surfaces, and new aesthetic possibilities for furniture design.
 
-## Key Learning Outcomes
-- **Understand Pellet-Based Additive Manufacturing**: Identify and analyze the challenges of pellet extrusion, including flow instability, bead width variation, and die swell.
-- **Integrate Sensing for Real-Time Feedback**: Set up and operate a scan-to-feedback workflow using Intel RealSense and Grasshopper, correlating robotic parameters with measured bead geometry.
-- **Develop Predictive Toolpath Models**: Build width-mapping models that translate target bead sizes into adjustable toolpath parameters and control variable deposition as a design element.
-- **Fabricate Adaptive, Data-Driven Modules**: Apply image-sampler logic and adaptive control to produce modules demonstrating material responsiveness and surface variation.
-- **Collaborate on Collective Assemblies**: Contribute to a final prototype that embodies resilience, material intelligence, and computational design.
-
 ## Workshop Schedule
 
 ### Day 1 – Soft–Hard Furniture Mapping and Small-Scale Tests
@@ -52,37 +45,24 @@ The workshop begins with an introduction to soft–hard programmable furniture, 
 
 The 30 cm × 30 cm custom printer will be used for rapid gradient samples, material tests, surface texture studies, and small-scale furniture models. By the end of Day 1, each team will have a clear furniture concept, a soft–hard material map, and printed test samples.
 
-### Day 2 – Mapping & Design Integration
+### Day 2 – Design Refinement and Full-Scale Printing
 **Time**: 10:00 am – 5:00 pm (w/ 1-hour break)
-- Developing a mapping function: target width → robot parameters
-- Introducing image-sampler logic in Grasshopper
-- Designing variable-width toolpaths based on images/patterns
-- Pilot printing of patterned strips with scan validation
+Teams will review the Day 1 samples and finalize geometry, material recipes, infill logic, rib density, and surface texture. The small printer will continue to support quick iterations, connection details, and scaled models.
 
-**Deliverables**:
-- Fitted width-mapping function
-- First patterned test strips with visible variation in bead width
-- Scan data comparing intended vs. achieved bead geometry
+The 1 m × 1 m custom printer will be used to fabricate full-scale furniture components or usable prototypes. While full-scale prints are running, participants will document the process, adjust parameters, prepare assembly details, and evaluate printed samples. By the end of Day 2, teams should complete major full-scale printed parts or a near-complete furniture prototype.
 
-### Day 3 – Prototyping & Assembly
+### Day 3 – Final Prints, Testing, and Exhibition
 **Time**: 10:00 am – 5:00 pm (w/ 1-hour break)
-- Generating toolpaths for final modules (column/arch components)
-- Printing with variable-width toolpaths; scanning to validate
-- Assembly of modules into collective prototype
-- Wrap-up: discussion of resilient workflows, sustainability, and design expression
+The final day focuses on finishing, assembly, physical testing, and exhibition preparation. Teams will complete remaining prints, trim and assemble components, and test the furniture through sitting, leaning, pressing, bending, touching, and edge-contact scenarios.
 
-**Deliverables**:
-- Individual modules printed with intentional bead width variation
-- Scans validating controlled over-/under-extrusion
-- Collective prototype (assembled column/arch)
-- Group reflections on outcomes and future applications
+Participants will prepare a final presentation showing their material-gradient logic, printed samples, toolpath strategy, fabrication process, and observed soft–hard behavior. The workshop concludes with an exhibition of the material sample atlas, small-scale studies, full-scale components, and one or more usable furniture prototypes.
 
-**Total Workshop Time**: ~21 hours over 3 days
+**Total Workshop Time**: 18~20 hours over 3 days
 
 ## Participant Information
 - **Audience**: Students, researchers, and professionals in architecture, design, and digital fabrication
 - **Skill Level**: Intermediate. Prior knowledge of Rhino/Grasshopper is helpful but not required
-- **Group Size**: 15–20 participants
+- **Group Size**: ~15 participants
 
 ## Workshop Gallery
 
