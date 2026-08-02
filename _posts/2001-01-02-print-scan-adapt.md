@@ -14,21 +14,21 @@ thumbnail: assets/images/workshops/acadia25-workshop_printscanadapt.jpg
 
 # Print-Scan-Adapt: Feedback-Driven Bead Geometry Control in Pellet Extrusion
 
-# [Registration Link](https://www.eventbrite.com/e/acadia-2025-workshops-tickets-1559581613589?aff=oddtdtcreator)
+# [Registration Link]()
 
-**Workshop Registration opens September 8th, 2025! Click the link above to be notified when registration becomes available.**
+**Workshop Registration opens August 21st, 2026! Click the link above to be notified when registration becomes available.**
 
 ## Refund and Change Policy
 
 **Important:** Refund and change requests will not be accepted beyond Monday, October 20th.
 
-### Location : FIU
+### Location : LTU
 
 ## Workshop Team
 ---
 
-**Aldo Sollazzo**, LAMÁQUINA  
-**Hritik Thumar**, LAMÁQUINA
+**Teng Teng**, Lawrence Technological University  
+**Yefan Zhi**, University of Pennsylvania
 
 ## Workshop Description
 This workshop investigates soft–hard programmable furniture through gradient multi-material 3D printing. Instead of treating structure and comfort as separate components—rigid frames, cushions, upholstery, pads, or protective edges—the workshop explores how these conditions can be continuously programmed within a single printed furniture system.
