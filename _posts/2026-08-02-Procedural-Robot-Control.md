@@ -2,15 +2,15 @@
 layout: post
 title:  ""
 date:   2014-06-01
-caption:  Soft–Hard Programmable Furniture
-permalink: /soft-hand-programmable-furniture
+caption:  Procedural Robot Control
+permalink: /procedural-robot-control
 project: true
 category: site-workshop
 thumbnail: assets/images/workshops/acadia26-workshop_SoftHand1.png
 
 ---
 
-# Soft–Hard Programmable Furniture: Gradient Multi-Material 3D Printing between Comfort, Structure, and Domestic Use
+# Procedural Robot Control: Animating Human-Machine Interaction
 # Workshop Registration opens August 21st, 2026!
 
 # Workshop Dates: 10/19 - 10/21
