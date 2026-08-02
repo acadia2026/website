@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Forces in Clay: Designing Reef Habitats with 3D Graphic Statics and Clay 3D Printing"
+title:  ""
 date:   2014-06-01
-caption:  Soft–Hard Programmable
+caption:  Soft–Hard Programmable Furniture
 permalink: /soft-hand-programmable-furniture
 project: true
 category: site-workshop
