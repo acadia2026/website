@@ -10,7 +10,7 @@ thumbnail: assets/images/workshops/acadia26-workshop_SoftHand1.png
 
 ---
 
-![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
+![{{ page.title }}]{: class="post-thumbnail" }
 
 # Soft–Hard Programmable Furniture: Gradient Multi-Material 3D Printing between Comfort, Structure, and Domestic Use
 
