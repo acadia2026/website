@@ -46,18 +46,11 @@ Expected outcomes include a soft–hard material sample atlas, small-scale furni
 
 ## Workshop Schedule
 
-### Day 1 – Calibration & Data Collection
+### Day 1 – Soft–Hard Furniture Mapping and Small-Scale Tests
 **Time**: 10:00 am – 5:00 pm (w/ 1-hour break)
-- Welcome + overview of ACADIA theme & workshop goals
-- Introduction to pellet extrusion and feedback workflows
-- Printing test coupons: straight lines, arcs, corners at varying speeds
-- Scanning workflow: bead width extraction with RealSense
-- Building initial speed vs width dataset
+The workshop begins with an introduction to soft–hard programmable furniture, gradient multi-material printing, safety procedures, and the two-machine fabrication setup. Participants will analyze furniture through body contact, structural support, compression, edge protection, and tactile use. Using prepared Rhino/Grasshopper templates, teams will map soft and hard zones for stools, low seats, benches, side tables, backrests, or flexible edge systems.
 
-**Deliverables**:
-- Set of calibration prints
-- Logged dataset correlating speed with bead width
-- Preliminary visualization of width vs. speed graph
+The 30 cm × 30 cm custom printer will be used for rapid gradient samples, material tests, surface texture studies, and small-scale furniture models. By the end of Day 1, each team will have a clear furniture concept, a soft–hard material map, and printed test samples.
 
 ### Day 2 – Mapping & Design Integration
 **Time**: 10:00 am – 5:00 pm (w/ 1-hour break)
