@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Soft–Hard Programmable Furniture: Gradient Multi-Material 3D Printing between Comfort, Structure, and Domestic Use"
+title:  "Soft–Hard Programmable Furniture"
 date:   2014-06-01
 caption:  Soft–Hard Programmable Furniture
 permalink: /soft-hand-programmable-furniture
