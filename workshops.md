@@ -4,8 +4,8 @@ layout: page
 permalink: /workshops
 ---
 <div style="max-width:700px; margin: 0 auto 24px auto;">
-  <img src="{{ '/assets/images/acadia_graphic3_R3.png' | relative_url }}"
-       alt="ACADIA Call for Workshops graphic"
+  <img src="{{ '/assets/images/acadia_graphic2.png' | relative_url }}"
+       alt="ACADIA Call for Submissions graphic"
        style="width:100%; height:auto; display:block;">
 </div>
 
