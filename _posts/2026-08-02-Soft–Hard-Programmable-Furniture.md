@@ -13,7 +13,7 @@ thumbnail: assets/images/workshops/acadia26-workshop_SoftHand2.png
 **Gradient Multi-Material 3D Printing between Comfort, Structure, and Domestic Use**
 
 # Workshop Dates: 10/19 - 10/21
-
+<strong>Location: <a href="https://maps.app.goo.gl/7ESkfaU28hXwvJ3Z8" target="_blank" rel="noopener noreferrer">LTU, Southfield</a></strong>
 **Location: [LTU, Southfield](https://maps.app.goo.gl/7ESkfaU28hXwvJ3Z8)**
 
 <p style="margin: 0; font-size: 15px; font-weight: bold;">Workshop Team</p>
@@ -22,7 +22,7 @@ thumbnail: assets/images/workshops/acadia26-workshop_SoftHand2.png
 </p>
 
 # Workshop Registration opens August 21st, 2026!
-
+21000 West 10 Mile Road, Southfield, MI 48075
 ---
 
 ## Workshop Description
