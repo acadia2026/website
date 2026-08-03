@@ -6,7 +6,7 @@ caption:  Grant Proposal Writing
 permalink: /grant-proposal-writing
 project: true
 category: site-workshop
-thumbnail: assets/images/workshops/acadia26-workshop_UrbanAI.png
+thumbnail: assets/images/workshops/acadia26-workshop_GrantWriting.jpg
 
 ---
 <span style="font-size: 24px; font-weight: bold;">Grant Proposal Writing:</span>
@@ -66,7 +66,7 @@ A hands-on writing session in which participants respond to a real call for prop
 
 ## Workshop Gallery
 
-{% include image-gallery.html folder="assets/images/workshops/UrbanAI" item_width="30%" show_caption="false" %}
+{% include image-gallery.html folder="assets/images/workshops/GrantWriting" item_width="30%" show_caption="false" %}
 
 ## Refund and Change Policy
 
