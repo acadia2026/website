@@ -9,7 +9,8 @@ category: site-workshop
 thumbnail: assets/images/workshops/acadia26-workshop_Interactive1.png
 
 ---
-<span style="font-size: 24px; font-weight: bold;">Procedural Robot Control: Animating Human-Machine Interaction</span>
+<span style="font-size: 24px; font-weight: bold;">Procedural Robot Control:</span>
+**Animating Human-Machine Interaction**
 
 # Workshop Dates: 10/19 - 10/21
 <strong>Location: <a href="https://maps.app.goo.gl/7ESkfaU28hXwvJ3Z8" target="_blank" rel="noopener noreferrer">LTU, Southfield</a></strong>
