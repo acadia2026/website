@@ -12,7 +12,7 @@ thumbnail: assets/images/workshops/acadia26-workshop_GrantWriting.jpg
 <span style="font-size: 24px; font-weight: bold;">Grant Proposal Writing:</span>
 **Strategy, Structure, and Craft**
 
-# Workshop Dates: 10/21
+# Workshop Dates: 10/16 (Online) & 10/21 (In Person)
 <strong>Location: <a href="https://maps.app.goo.gl/7ESkfaU28hXwvJ3Z8" target="_blank" rel="noopener noreferrer">LTU, Southfield</a></strong>
 **Address:** 21000 West 10 Mile Road, Southfield, MI 48075
 
