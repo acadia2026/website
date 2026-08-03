@@ -6,25 +6,25 @@ caption:  Soft–Hard Programmable Furniture
 permalink: /soft-hand-programmable-furniture
 project: true
 category: site-workshop
-<span style="font-size: 24px;">Workshop Registration opens August 21st, 2026!</span>
 thumbnail: assets/images/workshops/acadia26-workshop_SoftHand1.png
 
 ---
 
-<span style="font-size: 36px;">Soft–Hard Programmable Furniture:</span>
+<span style="font-size: 24px;">Soft–Hard Programmable Furniture:</span>
 # Gradient Multi-Material 3D Printing between Comfort, Structure, and Domestic Use
-
-# [Workshop Registration opens August 21st, 2026!]
 
 # Workshop Dates: 10/19 - 10/21
 
 ### Location : LTU, Southfield
 
 ## Workshop Team
----
 
 **Teng Teng**, Lawrence Technological University  
 **Yefan Zhi**, University of Pennsylvania
+
+## Workshop Registration opens August 21st, 2026!
+
+---
 
 ## Workshop Description
 This workshop investigates soft–hard programmable furniture through gradient multi-material 3D printing. Instead of treating structure and comfort as separate components—rigid frames, cushions, upholstery, pads, or protective edges—the workshop explores how these conditions can be continuously programmed within a single printed furniture system.
