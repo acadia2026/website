@@ -9,19 +9,20 @@ category: site-workshop
 thumbnail: assets/images/workshops/acadia26-workshop_BeyondLayers.JPG
 
 ---
-
-# Beyond Layers
-# Workshop Registration opens August 21st, 2026!
+<span style="font-size: 24px; font-weight: bold;">Beyond Layers</span>
 
 # Workshop Dates: 10/19 - 10/21
+<strong>Location: <a href="https://maps.app.goo.gl/7ESkfaU28hXwvJ3Z8" target="_blank" rel="noopener noreferrer">LTU, Southfield</a></strong>
+**Address:** 21000 West 10 Mile Road, Southfield, MI 48075
 
-### Location : LTU, Southfield
+<p style="margin: 0; font-size: 15px; font-weight: bold;">Workshop Team</p>
+<p style="margin: 0;"><strong>Aldo Sollazzo</strong>, The Institute for Advanced Architecture of Catalonia</p>
+<p style="margin: 0;"><strong>Hritik Thumar</strong>, LAMAQUINA
+</p>
 
-## Workshop Team
+# Workshop Registration opens August 21st, 2026!
+
 ---
-
-**Aldo Sollazzo**, The Institute for Advanced Architecture of Catalonia
-**Hritik Thumar**, LAMAQUINA
 
 ## Workshop Description
 Beyond Layers explores how embodied craft knowledge can inform robotic fabrication workflows through clay additive manufacturing, gesture capture, and robotic post processing. The workshop investigates surface finishing not as a secondary corrective step, but as a collaborative process between human intuition and robotic systems.
