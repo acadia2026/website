@@ -60,9 +60,7 @@ A hands-on writing session in which participants respond to a real call for prop
 
 ## Participant Information
 - **Audience**: Tenure-track faculty, doctoral students, and anyone with a project idea in need of funding.
-- **Skill Level**: Intermediate. Prior knowledge of Rhino/Grasshopper is helpful but not required
 - **Group Size**: ~30 participants
-- **Hardware**: laptop capable of running Rhino 7 or Rhino 8 with Grasshopper
 
 ## Workshop Gallery
 
