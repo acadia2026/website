@@ -14,7 +14,7 @@ thumbnail: assets/images/workshops/acadia26-workshop_SoftHand2.png
 
 # Workshop Dates: 10/19 - 10/21
 <strong>Location: <a href="https://maps.app.goo.gl/7ESkfaU28hXwvJ3Z8" target="_blank" rel="noopener noreferrer">LTU, Southfield</a></strong>
-**Location:** 21000 West 10 Mile Road, Southfield, MI 48075
+**Address:** 21000 West 10 Mile Road, Southfield, MI 48075
 
 <p style="margin: 0; font-size: 15px; font-weight: bold;">Workshop Team</p>
 <p style="margin: 0;"><strong>Teng Teng</strong>, Lawrence Technological University</p>
