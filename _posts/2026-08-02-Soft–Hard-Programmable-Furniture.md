@@ -1,4 +1,3 @@
-<span style="font-size: 24px;">Workshop Registration opens August 21st, 2026!</span>
 ---
 layout: post
 title:  ""
@@ -7,6 +6,7 @@ caption:  Soft–Hard Programmable Furniture
 permalink: /soft-hand-programmable-furniture
 project: true
 category: site-workshop
+<span style="font-size: 24px;">Workshop Registration opens August 21st, 2026!</span>
 thumbnail: assets/images/workshops/acadia26-workshop_SoftHand1.png
 
 ---
