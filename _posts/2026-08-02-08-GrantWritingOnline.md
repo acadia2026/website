@@ -13,8 +13,7 @@ thumbnail: assets/images/workshops/acadia26-workshop_GrantWritingOnline.jpg
 **Strategy, Structure, and Craft**
 
 # Workshop Dates: 10/16 (Online)
-<strong>Location: <a href="https://maps.app.goo.gl/7ESkfaU28hXwvJ3Z8" target="_blank" rel="noopener noreferrer">LTU, Southfield</a></strong>
-**Address:** 21000 West 10 Mile Road, Southfield, MI 48075
+<strong>Location: Online</strong>
 
 <p style="margin: 0; font-size: 15px; font-weight: bold;">Workshop Team</p>
 <p style="margin: 0;"><strong> Dr. Shahin Vassigh</strong>, <a href="https://case.fiu.edu/about/directory/affiliated-profiles/vassigh-shahin.html" target="_blank" rel="noopener noreferrer">Florida International University</a></p>
