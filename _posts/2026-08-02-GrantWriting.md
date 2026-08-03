@@ -2,15 +2,15 @@
 layout: post
 title:  ""
 date:   2014-06-01
-caption:  Unlearning Boundaries
-permalink: /unlearning-boundaries
+caption:  Grant Proposal Writing
+permalink: /grant-proposal-writing
 project: true
 category: site-workshop
 thumbnail: assets/images/workshops/acadia26-workshop_UrbanAI.png
 
 ---
-<span style="font-size: 24px; font-weight: bold;">Unlearning Boundaries:</span>
-**AI, Regionalization, and the Future of Urban Design**
+<span style="font-size: 24px; font-weight: bold;">Grant Proposal Writing:</span>
+**Strategy, Structure, and Craft**
 
 # Workshop Dates: 10/21
 <strong>Location: <a href="https://maps.app.goo.gl/1xgqmZ4BuH3DFbPXA" target="_blank" rel="noopener noreferrer">Downtown, Detroit at Urban Tech Xchange</a></strong>
