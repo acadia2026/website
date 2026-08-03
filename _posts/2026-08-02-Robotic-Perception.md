@@ -9,19 +9,20 @@ category: site-workshop
 thumbnail: assets/images/workshops/acadia26-workshop_RoboticPerception.jpg
 
 ---
-
-# Robotic Perception Workflows for Hybrid Assembly
-# Workshop Registration opens August 21st, 2026!
+<span style="font-size: 24px; font-weight: bold;">Robotic Perception Workflows for Hybrid Assembly</span>
 
 # Workshop Dates: 10/19 - 10/21
+<strong>Location: <a href="https://maps.app.goo.gl/7ESkfaU28hXwvJ3Z8" target="_blank" rel="noopener noreferrer">LTU, Southfield</a></strong>
+**Address:** 21000 West 10 Mile Road, Southfield, MI 48075
 
-### Location : LTU, Southfield
+<p style="margin: 0; font-size: 15px; font-weight: bold;">Workshop Team</p>
+<p style="margin: 0;"><strong>Joshua Bard</strong>, Carnegie Mellon University</p>
+<p style="margin: 0;"><strong>Jiaying Wei</strong>, Carnegie Mellon University
+</p>
 
-## Workshop Team
+# Workshop Registration opens August 21st, 2026!
+
 ---
-
-**Joshua Bard**, Carnegie Mellon University
-**Jiaying Wei**, Carnegie Mellon University
 
 ## Workshop Description
 This workshop belongs to the Autonomous and Hybrid Fabrication track and teaches a focused ROS-based perception-to-fabrication workflow for human-robot assembly using two reliable methods: fiducial markers and skeleton extraction for localization, pose estimation, registration, and inspection, and also supports human-encoded commands that trigger robot actions via eye-in-hand sensing. These outputs are connected to guided instructions, robot inspection, and simple real-time actions such as autonomous or human-collaborative marking for material processing and assembly. The workshop will also open to experiments with learning-based methods, such as FoundationPose and Yolov8 instant segmentation, as extensions.
