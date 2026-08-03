@@ -21,7 +21,7 @@ thumbnail: assets/images/workshops/acadia26-workshop_SoftHand1.png
 <p style="margin: 0;"><strong>Yefan Zhi</strong>, University of Pennsylvania
 </p>
 
-## Workshop Registration opens August 21st, 2026!
+# Workshop Registration opens August 21st, 2026!
 
 ---
 
