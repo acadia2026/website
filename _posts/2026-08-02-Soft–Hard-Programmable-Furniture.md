@@ -64,7 +64,7 @@ Participants will prepare a final presentation showing their material-gradient l
 
 ## Workshop Gallery
 
-{% include image-gallery.html folder="assets/images/workshops/print-scan-adapt" item_width="30%" show_caption="false" %}
+{% include image-gallery.html folder="assets/images/workshops/SoftHard" item_width="30%" show_caption="false" %}
 
 ## Refund and Change Policy
 
