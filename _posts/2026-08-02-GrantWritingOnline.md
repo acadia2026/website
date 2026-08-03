@@ -6,7 +6,7 @@ caption:  Grant Proposal Writing (Online)
 permalink: /grant-proposal-writing-online
 project: true
 category: online-workshop
-thumbnail: assets/images/workshops/acadia26-workshop_GrantWriting.jpg
+thumbnail: assets/images/workshops/acadia26-workshop_GrantWritingOnline.jpg
 
 ---
 <span style="font-size: 24px; font-weight: bold;">Grant Proposal Writing:</span>
