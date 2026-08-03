@@ -13,81 +13,55 @@ thumbnail: assets/images/workshops/acadia26-workshop_UrbanAI.png
 **Strategy, Structure, and Craft**
 
 # Workshop Dates: 10/21
-<strong>Location: <a href="https://maps.app.goo.gl/1xgqmZ4BuH3DFbPXA" target="_blank" rel="noopener noreferrer">Downtown, Detroit at Urban Tech Xchange</a></strong>
-**Address:** 1520 Woodward Ave, Detroit, MI 48226
+<strong>Location: <a href="https://maps.app.goo.gl/7ESkfaU28hXwvJ3Z8" target="_blank" rel="noopener noreferrer">LTU, Southfield</a></strong>
+**Address:** 21000 West 10 Mile Road, Southfield, MI 48075
 
 <p style="margin: 0; font-size: 15px; font-weight: bold;">Workshop Team</p>
-<p style="margin: 0;"><strong> Dr. Karla Saldaña Ochoa</strong>, University of Florida, <a href="https://www.instagram.com/sharelab.ai/" target="_blank" rel="noopener noreferrer">instagram</a></p>
-<p style="margin: 0;"><strong>Dr. Shangde Gao</strong>, University of Florida
-</p>
+<p style="margin: 0;"><strong> Dr. Shahin Vassigh</strong>, <a href="https://case.fiu.edu/about/directory/affiliated-profiles/vassigh-shahin.html" target="_blank" rel="noopener noreferrer">Florida International University</a></p>
 
 # Workshop Registration opens August 21st, 2026!
 
 ---
 
 ## Workshop Description
-Cities are increasingly facing climate risks, demographic shifts, and uneven infrastructure development. However, the spatial units we typically use to analyze and design the built environment, such as census tracts, traffic analysis zones, and neighborhood boundaries, have remained largely unchanged. These regions are often established for specific needs, such as efficient postal service (ZIP codes) rather than design, yet they are often used to guide decisions and policies in urban design practices intended to represent the entire area where the design is planned. As demonstrated by various city interventions, these static boundaries often fail to reflect the diverse conditions architects and planners encounter when designing solutions. This in-person workshop aims to introduce a data-driven, demand-oriented approach to regionalization as a participatory alternative. The goal is to identify similarities among geographic areas based on specific needs, such as climate mitigation strategies, landscape architecture requirements, or urban infrastructure redevelopment. This workflow enables researchers and practitioners to create spatial units tailored to their design questions, sites, and concerns.
+Grant writing is both a craft and a strategic act. It transforms a compelling idea into a fundable reality. This two-day workshop guides participants through the full arc of the grant writing process, from initial concept to a complete draft proposal. Through a combination of instruction, discussion, and hands-on writing, participants will learn how to plan a proposal, build a team, craft a persuasive narrative, and develop a budget that supports their objectives.
 
-This workshop will explore how to create locally informed regions that encompass collections of similar geographical areas while distinguishing when a new group of similar areas begins. We will achieve this by integrating computational techniques with geo-tagged data from various sources. Our focus will be on AI geoprocessing methods, such as machine learning object detection, to analyze urban morphology using data from Google Street View, OpenStreetMap, and satellite imagery. Additionally, we will provide a list of open-source datasets that capture specific phenomena, including weather-related events like flooding. Participants will also have the opportunity to incorporate their own proprietary data, including urban and architectural models generated in any CAD software, to test how a particular design decision may influence a similar area and when modifications to the design solution may be necessary to meet the needs of a distinctly different area.
+Workshop Objectives
+By the end of this workshop, participants will be able to:
+- Identify best practices in grant writing and distinguish them from academic writing conventions
+- Locate and evaluate funding sources appropriate to their project
+- Apply the fundamental elements of a strong grant proposal
+- Strategically revise and resubmit a proposal after rejection
+- The workshop meets across two sessions.
 
-At the core of the workshop is RepSC-SOM (Representative-initialized, Spatially Constrained Self-Organizing Map), a regionalization method recently published in Nature’s Scientific Reports. In this human-controlled multi-step framework, participants can embed multidimensional features using an encoder, cluster grid maps under spatial constraints, and refine region boundaries using region-growing algorithms. Through a browser-accessed platform hosted on HuggingFace and supported by the Claude API, participants can configure the regionalization process and validate the generated regions against topic-specific data of their own choice, such as environmental, demographic, mobility, or material indicators.
+The workshop covers four core areas.
+- Introduction to Grant Writing covers how to structure a compelling narrative, address a specific problem or opportunity, establish feasibility and relevance, and make a persuasive case to reviewers.
+- Pre-Proposal Groundwork addresses team-building strategies, collaborative planning, and working effectively with your institution's research office.
+- Strategic Planning focuses on identifying the right funding agencies, articulating your project's significance, and mapping a clear path to a successful submission.
+- Writing the Proposal walks participants through each section of a complete grant: rationale, goals and objectives, significance, research plan, impacts, outcomes, dissemination strategy, budget, and budget justification.
 
-No prior expertise in machine learning or geospatial analysis is required. Participants will be guided through the conceptual foundations and computational steps, with all platform tools accessible through the browser. Using a pre-configured pipeline and sample datasets from Detroit, MI, and Jacksonville, FL, attendees will learn to acquire and preprocess local data, extract and embed features from 3D building models for analytical use, generate demand-oriented regions, and critically compare their outputs against conventional administrative boundaries. Detroit’s own history of contested geographies (redlining legacies, shifting census tracts, and uneven environmental burdens) offers a particularly rich context for testing the relevance of locally generated spatial units.
+Outcome
+Each participant will leave with a 5 to 10 page draft proposal ready for further development and submission.
 
-This is a methodologically grounded, humanist-oriented workshop that bridges urban data science and architectural research in the context of situated, participatory design. At the end of the session, attendees will gain hands-on experience in data acquisition, AI-assisted data-driven regionalization, and statistically rigorous validation. The workflow will also contribute one case study to a co-authored compendium published in the ACADIA 2026 proceedings. This workshop is ideal for architects, urban researchers, educators, and graduate students who want to interrogate inherited spatial frameworks and develop their own data-driven units of analysis for climate-, equity-, and material-oriented research.
-
-Learning Objectives
-At the end of the workshop, participants will be able to:
-1. Critically interrogate the assumptions embedded in standard spatial units used in urban design and planning research.
-2. Extract urban morphological features from Google Street View, OpenStreetMap, and satellite imagery using object-detection models hosted on HuggingFace.
-3. Extract and embed features from 3D architectural models for spatial analysis.
-4. Configure and run the regionalization workflow (RepSC-SOM), including geo-threshold tuning, feature embedding, and region-growing refinement, and validate outputs against topic-specific data.
-
-Intended Outcomes
-Each participant will leave with: (1) a customized set of demand-oriented regions for a self-selected study area and research question; (2) a reproducible Python-based workflow integrating data acquisition, feature extraction, RepSC-SOM regionalization, and validation; (3) a comparative analysis of their regions against conventional administrative units. Collectively, the workshop’s outputs will be documented as a multi-site case library that demonstrates how data-driven regionalization can be situated within diverse architectural research agendas and will contribute to the post-conference proceedings.
-
-Technical Constraints
-Participants need: a laptop capable of running Python 3.13 and Rhino 7 or higher; basic familiarity with coding; and HuggingFace Space and a Claude API key (provided via the workshop budget). Preparatory materials (such as a configured online environment, the RepSC-SOM codebase, and sample datasets) will be distributed two weeks before the workshop. No requirement for prior experience with coding or geospatial analysis.
+Who Should Attend
+This workshop is designed for tenure-track faculty, doctoral students, and anyone with a project idea in need of funding. It is especially valuable for those who come with a conceptual idea they are ready to develop. Participants will work through three essential questions: What do you want to achieve? Why does it matter? How will you make it happen?
 
 ## Workshop Schedule
 
-### Day 1 Morning – Foundations and Setup
-**Time**: 9:00 am – 1:00 pm 
-Day 1: Foundations and Setup (3 hours, in-person)
+### Day 1: 10/16 (Online)
+**Time**: 11:00 AM to 5:00 PM (via Zoom)
+An interactive overview of the grant writing process, covering key steps, strategies, and common pitfalls, with ample time for Q&A.
 
-09:00 - 09:30: Welcome & Framing: Workshop goals, instructor introductions, overview of demand-oriented regionalization and the limits of inherited spatial units.
+### Day 2: 10/21 (In Person) 
+**Time**: 9:00 am – 5:00 pm 
+A hands-on writing session in which participants respond to a real call for proposals aligned with their own interests and ideas. Working through a structured series of prompts, each participant will draft a complete proposal with guided support throughout.
 
-09:30 - 10:15: Methodology & RepSC-SOM: Conceptual walkthrough of the three-stage framework, including data preparation, embedding-clustering-refining, and output validation.
-
-10:15 - 11:00: Platform Introduction: Tour of the workshop platform, including object-detection pipelines on Google Street View, OpenStreetMap, satellite imagery, and feature extraction from 3D models.
-
-11:00 - 11:15: Break
-
-11:15 - 12:00: Live Demonstration of Detroit and Jacksonville Case: Instructors trace the full pipeline on the case samples, from data acquisition to regionalization output and validation.
-
-12:00 - 13:00: Onboarding & Data Preparation: Platform configuration on personal laptops, HuggingFace and Claude API access, and participants begin preparing their 3D models, study areas, and validation datasets with one-on-one instructor support.
-
-### Day 1 Afternoon – Hands-On Regionalization and Critical Discussion
-**Time**: 2:00 pm – 5:00 pm 
-
-02:00 - 02:30: Recap and Q&A: Review of regionalization setup; Q&A on issues while practicing with example cases.
-
-02:30 - 3:00: Hands-On Regionalization: Participants generate demand-oriented regions for their own sites and research topics with one-on-one guidance on parameter tuning, feature selection, and validation strategy.
-
-3:00 - 3:15: Break
-
-3:15 - 3:45: Comparative Analysis: Each participant compares their generated regions against conventional units (census tracts, neighborhoods, or local equivalents).
-
-3:45 - 4:45: Showcase & Critical Discussion: Short participant presentations, and open discussion on the interpretive, ethical, and design implications of participant-defined spatial units.
-
-4:45 - 5:00: Closing & Proceedings Pathway: Forward look on extending the platform and coordination of contributions to the co-authored ACADIA 2026 proceedings compendium.
-
-**Total Workshop Time**: ~7 hours
+**Total Workshop Time**: ~13 hours
 
 ## Participant Information
-- **Audience**: Students, researchers, and professionals in architecture, design, and AI
+- **Audience**: Tenure-track faculty, doctoral students, and anyone with a project idea in need of funding.
 - **Skill Level**: Intermediate. Prior knowledge of Rhino/Grasshopper is helpful but not required
-- **Group Size**: ~20 participants
+- **Group Size**: ~30 participants
 - **Hardware**: laptop capable of running Rhino 7 or Rhino 8 with Grasshopper
 
 ## Workshop Gallery
