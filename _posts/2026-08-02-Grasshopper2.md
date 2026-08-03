@@ -17,9 +17,7 @@ thumbnail: assets/images/workshops/acadia26-workshop_Grasshopper2.png
 **Address:** 21000 West 10 Mile Road, Southfield, MI 48075
 
 <p style="margin: 0; font-size: 15px; font-weight: bold;">Workshop Team</p>
-<p style="margin: 0;"><strong>Teng Teng</strong>, Lawrence Technological University</p>
-<p style="margin: 0;"><strong>Yefan Zhi</strong>, University of Pennsylvania
-</p>
+<p style="margin: 0;"><strong>Japhy Walton</strong>, McNeel and Associates</p>
 
 # Workshop Registration opens August 21st, 2026!
 
