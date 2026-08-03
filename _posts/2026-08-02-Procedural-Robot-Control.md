@@ -9,18 +9,19 @@ category: site-workshop
 thumbnail: assets/images/workshops/acadia26-workshop_Interactive1.png
 
 ---
-
-# Procedural Robot Control: Animating Human-Machine Interaction
-# Workshop Registration opens August 21st, 2026!
+<span style="font-size: 24px; font-weight: bold;">Procedural Robot Control: Animating Human-Machine Interaction</span>
 
 # Workshop Dates: 10/19 - 10/21
+<strong>Location: <a href="https://maps.app.goo.gl/7ESkfaU28hXwvJ3Z8" target="_blank" rel="noopener noreferrer">LTU, Southfield</a></strong>
+**Address:** 21000 West 10 Mile Road, Southfield, MI 48075
 
-### Location : LTU, Southfield
+<p style="margin: 0; font-size: 15px; font-weight: bold;">Workshop Team</p>
+<p style="margin: 0;"><strong>Luis Arturo Pacheco</strong>, Florida Atlantic University
+</p>
 
-## Workshop Team
+# Workshop Registration opens August 21st, 2026!
+
 ---
-
-**Luis Arturo Pacheco**, Florida Atlantic University  
 
 ## Workshop Description
 This workshop explores procedural animation as a framework for robotic control and human-machine interaction. Rather than treating robots as systems driven exclusively through fixed trajectories, code-heavy programming, or isolated industrial workflows, participants will develop robotic behaviors through animation logic, procedural systems, spatial interaction, and real-time feedback.
