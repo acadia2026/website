@@ -15,7 +15,7 @@ thumbnail: assets/images/workshops/acadia26-workshop_SoftHand1.png
 
 # Workshop Dates: 10/19 - 10/21
 
-### Location : LTU, Southfield
+### Location: [LTU, Southfield](https://maps.app.goo.gl/7ESkfaU28hXwvJ3Z8)
 
 ## Workshop Team
 
