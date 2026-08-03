@@ -9,28 +9,19 @@ category: site-workshop
 thumbnail: assets/images/workshops/acadia26-workshop_SoftHand1.png
 
 ---
-<span style="font-size: 24px; font-weight: bold;">
-  Soft–Hard Programmable Furniture:
-</span>
+<span style="font-size: 24px; font-weight: bold;">Soft–Hard Programmable Furniture:</span>
 **Gradient Multi-Material 3D Printing between Comfort, Structure, and Domestic Use**
 
 # Workshop Dates: 10/19 - 10/21
 
 **Location: [LTU, Southfield](https://maps.app.goo.gl/7ESkfaU28hXwvJ3Z8)**
 
-## Workshop Team
-
-**Teng Teng**, Lawrence Technological University  
-**Yefan Zhi**, University of Pennsylvania
-
-<p style="margin: 0; font-size: 20px; font-weight: bold;">
-  Workshop Team
-</p>
+<p style="margin: 0; font-size: 12px; font-weight: bold;">
+Workshop Team</p>
 <p style="margin: 0;">
-  <strong>Teng Teng</strong>, Lawrence Technological University
-</p>
+<strong>Teng Teng</strong>, Lawrence Technological University</p>
 <p style="margin: 0;">
-  <strong>Yefan Zhi</strong>, University of Pennsylvania
+<strong>Yefan Zhi</strong>, University of Pennsylvania
 </p>
 
 ## Workshop Registration opens August 21st, 2026!
