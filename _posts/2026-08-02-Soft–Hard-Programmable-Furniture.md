@@ -16,7 +16,7 @@ thumbnail: assets/images/workshops/acadia26-workshop_SoftHand1.png
 
 **Location: [LTU, Southfield](https://maps.app.goo.gl/7ESkfaU28hXwvJ3Z8)**
 
-<p style="margin: 0; font-size: 16px; font-weight: bold;">Workshop Team</p>
+<p style="margin: 0; font-size: 15px; font-weight: bold;">Workshop Team</p>
 <p style="margin: 0;"><strong>Teng Teng</strong>, Lawrence Technological University</p>
 <p style="margin: 0;"><strong>Yefan Zhi</strong>, University of Pennsylvania
 </p>
