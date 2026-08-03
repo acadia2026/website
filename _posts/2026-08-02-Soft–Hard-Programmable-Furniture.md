@@ -11,7 +11,7 @@ thumbnail: assets/images/workshops/acadia26-workshop_SoftHand1.png
 ---
 
 <span style="font-size: 24px;">Soft–Hard Programmable Furniture:</span>
-# Gradient Multi-Material 3D Printing between Comfort, Structure, and Domestic Use
+**Gradient Multi-Material 3D Printing between Comfort, Structure, and Domestic Use**
 
 # Workshop Dates: 10/19 - 10/21
 
