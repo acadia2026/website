@@ -38,9 +38,9 @@ At least one author must attend ACADIA 2026 and present the work. The Registrati
 
 ---
 
-ACADIA 2026 is planned as an in-person conference. Conditional remote presentation is available only when an author’s travel-permit application is formally refused or rejected by a relevant university, organization, government office, immigration authority, or other responsible agency.
+ACADIA 2026 is planned as an in-person conference. Conditional remote presentation is available only when a foreign national author’s travel-permit application is formally refused or rejected by an immigration authority.
 
-Authors who qualify for conditional remote presentation must contact 2026@acadia.org within two weeks of receiving this acceptance notice so that the organizing team can arrange the appropriate session. Full conference registration remains required, and conference tickets are non-refundable.
+Authors who qualify for conditional remote presentation must contact 2026@acadia.org within two weeks of receiving the acceptance notice so that the organizing team can arrange the appropriate session. Full conference registration remains required, and conference tickets are non-refundable.
 
 We will share the presentation schedule, presentation format, and additional conference information after the camera-ready submissions have been reviewed.
 
