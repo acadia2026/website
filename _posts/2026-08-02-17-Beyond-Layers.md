@@ -17,7 +17,7 @@ thumbnail: assets/images/workshops/acadia26-workshop_BeyondLayers.JPG
 
 <p style="margin: 0; font-size: 15px; font-weight: bold;">Workshop Team</p>
 <p style="margin: 0;"><strong>Aldo Sollazzo</strong>, NOUMENA Data, <a href="https://www.instagram.com/aldo.sollazzo/" target="_blank" rel="noopener noreferrer">AldoSollazzo</a></p>
-<p style="margin: 0;"><strong>Hritik Thumar</strong>, <a href="https://www.instagram.com/lamaquina_3d/" target="_blank" rel="noopener noreferrer">LAMAQUINA</a></p>
+<p style="margin: 0;"><strong>Hritik Thumar</strong>, <a href="https://www.instagram.com/lamaquina_3d/" target="_blank" rel="noopener noreferrer">LAMAQUINA</a>
 </p>
 
 # Workshop Registration opens August 21st, 2026!
