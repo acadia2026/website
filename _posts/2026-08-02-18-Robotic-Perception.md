@@ -20,6 +20,7 @@ thumbnail: assets/images/workshops/acadia26-workshop_RoboticPerception.jpg
 <p style="margin: 0;"><strong>Joshua Bard</strong>, Carnegie Mellon University, <a href="https://joshbard.com/" target="_blank" rel="noopener noreferrer">JoshBard</a>
 </p>
 
+## Registration: Regular - $325, Student - $165
 # Workshop Registration opens August 21st, 2026!
 
 ---
