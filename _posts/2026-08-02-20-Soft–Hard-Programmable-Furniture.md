@@ -21,6 +21,7 @@ thumbnail: assets/images/workshops/acadia26-workshop_SoftHand2.png
 <p style="margin: 0;"><strong>Yefan Zhi</strong>, University of Pennsylvania, <a href="https://www.instagram.com/yefan_zhi/" target="_blank" rel="noopener noreferrer">instagram</a>
 </p>
 
+# Registration: Regular - $325, Student - $165
 # Workshop Registration opens August 21st, 2026!
 
 ---
