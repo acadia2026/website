@@ -20,6 +20,7 @@ thumbnail: assets/images/workshops/acadia26-workshop_Interactive2.gif
 <p style="margin: 0;"><strong>Luis Arturo Pacheco</strong>, Florida Atlantic University, <a href="https://www.instagram.com/animaquina_/" target="_blank" rel="noopener noreferrer">animaquina</a>, <a href="https://www.instagram.com/luigi_pacheco/" target="_blank" rel="noopener noreferrer">instagram</a>
 </p>
 
+## Registration: Regular - $325, Student - $165
 # Workshop Registration opens August 21st, 2026!
 
 ---
