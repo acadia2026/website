@@ -35,7 +35,7 @@ One conference registration may cover a maximum of:
 
 When both submissions are presented by the same author, a coauthor must register separately for every additional accepted submission. Every accepted submission must be covered by a valid registration to appear in the conference program and proceedings. 
 
-Please note that Projects and Field Notes by themselves each require one individual registration.
+Please note that Projects and Field Notes by themselves each require one individual registration, i.e. a single registration cannot cover Project + Project, or Project + Field Note.
 
 At least one author must attend ACADIA 2026 and present the work. The Registration page in the Attend Hub also includes information about conference locations, workshops, accommodation, publication, indexing, attendance, and registration coverage.
 
