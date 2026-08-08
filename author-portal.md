@@ -29,10 +29,13 @@ Deadline for **Tasks 1–6** (camera-ready requirements): **August 3, 2026, 11:5
 
 One conference registration may cover a maximum of:
 
-One Full Paper, and:  
-One Project or Field Note
+1. One Full Paper, and One Project or Field Note
+2. One Project
+3. One Field Note
 
-When both are presented by the same author, a coauthor must register separately for every additional accepted submission. Every accepted submission must be covered by a valid registration to appear in the conference program and proceedings.
+When both submissions are presented by the same author, a coauthor must register separately for every additional accepted submission. Every accepted submission must be covered by a valid registration to appear in the conference program and proceedings. 
+
+Please note that Projects and Field Notes by themselves each require one individual registration.
 
 At least one author must attend ACADIA 2026 and present the work. The Registration page in the Attend Hub also includes information about conference locations, workshops, accommodation, publication, indexing, attendance, and registration coverage.
 
