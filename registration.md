@@ -46,9 +46,9 @@ If verification is not received within 7 days, the student ticket will be cancel
 
 **Note:** Students in full-time teaching or Assistant Professor roles are not eligible for student pricing.
 
-## ACADIA 2026 Workshops Registration: Oct 19-21
+## ACADIA 2026 Workshops Registration Opens: August 21
 
-Information forthcoming
+[Workshop Information Here](https://2026.acadia.org/workshops)
 
 ## Cancellation and Refund Policy
 
