@@ -93,7 +93,7 @@ Time: 10:00am – 5:00 (w/ 1-hour break)
 
 ## Workshop Gallery
 
-{% include image-gallery.html folder="assets/images/workshops/interactive" item_width="30%" show_caption="false" %}
+{% include image-gallery.html folder="assets/images/workshops/HKS" item_width="30%" show_caption="false" %}
 
 ## Refund and Change Policy
 
