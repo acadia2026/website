@@ -6,7 +6,7 @@ caption:  Neuroscience, Perception, and Computation in Architecture
 permalink: /neuroscience-architecture
 project: true
 category: online-workshop
-thumbnail: assets/images/workshops/acadia26-workshop_RunChat4.gif
+thumbnail: assets/images/workshops/acadia26-workshop_NeuroscienceArch.jpg
 
 ---
 <span style="font-size: 24px; font-weight: bold;">Neuroscience, Perception, and Computation in Architecture</span>
@@ -76,7 +76,7 @@ Each workshop concludes with a short collective output prepared for final presen
 
 ## Workshop Gallery
 
-{% include image-gallery.html folder="assets/images/workshops/RunChat" item_width="30%" show_caption="false" %}
+{% include image-gallery.html folder="assets/images/workshops/NeuroscienceArch" item_width="30%" show_caption="false" %}
 
 ## Refund and Change Policy
 
