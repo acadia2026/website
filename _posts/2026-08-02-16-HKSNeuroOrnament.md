@@ -51,36 +51,34 @@ By the end of the workshop, participants will produce:
 
 ## Workshop Schedule
 
-### Day 1 – Foundations of Procedural Robot Control
+### Day 1
 **Time**: 10:00 am – 5:00 pm (w/ 1-hour break)
 Morning
-- Introduction and conceptual framing
-- Blender animation fundamentals
-- Digital twins and robot interaction environments
+- Introduction to NeuroSpatial Design
 
 Afternoon
-- Constraints, drivers, and behavioral motion
-- Interactive toolpath workflows
-- Real-time robot communication
-- Initial robotic experiments
+- Introduction to algorithmic facade design
+- Introduction to neurophysiology, EEG and other measures
+- Hands-on experimentation with EEG headset
+- Generating hypotheses about the effect of facades on neural measures
 
-### Day 2 – Human-Machine Interaction and Behavioral Systems
+### Day 2
 **Time**: 10:00 am – 5:00 pm (w/ 1-hour break)
 Time: 10:00am – 5:00 (w/ 1-hour break)
 Morning
-•	Algorithmic facade modeling (subdivision and tiling techniques) using Rhino3d, Grasshopper as well as custom scripting
-•	Designing façade grids
-•	Designing 3d façade tiles
+- Algorithmic facade modeling (subdivision and tiling techniques) using Rhino3d, Grasshopper as well as custom scripting
+- Designing façade grids
+- Designing 3d façade tiles
 
 Afternoon
-•	Algorithmic façade design based on “Complexity” and “Coherence” factors
-•	Importing generated facades to VR environment
+- Algorithmic façade design based on “Complexity” and “Coherence” factors
+- Importing generated facades to VR environment
 
-### Day 3 – Final Projects
+### Day 3
 **Time**: 10:00 am – 5:00 pm (w/ 1-hour break)
 Time: 10:00am – 5:00 (w/ 1-hour break)
-•	Capturing neurophysiological reactions to the generated facades using EEG setup, comparing with hypothesized effects from Day 01 
-•	Recap and documentation
+- Capturing neurophysiological reactions to the generated facades using EEG setup, comparing with hypothesized effects from Day 01
+- Recap and documentation
 
 **Total Workshop Time**: 18~20 hours over 3 days
 
