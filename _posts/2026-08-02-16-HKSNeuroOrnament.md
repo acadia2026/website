@@ -52,11 +52,11 @@ By the end of the workshop, participants will produce:
 ## Workshop Schedule
 
 ### Day 1
-**Time**: 10:00 am – 5:00 pm (w/ 1-hour break)
-Morning
-- Introduction to NeuroSpatial Design
+**Time**: 10:00 am – 5:00 pm (w/ 1-hour break)  
+**Morning**
+- Introduction to NeuroSpatial Design  
 
-Afternoon
+**Afternoon**
 - Introduction to algorithmic facade design
 - Introduction to neurophysiology, EEG and other measures
 - Hands-on experimentation with EEG headset
@@ -64,13 +64,13 @@ Afternoon
 
 ### Day 2
 **Time**: 10:00 am – 5:00 pm (w/ 1-hour break)
-Time: 10:00am – 5:00 (w/ 1-hour break)
-Morning
+Time: 10:00am – 5:00 (w/ 1-hour break)  
+**Morning**
 - Algorithmic facade modeling (subdivision and tiling techniques) using Rhino3d, Grasshopper as well as custom scripting
 - Designing façade grids
 - Designing 3d façade tiles
 
-Afternoon
+**Afternoon**
 - Algorithmic façade design based on “Complexity” and “Coherence” factors
 - Importing generated facades to VR environment
 
