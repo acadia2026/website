@@ -25,7 +25,7 @@ thumbnail: assets/images/workshops/acadia26-workshop_BeyondLayers.JPG
 
 ---
 <p style="margin: 0; font-size: 20px; font-weight: bold;">LAMÁQUINA X Pininfarina</p>
-<p style="margin: 0; font-size: 15px; font-weight: bold;">This workshop is a collaboration between LAMÁQUINA and Pininfarina</p>
+**This workshop is a collaboration between LAMÁQUINA and Pininfarina**
 
 ## Workshop Description
 Beyond Layers explores how embodied craft knowledge can inform robotic fabrication workflows through clay additive manufacturing, gesture capture, and robotic post processing. The workshop investigates surface finishing not as a secondary corrective step, but as a collaborative process between human intuition and robotic systems.
