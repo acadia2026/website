@@ -24,7 +24,7 @@ thumbnail: assets/images/workshops/acadia26-workshop_BeyondLayers.JPG
 # Workshop Registration opens August 21st, 2026!
 
 ---
-<p style="margin: 0; font-size: 20px; font-weight: bold;">LAMÁQUINA <a href="https://lamaquina.io/" target="_blank" rel="noopener noreferrer">X Pininfarina<a href="https://pininfarina.it/sectors/architecture" target="_blank" rel="noopener noreferrer"></p>
+<p style="margin: 0; font-size: 20px; font-weight: bold;">LAMÁQUINA X Pininfarina</p>
 <p style="margin: 0; font-size: 15px; font-weight: bold;">This workshop is a collaboration between LAMÁQUINA and Pininfarina</p>
 
 ## Workshop Description
