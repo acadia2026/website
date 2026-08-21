@@ -21,7 +21,7 @@ thumbnail: assets/images/workshops/acadia26-workshop_BeyondLayers.JPG
 <p style="margin: 0;"><strong>Nicholas Desbiens</strong>, <a href="https://pininfarina.it/sectors/architecture" target="_blank" rel="noopener noreferrer">Pininfarina</a></p>
 </p>
 
-# Workshop Registration opens August 21st, 2026!
+# <a href="https://www.eventbrite.com/e/acadia-2026-workshops-tickets-1994103898440?aff=oddtdtcreator" target="_blank" rel="noopener noreferrer">Registration</a>
 
 ---
 <p style="margin: 0; font-size: 20px; font-weight: bold;">LAMÁQUINA X Pininfarina</p>
