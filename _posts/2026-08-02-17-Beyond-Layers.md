@@ -16,9 +16,9 @@ thumbnail: assets/images/workshops/acadia26-workshop_BeyondLayers.JPG
 **Address:** 21000 West 10 Mile Road, Southfield, MI 48075
 
 <p style="margin: 0; font-size: 15px; font-weight: bold;">Workshop Team</p>
-<p style="margin: 0;"><strong>Aldo Sollazzo</strong>, LAMÁQUINA, <a href="https://www.instagram.com/aldo.sollazzo/" target="_blank" rel="noopener noreferrer">AldoSollazzo</a></p>
+<p style="margin: 0;"><strong>Aldo Sollazzo</strong>, <a href="https://lamaquina.io/" target="_blank" rel="noopener noreferrer">LAMÁQUINA</a>, <a href="https://www.instagram.com/aldo.sollazzo/" target="_blank" rel="noopener noreferrer">instagram</a></p>
 <p style="margin: 0;"><strong>Hritik Thumar</strong>, <a href="https://www.instagram.com/lamaquina_3d/" target="_blank" rel="noopener noreferrer">LAMÁQUINA</a>
-<p style="margin: 0;"><strong>Nicholas Desbiens</strong>, <a href="https://pininfarina.it/sectors/architecture" target="_blank" rel="noopener noreferrer">Pininfarina</a></p>
+<p style="margin: 0;"><strong>Nicholas Desbiens</strong>, <a href="https://pininfarina.it/sectors/architecture" target="_blank" rel="noopener noreferrer">Pininfarina</a>, <a href="https://www.linkedin.com/in/nicholasdesbiens/" target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
 </p>
 
 # <a href="https://www.eventbrite.com/e/acadia-2026-workshops-tickets-1994103898440?aff=oddtdtcreator" target="_blank" rel="noopener noreferrer">Registration</a>
