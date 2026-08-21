@@ -17,7 +17,7 @@ thumbnail: assets/images/workshops/acadia26-workshop_RhinoInside.png
 **Address:** 1265 Griswold St, Detroit, MI 48226
 
 <p style="margin: 0; font-size: 15px; font-weight: bold;">Workshop Team</p>
-<p style="margin: 0;"><strong> Nate Miller</strong>, Proving Ground, <a href="https://provingground.io/" target="_blank" rel="noopener noreferrer">instagram</a></p>
+<p style="margin: 0;"><strong>Nate Miller</strong>, <a href="https://provingground.io/" target="_blank" rel="noopener noreferrer">Proving Ground</a>
 </p>
 
 ## Registration: Regular - $175, Student - $90
