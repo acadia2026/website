@@ -18,11 +18,14 @@ thumbnail: assets/images/workshops/acadia26-workshop_BeyondLayers.JPG
 <p style="margin: 0; font-size: 15px; font-weight: bold;">Workshop Team</p>
 <p style="margin: 0;"><strong>Aldo Sollazzo</strong>, LAMÁQUINA, <a href="https://www.instagram.com/aldo.sollazzo/" target="_blank" rel="noopener noreferrer">AldoSollazzo</a></p>
 <p style="margin: 0;"><strong>Hritik Thumar</strong>, <a href="https://www.instagram.com/lamaquina_3d/" target="_blank" rel="noopener noreferrer">LAMÁQUINA</a>
+<p style="margin: 0;"><strong>Nicholas Desbiens</strong>, <a href="https://www.instagram.com/lamaquina_3d/" target="_blank" rel="noopener noreferrer">LAMÁQUINA</a></p>
 </p>
 
 # Workshop Registration opens August 21st, 2026!
 
 ---
+<p style="margin: 0; font-size: 20px; font-weight: bold;">LAMÁQUINA <a href="https://lamaquina.io/" target="_blank" rel="noopener noreferrer">X Pininfarina<a href="https://pininfarina.it/sectors/architecture" target="_blank" rel="noopener noreferrer"></p>
+<p style="margin: 0; font-size: 15px; font-weight: bold;">This workshop is a collaboration between LAMÁQUINA and Pininfarina</p>
 
 ## Workshop Description
 Beyond Layers explores how embodied craft knowledge can inform robotic fabrication workflows through clay additive manufacturing, gesture capture, and robotic post processing. The workshop investigates surface finishing not as a secondary corrective step, but as a collaborative process between human intuition and robotic systems.
