@@ -34,9 +34,6 @@ Learning Objectives
 •	Learn model management techniques for tracking changes between modeling tools.
 •	Learn computational automation techniques for Revit model manipulation.
 
-Intended Outcomes
-Each participant will leave with: (1) a customized set of demand-oriented regions for a self-selected study area and research question; (2) a reproducible Python-based workflow integrating data acquisition, feature extraction, RepSC-SOM regionalization, and validation; (3) a comparative analysis of their regions against conventional administrative units. Collectively, the workshop’s outputs will be documented as a multi-site case library that demonstrates how data-driven regionalization can be situated within diverse architectural research agendas and will contribute to the post-conference proceedings.
-
 ## Workshop Schedule
 
 ### Day 1 Morning 
