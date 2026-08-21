@@ -9,7 +9,8 @@ category: site-workshop
 thumbnail: assets/images/workshops/acadia26-workshop_BeyondLayers.JPG
 
 ---
-<span style="font-size: 24px; font-weight: bold;">Beyond Layers</span>
+<span style="font-size: 24px; font-weight: bold;">CRAFT RECODED</span>
+**Human Gesture and Robotic Intelligence in Clay Fabrication**
 
 # Workshop Dates: 10/19 - 10/21
 <strong>Location: <a href="https://maps.app.goo.gl/7ESkfaU28hXwvJ3Z8" target="_blank" rel="noopener noreferrer">LTU, Southfield</a></strong>
@@ -28,13 +29,17 @@ thumbnail: assets/images/workshops/acadia26-workshop_BeyondLayers.JPG
 **This workshop is a collaboration between LAMÁQUINA and Pininfarina**
 
 ## Workshop Description
-Beyond Layers explores how embodied craft knowledge can inform robotic fabrication workflows through clay additive manufacturing, gesture capture, and robotic post processing. The workshop investigates surface finishing not as a secondary corrective step, but as a collaborative process between human intuition and robotic systems.
+Craft Recoded investigates how embodied craft knowledge, design sensibility, and human gestures can inform new forms of robotic fabrication. Bringing together expertise in computational manufacturing, robotic processes, large-scale additive manufacturing, and design culture, the workshop explores clay additive manufacturing as a platform for reconsidering the relationship between automated production and the human act of making. 
 
-Participants will design and fabricate clay printed artifacts using large format ceramic extrusion systems with intentionally exaggerated layer heights and visible fabrication traces. Through hands on finishing exercises using sponges and sculpting tools, participants will manually smooth, compress, and carve surfaces while their gestures are recorded using motion tracking systems. These movements will then be translated into robotic toolpaths and reinterpreted through a KUKA KR16 robotic arm equipped with custom finishing end effectors.
+Participants will design and fabricate clay artifacts using large-format ceramic extrusion systems, intentionally exposing layer lines, textures, and material irregularities as opportunities for further design intervention. 
 
-The workshop introduces participants to workflows involving clay 3D printing, motion capture, gesture based robotic toolpath generation, and robotic surface processing using Rhino, Grasshopper, and custom data collection workflows. Outcomes include printed prototypes, robotic finishing experiments, gesture datasets, and comparative studies between hand finished and robot finished surfaces.
+Through hands-on exercises with sponges and sculpting tools, participants will explore how intuitive gestures can transform the printed surface. Their movements will be captured through Meta Quest tracking systems, translated into computational data, and subsequently reinterpreted as robotic toolpaths using a KUKA KR16 robotic arm equipped with custom finishing tools. 
 
-Rather than focusing on automation alone, the workshop examines how human gestures, tactile intelligence, and material interaction can shape future approaches to robotic fabrication. The proposal aligns with the 2026 ACADIA theme Humanism Recoded by placing human presence, craft, and collective learning at the center of computational and robotic design processes.
+Pininfarina and LAMÁQUINA will contribute complementary expertise to the initiative. Pininfarina will participate as design tutor and workshop partner, bringing its perspective on the relationship between advanced technologies, craftsmanship, performance, and aesthetic quality. LAMÁQUINA will bring its experience in large-scale additive manufacturing and robotic fabrication, contributing its expertise in translating computational design and material experimentation into manufacturing processes. 
+
+Through design reviews and collaborative experimentation, participants will be encouraged to move beyond the direct replication of human gestures and investigate how captured actions can be interpreted, amplified, and transformed into new surface languages. 
+
+Combining clay printing, motion tracking, computational design, and robotic post-processing, the workshop positions finishing not as the final step of fabrication, but as an iterative dialogue between human intuition, material behavior, design intent, and machine intelligence
 
 ## Workshop Schedule
 
