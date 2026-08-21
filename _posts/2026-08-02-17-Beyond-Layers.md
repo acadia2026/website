@@ -2,11 +2,11 @@
 layout: post
 title:  ""
 date:   2014-06-01
-caption:  Beyond Layers
-permalink: /Beyond-Layers
+caption:  Craft Recoded
+permalink: /Craft-Recoded
 project: true
 category: site-workshop
-thumbnail: assets/images/workshops/acadia26-workshop_BeyondLayers.JPG
+thumbnail: assets/images/workshops/acadia26-workshop_craftRecoded.JPG
 
 ---
 <span style="font-size: 24px; font-weight: bold;">CRAFT RECODED</span>
