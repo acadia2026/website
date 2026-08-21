@@ -6,7 +6,7 @@ caption:  Integration and Interoperability
 permalink: /Integration-Interoperability
 project: true
 category: site-workshop
-thumbnail: assets/images/workshops/acadia26-workshop_UrbanAI2.png
+thumbnail: assets/images/workshops/acadia26-workshop_RhinoInside.png
 
 ---
 <span style="font-size: 24px; font-weight: bold;">Integration and Interoperability:</span>
@@ -54,7 +54,7 @@ Workflow Customization with Rhino.Inside and Conveyor
 
 ## Workshop Gallery
 
-{% include image-gallery.html folder="assets/images/workshops/UrbanAI" item_width="30%" show_caption="false" %}
+{% include image-gallery.html folder="assets/images/workshops/RhinoInside" item_width="30%" show_caption="false" %}
 
 ## Refund and Change Policy
 
