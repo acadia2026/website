@@ -19,7 +19,7 @@ thumbnail: assets/images/workshops/acadia26-workshop_GrantWritingOnline.jpg
 <p style="margin: 0;"><strong> Dr. Shahin Vassigh</strong>, <a href="https://case.fiu.edu/about/directory/affiliated-profiles/vassigh-shahin.html" target="_blank" rel="noopener noreferrer">Florida International University</a></p>
 
 ## Registration: Regular - $125
-# Workshop Registration opens August 21st, 2026!
+# <a href="https://www.eventbrite.com/e/acadia-2026-workshops-tickets-1994103898440?aff=oddtdtcreator" target="_blank" rel="noopener noreferrer">Registration</a>
 
 ---
 
