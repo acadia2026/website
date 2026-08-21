@@ -22,7 +22,7 @@ thumbnail: assets/images/workshops/acadia26-workshop_SoftHand2.png
 </p>
 
 ## Registration: Regular - $325, Student - $165
-# Workshop Registration opens August 21st, 2026!
+# Register Now! <a href="https://www.eventbrite.com/e/acadia-2026-workshops-tickets-1994103898440?aff=oddtdtcreator" target="_blank" rel="noopener noreferrer">
 
 ---
 
