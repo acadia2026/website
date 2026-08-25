@@ -2,7 +2,7 @@
 layout: post
 title:  ""
 date:   2014-06-01
-caption:  Integration and Interoperability
+caption:  Integration and Interoperability (RhinoInside)
 permalink: /Integration-Interoperability
 project: true
 category: site-workshop
