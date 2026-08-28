@@ -78,7 +78,7 @@ Please note that the conference will be held across two locations, roughly 20 mi
 
 
 # Additional Detroit Accommodations:  
-- **[Shinola Hotel](https://www.shinolahotel.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp) - $$$**
+- **[Shinola Hotel](https://www.shinolahotel.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp) - \$\$\$\$**
 250 ft away from [Hudson's Detroit](https://www.hudsons-detroit.com/)
   1400 Woodward Ave., Detroit 48226<br/>
 
