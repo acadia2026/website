@@ -13,6 +13,8 @@ header_pages:
     children:
       - author-portal.md
       - registration.md
+      - hotels.md
+      - tours.md
 
   - title: Submit
     children:
