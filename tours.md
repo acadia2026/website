@@ -6,10 +6,10 @@ permalink: /tours
 
 # Organized Tours
 
-<div style="max-width: 300px; margin: 2rem auto;">
+<div style="max-width: 900px; margin: 2rem auto;">
   <img src="{{ "/assets/images/CAM-CollectionsWing.jpg" | relative_url }}" 
        alt="CAM Collections Tour" 
-       style="width:60%; height:auto; display:block;">
+       style="width:50%; height:auto; display:block;">
 </div>
 
 ### **[Cranbrook Art Museum](https://cranbrookartmuseum.org/visit/) Collections Wing Tours** 
