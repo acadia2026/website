@@ -16,7 +16,6 @@ Please note that the conference will be held across two locations, roughly 20 mi
        alt="University Technology Learning Center" 
        style="width:100%; height:auto; display:block;">
 </div>
-<br/>
 
 - **Friday and Saturday, Oct. 23-24, 2026:**\
 **[The Department](https://www.departmentevents.com/) at [Hudson's Detroit](https://www.hudsons-detroit.com/)** in the center of Downtown Detroit.\
