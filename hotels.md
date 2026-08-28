@@ -44,7 +44,7 @@ Please note that the conference will be held across two locations, roughly 20 mi
 **Booking Link:** [LTU Acadia Conference](https://www.marriott.com/event-reservations/reservation-link.mi?id=1787153760157&key=GRP&app=resvlink&_branch_match_id=1425923784245224094&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi0uy0wtN7IHytiCODmZedlqmSm2huYW5oamxuZmBoam5mrZqZW27kEBanVFqWmpQO156fFJRfnlxalFts4ZRfm5qQBgsNPEYQAAAA%3D%3D)\
 **Room Rate:** 149.00 USD per night - Last Day to Book : **Monday, September 28, 2026**<br/>
 
-## Additional Southfield Accommodations:  
+# Additional Southfield Accommodations:  
 - **[Hampton Inn by Hilton Detroit Southfield](https://www.hilton.com/en/hotels/dtwsfhx-hampton-detroit-southfield/)**\
 0.9 Miles away from the [UTLC](https://share.google/uypS4Jiw4qti6mQki) Building\
 26080 Northwestern Hwy, Southfield, MI 48076<br/>
@@ -77,8 +77,8 @@ Please note that the conference will be held across two locations, roughly 20 mi
 **Block Code:** ACL<br/>
 
 
-## Additional Detroit Accommodations:  
-- **[Shinola Hotel](https://www.shinolahotel.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp) - $$-$$**\
+# Additional Detroit Accommodations:  
+- **[Shinola Hotel](https://www.shinolahotel.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp) - $$$**\
 250 ft away from [Hudson's Detroit](https://www.hudsons-detroit.com/)\
 1400 Woodward Ave., Detroit 48226<br/>
 
