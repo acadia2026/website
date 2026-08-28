@@ -38,24 +38,24 @@ Please note that the conference will be held across two locations, roughly 20 mi
        style="width:100%; height:auto; display:block;">
 </div>
 
-**[The Westin Southfield Detroit](https://www.marriott.com/en-us/hotels/dtwwi-the-westin-southfield-detroit/overview/)**\
+- **[The Westin Southfield Detroit](https://www.marriott.com/en-us/hotels/dtwwi-the-westin-southfield-detroit/overview/)**\
 500 Town Center Southfield, MI 48075\
 0.9 Miles away from the [UTLC](https://share.google/uypS4Jiw4qti6mQki) Building\
 Booking Link: [LTU Acadia Conference](https://www.marriott.com/event-reservations/reservation-link.mi?id=1787153760157&key=GRP&app=resvlink&_branch_match_id=1425923784245224094&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi0uy0wtN7IHytiCODmZedlqmSm2huYW5oamxuZmBoam5mrZqZW27kEBanVFqWmpQO156fFJRfnlxalFts4ZRfm5qQBgsNPEYQAAAA%3D%3D)\
 Room Rate: 149.00 USD per night - Last Day to Book : Monday, September 28, 2026<br/>
 
 ## Additional Southfield Accommodations:  
-**[Hampton Inn by Hilton Detroit Southfield](https://www.hilton.com/en/hotels/dtwsfhx-hampton-detroit-southfield/)**\
+- **[Hampton Inn by Hilton Detroit Southfield](https://www.hilton.com/en/hotels/dtwsfhx-hampton-detroit-southfield/)**\
 0.9 Miles away from the [UTLC](https://share.google/uypS4Jiw4qti6mQki) Building\
 26080 Northwestern Hwy, Southfield, MI 48076<br/>
 
 
-**[Staybridge Suites Detroit - Southfield by IHG](https://www.ihg.com/staybridge/hotels/us/en/southfield/dttbs/hoteldetail)**\
+- **[Staybridge Suites Detroit - Southfield by IHG](https://www.ihg.com/staybridge/hotels/us/en/southfield/dttbs/hoteldetail)**\
 0.8 Miles away from the [UTLC](https://share.google/uypS4Jiw4qti6mQki) Building\
 26060 Northwestern Hwy, Southfield, MI 48076<br/>
 
 
-**[MainStay Suites Southfield-Detroit](https://www.choicehotels.com/michigan/southfield/mainstay-hotels/mi691)**\
+- **[MainStay Suites Southfield-Detroit](https://www.choicehotels.com/michigan/southfield/mainstay-hotels/mi691)**\
 1.2 Miles away from the [UTLC](https://share.google/uypS4Jiw4qti6mQki) Building\
 1 Corporate Dr, Southfield, MI 48076<br/>
 
@@ -69,7 +69,7 @@ Room Rate: 149.00 USD per night - Last Day to Book : Monday, September 28, 2026<
        style="width:100%; height:auto; display:block;">
 </div>
 
-**[Hotel Indigo Detroit](https://www.ihg.com/hotelindigo/hotels/us/en/detroit/dttwb/hoteldetail)**\
+- **[Hotel Indigo Detroit](https://www.ihg.com/hotelindigo/hotels/us/en/detroit/dttwb/hoteldetail)**\
 0.2 Miles away from [Hudson's Detroit](https://www.hudsons-detroit.com/)\
 1020 Washington Blvd. Detroit, 48226\
 Booking Link: [ACADIA Conference LTU](https://www.ihg.com/redirect?path=asearch&brandCode=IN&localeCode=en&regionCode=1&hotelCode=dttwb&checkInDate=21&checkInMonthYear=092026&checkOutDate=25&checkOutMonthYear=092026&rateCode=6CBARC&_PMID=99801505&GPC=ACL&cn=no&adjustMonth=false&showApp=true&monthIndex=00)\
@@ -78,16 +78,16 @@ Block Code: ACL<br/>
 
 
 ## Additional Detroit Accommodations:  
-**[Shinola Hotel](https://www.shinolahotel.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp) - $$ $$**  
+- **[Shinola Hotel](https://www.shinolahotel.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp) - $$-$$**  
 250 ft away from [Hudson's Detroit](https://www.hudsons-detroit.com/)  
 1400 Woodward Ave., Detroit 48226<br/>
 
 
-**[Element Detroit at the Metropolitan](https://www.marriott.com/en-us/hotels/dtwel-element-detroit-at-the-metropolitan/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0) - $$$**  
+- **[Element Detroit at the Metropolitan](https://www.marriott.com/en-us/hotels/dtwel-element-detroit-at-the-metropolitan/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0) - $$$**  
 0.1 Miles away from [Hudson's Detroit](https://www.hudsons-detroit.com/)  
 33 John R Street, Detroit 48226<br/>
 
 
-**[Hilton Garden Inn Detroit Downtown](https://www.hilton.com/en/hotels/detdhgi-hilton-garden-inn-detroit-downtown/?SEO_id=GMB-AMER-GI-DETDHGI) - $$**  
+- **[Hilton Garden Inn Detroit Downtown](https://www.hilton.com/en/hotels/detdhgi-hilton-garden-inn-detroit-downtown/?SEO_id=GMB-AMER-GI-DETDHGI) - $$**  
 0.2 Miles away from [Hudson's Detroit](https://www.hudsons-detroit.com/)  
 351 Gratiot Ave., Detroit 48226<br/>
