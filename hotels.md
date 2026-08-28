@@ -4,10 +4,10 @@ layout: page
 permalink: /hotels
 ---
 
-## Conference Venues
+# Conference Venues
 Please note that the conference will be held across two locations, roughly 20 minutes apart by car.
 - **Thursday, Oct. 22, 2026:**\
-[Lawrence Technological University](https://ltu.edu/) Campus in Southfield, MI.\
+**[Lawrence Technological University](https://ltu.edu/) Campus** in Southfield, MI.\
 [LTU College of Architecture and Design(CoAD)](https://ltu.edu/architecture-design/) is located in the [University Technology and Learning Center(UTLC)](https://share.google/uypS4Jiw4qti6mQki)\
 21000 West Ten Mile Road, Southfield, MI 48075 [Google Maps Link to UTLC](https://share.google/uypS4Jiw4qti6mQki)
 
@@ -19,7 +19,7 @@ Please note that the conference will be held across two locations, roughly 20 mi
 <br/>
 
 - **Friday and Saturday, Oct. 23-24, 2026:**\
-[The Department](https://www.departmentevents.com/) at [Hudson's Detroit](https://www.hudsons-detroit.com/) in the center of Downtown Detroit.\
+**[The Department](https://www.departmentevents.com/) at [Hudson's Detroit](https://www.hudsons-detroit.com/)** in the center of Downtown Detroit.\
 1000 Nick Gilbert Way, Detroit, MI 48226 [Google Maps Link](https://maps.app.goo.gl/kb7cKX71e6CPUWcM7)
 
 <div style="max-width: 900px; margin: 2rem auto;">
@@ -30,7 +30,7 @@ Please note that the conference will be held across two locations, roughly 20 mi
 
 ---
 
-## Southfield Conference Hotel
+# Southfield Conference Hotel
 
 <div style="max-width: 900px; margin: 2rem auto;">
   <img src="{{ "/assets/images/westin-southfield.jpg" | relative_url }}" 
@@ -61,7 +61,7 @@ Room Rate: 149.00 USD per night - Last Day to Book : Monday, September 28, 2026<
 
 ---
 
-## Downtown Detroit Conference Hotel
+# Downtown Detroit Conference Hotel
 
 <div style="max-width: 900px; margin: 2rem auto;">
   <img src="{{ "/assets/images/hotel-indigo-detroit.jpg" | relative_url }}" 
@@ -78,16 +78,16 @@ Block Code: ACL<br/>
 
 
 ## Additional Detroit Accommodations:  
-**[Shinola Hotel](https://www.shinolahotel.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp) - <span>$$$$</span>**\
-250 ft away from [Hudson's Detroit](https://www.hudsons-detroit.com/)\
+**[Shinola Hotel](https://www.shinolahotel.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp) - $$ $$**  
+250 ft away from [Hudson's Detroit](https://www.hudsons-detroit.com/)  
 1400 Woodward Ave., Detroit 48226<br/>
 
 
-**[Element Detroit at the Metropolitan](https://www.marriott.com/en-us/hotels/dtwel-element-detroit-at-the-metropolitan/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0) - $$$**\
-0.1 Miles away from [Hudson's Detroit](https://www.hudsons-detroit.com/)\
+**[Element Detroit at the Metropolitan](https://www.marriott.com/en-us/hotels/dtwel-element-detroit-at-the-metropolitan/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0) - $$$**  
+0.1 Miles away from [Hudson's Detroit](https://www.hudsons-detroit.com/)  
 33 John R Street, Detroit 48226<br/>
 
 
-**[Hilton Garden Inn Detroit Downtown](https://www.hilton.com/en/hotels/detdhgi-hilton-garden-inn-detroit-downtown/?SEO_id=GMB-AMER-GI-DETDHGI) - $$**\
-0.2 Miles away from [Hudson's Detroit](https://www.hudsons-detroit.com/)\
+**[Hilton Garden Inn Detroit Downtown](https://www.hilton.com/en/hotels/detdhgi-hilton-garden-inn-detroit-downtown/?SEO_id=GMB-AMER-GI-DETDHGI) - $$**  
+0.2 Miles away from [Hudson's Detroit](https://www.hudsons-detroit.com/)  
 351 Gratiot Ave., Detroit 48226<br/>
