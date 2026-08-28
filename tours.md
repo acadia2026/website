@@ -6,10 +6,10 @@ permalink: /tours
 
 # Organized Tours
 
-<div style="max-width: 450px; margin: 2rem auto;">
+<div style="max-width: 300px; margin: 2rem auto;">
   <img src="{{ "/assets/images/CAM-CollectionsWing.jpg" | relative_url }}" 
        alt="CAM Collections Tour" 
-       style="width:100%; height:auto; display:block;">
+       style="width:60%; height:auto; display:block;">
 </div>
 
 ### **[Cranbrook Art Museum](https://cranbrookartmuseum.org/visit/) Collections Wing Tours** 
@@ -34,7 +34,7 @@ The Plaza Vault is also home to an array of sculptures and textiles by artists s
 </div>
 
 ### **[The Affleck House](https://ltu.edu/architecture-design/affleck-house/)** 
--**Sunday, October 25th, 10:00-11:00 am.** Limited to 15 persons per tour. Additional time slots may open if filled.
+- **Sunday, October 25th, 10:00-11:00 am.** Limited to 15 persons per tour. Additional time slots may open if filled.
 - 925 Bloomfield Woods. Bloomfield Hills, MI 48304  [Google Maps Link](https://maps.app.goo.gl/B99Bma1YZFnndFJA7)
 - **$40 per ticket. Registration link coming**
 
