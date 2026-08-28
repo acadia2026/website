@@ -88,6 +88,6 @@ Please note that the conference will be held across two locations, roughly 20 mi
 33 John R Street, Detroit 48226<br/>
 
 
-- **[Hilton Garden Inn Detroit Downtown](https://www.hilton.com/en/hotels/detdhgi-hilton-garden-inn-detroit-downtown/?SEO_id=GMB-AMER-GI-DETDHGI) - $$**\
-0.2 Miles away from [Hudson's Detroit](https://www.hudsons-detroit.com/)\
-351 Gratiot Ave., Detroit 48226<br/>
+- **[Hilton Garden Inn Detroit Downtown](https://www.hilton.com/en/hotels/detdhgi-hilton-garden-inn-detroit-downtown/?SEO_id=GMB-AMER-GI-DETDHGI) - $$**
+0.2 Miles away from [Hudson's Detroit](https://www.hudsons-detroit.com/)
+  351 Gratiot Ave., Detroit 48226<br/>
