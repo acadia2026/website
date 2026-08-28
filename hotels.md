@@ -10,14 +10,34 @@ Please note that the conference will be held across two locations, roughly 20 mi
 [Lawrence Technological University](https://ltu.edu/) Campus in Southfield, MI.\
 [LTU College of Architecture and Design(CoAD)](https://ltu.edu/architecture-design/) is located in the [University Technology and Learning Center(UTLC)](https://share.google/uypS4Jiw4qti6mQki)\
 21000 West Ten Mile Road, Southfield, MI 48075 [Google Maps Link to UTLC](https://share.google/uypS4Jiw4qti6mQki)
-  
+
+<div style="max-width: 900px; margin: 2rem auto;">
+  <img src="{{ "/assets/images/utlc.jpg" | relative_url }}" 
+       alt="University Technology Learning Center" 
+       style="width:100%; height:auto; display:block;">
+</div>
+<br/>
+
 - **Friday and Saturday, Oct. 23-24, 2026:**\
 [The Department](https://www.departmentevents.com/) at [Hudson's Detroit](https://www.hudsons-detroit.com/) in the center of Downtown Detroit.\
 1000 Nick Gilbert Way, Detroit, MI 48226 [Google Maps Link](https://maps.app.goo.gl/kb7cKX71e6CPUWcM7)
 
+<div style="max-width: 900px; margin: 2rem auto;">
+  <img src="{{ "/assets/images/department-hudsons.jpg" | relative_url }}" 
+       alt="The Department at Hudson's" 
+       style="width:100%; height:auto; display:block;">
+</div>
+
 ---
 
 ## Southfield Conference Hotel
+
+<div style="max-width: 900px; margin: 2rem auto;">
+  <img src="{{ "/assets/images/westin-southfield.jpg" | relative_url }}" 
+       alt="Westin Southfield" 
+       style="width:100%; height:auto; display:block;">
+</div>
+
 **[The Westin Southfield Detroit](https://www.marriott.com/en-us/hotels/dtwwi-the-westin-southfield-detroit/overview/)**\
 500 Town Center Southfield, MI 48075\
 0.9 Miles away from the [UTLC](https://share.google/uypS4Jiw4qti6mQki) Building\
@@ -42,6 +62,13 @@ Room Rate: 149.00 USD per night - Last Day to Book : Monday, September 28, 2026<
 ---
 
 ## Downtown Detroit Conference Hotel
+
+<div style="max-width: 900px; margin: 2rem auto;">
+  <img src="{{ "/assets/images/hotel-indigo-detroit.jpg" | relative_url }}" 
+       alt="Hotel Indigo Detroit" 
+       style="width:100%; height:auto; display:block;">
+</div>
+
 **[Hotel Indigo Detroit](https://www.ihg.com/hotelindigo/hotels/us/en/detroit/dttwb/hoteldetail)**\
 0.2 Miles away from [Hudson's Detroit](https://www.hudsons-detroit.com/)\
 1020 Washington Blvd. Detroit, 48226\
@@ -60,7 +87,7 @@ Block Code: ACL<br/>
 0.1 Miles away from [Hudson's Detroit](https://www.hudsons-detroit.com/)\
 33 John R Street, Detroit 48226<br/>
 
-\
+
 **[Hilton Garden Inn Detroit Downtown](https://www.hilton.com/en/hotels/detdhgi-hilton-garden-inn-detroit-downtown/?SEO_id=GMB-AMER-GI-DETDHGI) - $$**\
 0.2 Miles away from [Hudson's Detroit](https://www.hudsons-detroit.com/)\
 351 Gratiot Ave., Detroit 48226<br/>
