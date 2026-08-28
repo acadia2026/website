@@ -45,19 +45,19 @@ Please note that the conference will be held across two locations, roughly 20 mi
 **Room Rate:** 149.00 USD per night - Last Day to Book : **Monday, September 28, 2026**<br/>
 
 # Additional Southfield Accommodations:  
-- **[Hampton Inn by Hilton Detroit Southfield](https://www.hilton.com/en/hotels/dtwsfhx-hampton-detroit-southfield/)**\
-0.9 Miles away from the [UTLC](https://share.google/uypS4Jiw4qti6mQki) Building\
-26080 Northwestern Hwy, Southfield, MI 48076<br/>
+- **[Hampton Inn by Hilton Detroit Southfield](https://www.hilton.com/en/hotels/dtwsfhx-hampton-detroit-southfield/)**
+0.9 Miles away from the [UTLC](https://share.google/uypS4Jiw4qti6mQki) Building
+  26080 Northwestern Hwy, Southfield, MI 48076<br/>
 
 
-- **[Staybridge Suites Detroit - Southfield by IHG](https://www.ihg.com/staybridge/hotels/us/en/southfield/dttbs/hoteldetail)**\
-0.8 Miles away from the [UTLC](https://share.google/uypS4Jiw4qti6mQki) Building\
-26060 Northwestern Hwy, Southfield, MI 48076<br/>
+- **[Staybridge Suites Detroit - Southfield by IHG](https://www.ihg.com/staybridge/hotels/us/en/southfield/dttbs/hoteldetail)**
+0.8 Miles away from the [UTLC](https://share.google/uypS4Jiw4qti6mQki) Building
+  26060 Northwestern Hwy, Southfield, MI 48076<br/>
 
 
-- **[MainStay Suites Southfield-Detroit](https://www.choicehotels.com/michigan/southfield/mainstay-hotels/mi691)**\
-1.2 Miles away from the [UTLC](https://share.google/uypS4Jiw4qti6mQki) Building\
-1 Corporate Dr, Southfield, MI 48076<br/>
+- **[MainStay Suites Southfield-Detroit](https://www.choicehotels.com/michigan/southfield/mainstay-hotels/mi691)**
+1.2 Miles away from the [UTLC](https://share.google/uypS4Jiw4qti6mQki) Building
+  1 Corporate Dr, Southfield, MI 48076<br/>
 
 ---
 
@@ -78,14 +78,14 @@ Please note that the conference will be held across two locations, roughly 20 mi
 
 
 # Additional Detroit Accommodations:  
-- **[Shinola Hotel](https://www.shinolahotel.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp) - $$$**\
-250 ft away from [Hudson's Detroit](https://www.hudsons-detroit.com/)\
-1400 Woodward Ave., Detroit 48226<br/>
+- **[Shinola Hotel](https://www.shinolahotel.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp) - $$$**
+250 ft away from [Hudson's Detroit](https://www.hudsons-detroit.com/)
+  1400 Woodward Ave., Detroit 48226<br/>
 
 
-- **[Element Detroit at the Metropolitan](https://www.marriott.com/en-us/hotels/dtwel-element-detroit-at-the-metropolitan/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0) - $$$**\
-0.1 Miles away from [Hudson's Detroit](https://www.hudsons-detroit.com/)\
-33 John R Street, Detroit 48226<br/>
+- **[Element Detroit at the Metropolitan](https://www.marriott.com/en-us/hotels/dtwel-element-detroit-at-the-metropolitan/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0) - $$$**
+0.1 Miles away from [Hudson's Detroit](https://www.hudsons-detroit.com/)
+  33 John R Street, Detroit 48226<br/>
 
 
 - **[Hilton Garden Inn Detroit Downtown](https://www.hilton.com/en/hotels/detdhgi-hilton-garden-inn-detroit-downtown/?SEO_id=GMB-AMER-GI-DETDHGI) - $$**
