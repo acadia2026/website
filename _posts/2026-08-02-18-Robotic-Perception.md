@@ -71,7 +71,7 @@ Day 3 final deliverables: A small collective assembly prototype for each group, 
 
 ## Participant Information
 - **Audience**: Students, researchers, and professionals in architecture, design, and digital fabrication
-- **Skill Level**: Intermediate. Prior knowledge of Rhino 8 and Grasshopper is helpful but not required
+- **Skill Level**: Participants are expected to be familiar with Grasshopper, and some basic knowledge with Python.
 - **Group Size**: ~15 participants
 - **Hardware**: laptop capable of running Rhino 8
 
