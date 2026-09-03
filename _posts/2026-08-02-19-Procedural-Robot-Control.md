@@ -84,7 +84,7 @@ Afternoon
 
 ## Participant Information
 - **Audience**: Students, researchers, and professionals in architecture, design, and digital fabrication
-- **Skill Level**: Intermediate. Prior knowledge of Blender is helpful but not required
+- **Skill Level**: Participants are expected to be familiar with Grasshopper, and some basic knowledge with Python. 
 - **Group Size**: ~15 participants
 - **Hardware**: laptop capable of running Blender
 
