@@ -84,7 +84,7 @@ Afternoon
 
 ## Participant Information
 - **Audience**: Students, researchers, and professionals in architecture, design, and digital fabrication
-- **Skill Level**: Participants are expected to be familiar with Grasshopper, and some basic knowledge with Python. 
+- **Skill Level**: Participants are expected to watch introductory Blender tutorials that will be provided by the instructors before the workshop. No prior robotics experience is required. Basic familiarity with 3D modeling, animation workflows, or computational design tools is helpful but not necessary.
 - **Group Size**: ~15 participants
 - **Hardware**: laptop capable of running Blender
 
