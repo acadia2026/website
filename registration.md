@@ -16,13 +16,13 @@ permalink: /registration/
 
 **[Register on Eventbrite!](https://acadia-2026-conference-tickets.eventbrite.com/)**
 
-**Note:** Early registration rates are available through September 20.
+**Note:** Early bird registration rates are available through ~~September 20~~. **EXTENDED TO SEPTEMBER 27!**
 
 ## Full Conference Access Ticket Options
 
 Includes ACADIA 2026 membership, full access to all conference events, the Gala Dinner, and conference swag.
 
-- **Early Full Conference:** $855.00 (ends Sep 20)
+- **Early Full Conference:** $855.00 (ends ~~Sep 20~~**Sep 27**)
 - **Early Student Full Conference:** $428.00 (ends Sep 20)
 - **Regular Full Conference:** $925.00 (Sep 21–Oct 11)
 - **Student Full Conference:** $463.00 (Sep 21–Oct 11)
