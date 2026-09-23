@@ -58,6 +58,10 @@ Please note that the conference will be held across two locations, roughly 20 mi
 1.2 Miles away from the [UTLC](https://share.google/uypS4Jiw4qti6mQki) Building
   1 Corporate Dr, Southfield, MI 48076<br/>
 
+- **IN-BETWEEN ALTERNATIVE [Hyatt Place Detroit / Royal Oak](https://www.hyatt.com/hyatt-place/en-US/dtwzr-hyatt-place-detroit-royal-oak)**
+6.2 Miles away from the [UTLC](https://share.google/uypS4Jiw4qti6mQki) Building, 13.9 Miles away from [Hudson's Detroit](https://www.hudsons-detroit.com/)
+  422 N. Main Street, Royal Oak, MI 48067<br/>
+
 ---
 
 # Downtown Detroit Conference Hotel
