@@ -9,7 +9,7 @@ permalink: /sponsors/
 <h2>Gold Sponsors</h2>   
 {% include image-gallery.html 
    folder="/assets/images/sponsors/gold" 
-   item_width="40%" 
+   item_width="50%" 
    image_size="large" 
    show_caption="false" 
    detect_links="true" %}  
