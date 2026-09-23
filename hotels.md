@@ -6,6 +6,11 @@ permalink: /hotels
 
 # Conference Venues
 Please note that the conference will be held across two locations, roughly 20 minutes apart by car.
+
+<img src="{{ '/assets/images/venue_map.jpg' | relative_url }}" 
+     alt="Venue Locations Map" 
+     style="width:100%; max-width:100%; height:auto; margin-top:10px; margin-bottom:20px;">
+
 - **Thursday, Oct. 22, 2026:**\
 **[Lawrence Technological University Campus](https://ltu.edu/)** in Southfield, MI.\
 [LTU College of Architecture and Design(CoAD)](https://ltu.edu/architecture-design/) is located in the [University Technology and Learning Center(UTLC)](https://share.google/uypS4Jiw4qti6mQki)\
