@@ -30,6 +30,14 @@ permalink: /sponsors/
    show_caption="false" 
    detect_links="true" %}  
 
+<h2>Industry Night Sponsors</h2> 
+{% include image-gallery.html 
+   folder="/assets/images/sponsors/industry" 
+   item_width="20%" 
+   image_size="large" 
+   show_caption="false" 
+   detect_links="true" %}  
+
 <h2>Academic and Institutional Support</h2>
 
 {% include image-gallery.html 
