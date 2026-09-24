@@ -50,3 +50,4 @@ permalink: /sponsors/
 <p>For sponsorship opportunities, please contact 
 <a href="mailto:2026@acadia.org">development@acadia.org</a>.
 </p>
+
