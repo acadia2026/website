@@ -9,6 +9,12 @@ permalink: /industry-night
 
 [Eventbrite Registration Link](https://www.eventbrite.com/e/association-for-computer-aided-design-in-architecture-industry-night-tickets-2001243251437)
 
+<div style="max-width: 900px; margin: 2rem auto;">
+  <img src="{{ "/assets/images/industrynight.png" | relative_url }}" 
+       alt="Industry Night Graphic" 
+       style="width:75%; height:auto; display:block;">
+</div>
+
 The **[Association for Computer Aided Design in Architecture (ACADIA)](https://www.acadia.org/) Industry Night** brings together experimental design research, emerging professional talent, and leading regional practices.
 
 Through rapid firm profiles and informal table conversations, the event provides a venue for firms of all types to share their work, identify prospective hires and collaborators, and engage with the methods and ideas shaping contemporary architectural practice.
