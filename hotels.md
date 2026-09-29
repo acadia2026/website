@@ -46,7 +46,12 @@ Please note that the conference will be held across two locations, roughly 20 mi
 500 Town Center Southfield, MI 48075 [Google Maps Link](https://maps.app.goo.gl/PbCGG3q4uNtuqZPD6)\
 0.9 Miles away from the [UTLC](https://share.google/uypS4Jiw4qti6mQki) Building\
 **Booking Link:** [LTU Acadia Conference](https://www.marriott.com/event-reservations/reservation-link.mi?id=1787153760157&key=GRP&app=resvlink&_branch_match_id=1425923784245224094&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi0uy0wtN7IHytiCODmZedlqmSm2huYW5oamxuZmBoam5mrZqZW27kEBanVFqWmpQO156fFJRfnlxalFts4ZRfm5qQBgsNPEYQAAAA%3D%3D)\
-**Room Rate:** 149.00 USD per night - Last Day to Book : **Monday, September 28, 2026**<br/>
+**Room Rate:** 149.00 USD per night - Last Day to Book : **Sunday, October 04, 2026**<br/>
+
+- **[Radisson Hotel Southfield-Detroit](https://www.choicehotels.com/michigan/southfield/radisson-hotels/mi336)**\
+26555 Telegraph Rd, Southfield, MI 48033 [Google Maps Link](https://maps.app.goo.gl/xRHT8AYb61vpjpXK8)\
+2.6 Miles away from the [UTLC](https://share.google/uypS4Jiw4qti6mQki) Building\
+**Booking Link: COMING SOON**<br/>
 
 # Additional Southfield Accommodations:  
 - **[Hampton Inn by Hilton Detroit Southfield](https://www.hilton.com/en/hotels/dtwsfhx-hampton-detroit-southfield/)**
