@@ -48,6 +48,12 @@ Please note that the conference will be held across two locations, roughly 20 mi
 **Booking Link:** [LTU Acadia Conference](https://www.marriott.com/event-reservations/reservation-link.mi?id=1787153760157&key=GRP&app=resvlink&_branch_match_id=1425923784245224094&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi0uy0wtN7IHytiCODmZedlqmSm2huYW5oamxuZmBoam5mrZqZW27kEBanVFqWmpQO156fFJRfnlxalFts4ZRfm5qQBgsNPEYQAAAA%3D%3D)\
 **Room Rate:** 149.00 USD per night - Last Day to Book : **Sunday, October 04, 2026**<br/>
 
+<div style="max-width: 900px; margin: 2rem auto;">
+  <img src="{{ "/assets/images/radisson-southfield.jpg" | relative_url }}" 
+       alt="Radisson Southfield" 
+       style="width:100%; height:auto; display:block;">
+</div>
+
 - **[Radisson Hotel Southfield-Detroit](https://www.choicehotels.com/michigan/southfield/radisson-hotels/mi336)**\
 26555 Telegraph Rd, Southfield, MI 48033 [Google Maps Link](https://maps.app.goo.gl/xRHT8AYb61vpjpXK8)\
 2.6 Miles away from the [UTLC](https://share.google/uypS4Jiw4qti6mQki) Building\
