@@ -15,9 +15,11 @@ permalink: /author-portal
 # Accepted Author Portal
 
 We’re looking forward to welcoming you to **ACADIA 2026: Humanism Recoded, October 22–24!**  
-Use the [Author Portal](https://script.google.com/macros/s/AKfycbzn3IDku0YuDDEzxf6ex2FHrqv2mNY8Z0GVpQr2yZ-6Y27_QWTqNGaqRuzmGNWsNX8/exec) to prepare for your presentation, check your session information, and complete the requirements assigned to your submission.
+Use the [Author Portal](https://script.google.com/macros/s/AKfycbzn3IDku0YuDDEzxf6ex2FHrqv2mNY8Z0GVpQr2yZ-6Y27_QWTqNGaqRuzmGNWsNX8/exec) to prepare for your presentation, check your session information [Detailed Schedule](https://script.google.com/macros/s/AKfycbzn3IDku0YuDDEzxf6ex2FHrqv2mNY8Z0GVpQr2yZ-6Y27_QWTqNGaqRuzmGNWsNX8/exec), and complete the requirements assigned to your submission.
 
-**Download PPT template and upload your presentation to the [Author Portal](https://script.google.com/macros/s/AKfycbzn3IDku0YuDDEzxf6ex2FHrqv2mNY8Z0GVpQr2yZ-6Y27_QWTqNGaqRuzmGNWsNX8/exec)** by **October 17, 2026, 11:59 p.m. EST**.
+**Download the PPT template and upload your presentation to the [Author Portal](https://script.google.com/macros/s/AKfycbzn3IDku0YuDDEzxf6ex2FHrqv2mNY8Z0GVpQr2yZ-6Y27_QWTqNGaqRuzmGNWsNX8/exec)** by **October 17, 2026, 11:59 p.m. EST**.
+
+---
 
 Your submission has been accepted by ACADIA 2026|Humanism Recoded.
 This acceptance will be finalized after we receive a complete, properly formatted, camera-ready submission, all required author materials, proof of conference registration, and confirmation that the work will be presented in person.
