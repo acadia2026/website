@@ -15,7 +15,7 @@ permalink: /tours
 ### **[Cranbrook Art Museum](https://cranbrookartmuseum.org/visit/) Collections Wing Tours** 
 LIMITED AVAILABILITY ADVANCE RESERVATION ONLY
 - 39221 Woodward Ave. Box 801 Bloomfield Hills, MI 48303 [Google Maps Link](https://maps.app.goo.gl/xXtfMDLFB8Z2rGyp6)
-- **Wednesday, October 21st, 4:00-5:00 pm.** Limited to 12 persons per tour. 
+- **Wednesday, October 21st, 4:00-5:00 pm.** Limited to 20 persons per tour. 
 - **$30 per ticket. [Registration Link](https://www.givecampus.com/campaigns/86012/donations/new)**
 
 **Exclusive Behind-the-Scenes Collections Wing Tour:** 
