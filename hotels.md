@@ -57,7 +57,9 @@ Please note that the conference will be held across two locations, roughly 20 mi
 - **[Radisson Hotel Southfield-Detroit](https://www.choicehotels.com/michigan/southfield/radisson-hotels/mi336)**\
 26555 Telegraph Rd, Southfield, MI 48033 [Google Maps Link](https://maps.app.goo.gl/xRHT8AYb61vpjpXK8)\
 2.6 Miles away from the [UTLC](https://share.google/uypS4Jiw4qti6mQki) Building\
-**Booking Link: COMING SOON**<br/>
+**Booking Link:** [ACADIA 2026](https://www.choicehotels.com/reservations/groups/AP31B3)\
+**Room Rate:** 109.00 - 119.00 USD per night - Last Day to Book : **Sunday, October 11, 2026**\
+Free cancellation for individual reservations is 72 hours prior to check-in. The Breakfast is complimentary with the rooms.<br/>
 
 # Additional Southfield Accommodations:  
 - **[Hampton Inn by Hilton Detroit Southfield](https://www.hilton.com/en/hotels/dtwsfhx-hampton-detroit-southfield/)**
