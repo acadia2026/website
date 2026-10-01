@@ -46,7 +46,7 @@ Please note that the conference will be held across two locations, roughly 20 mi
 500 Town Center Southfield, MI 48075 [Google Maps Link](https://maps.app.goo.gl/PbCGG3q4uNtuqZPD6)\
 0.9 Miles away from the [UTLC](https://share.google/uypS4Jiw4qti6mQki) Building\
 **Booking Link:** [LTU Acadia Conference](https://www.marriott.com/event-reservations/reservation-link.mi?id=1787153760157&key=GRP&app=resvlink&_branch_match_id=1425923784245224094&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi0uy0wtN7IHytiCODmZedlqmSm2huYW5oamxuZmBoam5mrZqZW27kEBanVFqWmpQO156fFJRfnlxalFts4ZRfm5qQBgsNPEYQAAAA%3D%3D)\
-**Room Rate:** 149.00 USD per night - Last Day to Book : **Sunday, October 04, 2026**<br/>
+**Room Rate:** 149.00 USD per night - Last Day to Book : **Sunday, October 11, 2026**<br/>
 
 <div style="max-width: 900px; margin: 2rem auto;">
   <img src="{{ "/assets/images/radisson-southfield.jpg" | relative_url }}" 
@@ -59,7 +59,7 @@ Please note that the conference will be held across two locations, roughly 20 mi
 2.6 Miles away from the [UTLC](https://share.google/uypS4Jiw4qti6mQki) Building\
 **Booking Link:** [ACADIA 2026](https://www.choicehotels.com/reservations/groups/AP31B3)\
 **Room Rate:** 109.00 - 119.00 USD per night - Last Day to Book : **Sunday, October 11, 2026**\
-Free cancellation for individual reservations is 72 hours prior to check-in. The Breakfast is complimentary with the rooms.<br/>
+Free cancellation for individual reservations is 72 hours prior to check-in. Breakfast complimentary with the rooms.<br/>
 
 # Additional Southfield Accommodations:  
 - **[Hampton Inn by Hilton Detroit Southfield](https://www.hilton.com/en/hotels/dtwsfhx-hampton-detroit-southfield/)**
