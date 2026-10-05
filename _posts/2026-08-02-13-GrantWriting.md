@@ -7,6 +7,7 @@ permalink: /grant-proposal-writing
 project: true
 category: site-workshop
 thumbnail: assets/images/workshops/acadia26-workshop_GrantWriting.jpg
+published: false
 
 ---
 <span style="font-size: 24px; font-weight: bold;">Grant Proposal Writing:</span>
