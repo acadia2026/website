@@ -7,6 +7,7 @@ permalink: /procedural-robot-control
 project: true
 category: site-workshop
 thumbnail: assets/images/workshops/acadia26-workshop_Interactive2.gif
+published: false
 
 ---
 <span style="font-size: 24px; font-weight: bold;">Procedural Robot Control:</span>
