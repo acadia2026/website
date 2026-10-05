@@ -7,6 +7,7 @@ permalink: /Robotic-Perception-Workflows
 project: true
 category: site-workshop
 thumbnail: assets/images/workshops/acadia26-workshop_RoboticPerception.jpg
+published: false
 
 ---
 <span style="font-size: 24px; font-weight: bold;">Robotic Perception Workflows for Hybrid Assembly</span>
