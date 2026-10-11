@@ -1,23 +1,28 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+---
+layout: default
+---
 
-  {%- include head.html -%}
+<style>
+  .program-heading {
+    margin: 24px 0 12px;
+    font-weight: 400;
+  }
 
-  <body>
-    
-    <div class="container">
+  .program-embed {
+    width: 100%;
+    min-width: 0;
+  }
 
-      {%- include header.html -%}
+  .program-embed iframe {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: 90vh;
+    height: 90svh;
+    min-height: 420px;
+    border: 0;
+    background: #fff;
+  }
+</style>
 
-    <main>
-      {{ content }}
-      
-    </main>
-
-    {%- include footer.html -%}
-
-    </div>
-    <!-- <script src="{{ '/assets/js/gallery-shuffle.js' | relative_url }}"></script> -->
-    <script src="{{ '/assets/js/dropdown.js' | relative_url }}"></script>
-  </body>
-</html>
+{{ content }}
