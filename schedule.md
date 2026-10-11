@@ -1,11 +1,17 @@
 ---
-layout: page
+layout: program
 title: Schedule
 permalink: /schedule/
 ---
 
-# ACADIA 2026 Schedule
+<h1 class="program-heading">ACADIA 2026 Program</h1>
 
-## [DETAILED SCHEDULE PUBLISHED](https://docs.google.com/spreadsheets/d/1eHl5mmpOQKLtEIodaDhXilu3OrE-i6iRUMm2R8bNj6w/edit?usp=sharing)
+<p><a href="https://script.google.com/macros/s/AKfycbyGz8ilJnb0Ojg9EVhrRsqlFolXUBDEW0G9-eros-910LQya3UTlIppjWj_U8uTTzX3/exec" target="_blank" rel="noopener noreferrer">Open the program in a new tab ↗</a></p>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVUk8Jq9AuWo_nFA4taJ_lOTAg3iyM0WBAjuRfqYBPSfRZy9Xb-sDNOjheyggksq16BLwG5uT3ZllJ/pubhtml?widget=true&amp;headers=false" width="100%" height="1200" frameborder="0" style="border: none; width: 100%;"></iframe>
+<div class="program-embed">
+  <iframe
+    src="https://script.google.com/macros/s/AKfycbyGz8ilJnb0Ojg9EVhrRsqlFolXUBDEW0G9-eros-910LQya3UTlIppjWj_U8uTTzX3/exec"
+    title="ACADIA 2026 Conference Program"
+    loading="eager">
+  </iframe>
+</div>
