@@ -13,7 +13,7 @@ thumbnail: assets/images/workshops/acadia26-workshop_RhinoInside.png
 **Rhino and Revit Workflows with Rhino.Inside and Conveyor**
 
 # Workshop Dates: 10/21
-<strong>Hybrid: Online + Downtown, Detroit</a></strong>
+<strong>Hybrid: Online + Downtown, Detroit</strong>
 <strong>Location: <a href="https://maps.app.goo.gl/in1RRBHwCzTM35Ks7" target="_blank" rel="noopener noreferrer">Downtown, Detroit at Gensler</a></strong>
 **Address:** 1265 Griswold St, Detroit, MI 48226
 
