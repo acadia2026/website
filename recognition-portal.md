@@ -1,5 +1,5 @@
 ---
-title: Recognition Portal
+title: /Recognition Portal
 layout: page
 permalink: /recognition-portal
 ---
