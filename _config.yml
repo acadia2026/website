@@ -12,6 +12,7 @@ header_pages:
   - title: Attend
     children:
       - author-portal.md
+      - recognition-portal.md
       - registration.md
       - hotels.md
       - tours.md
