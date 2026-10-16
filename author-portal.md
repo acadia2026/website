@@ -4,51 +4,11 @@ layout: page
 permalink: /author-portal
 ---
 
-<div style="max-width:700px; margin: 0 auto 24px auto;">
-  <img src="{{ '/assets/images/acadia_graphic2.png' | relative_url }}"
-       alt="ACADIA Call for Submissions graphic"
-       style="width:100%; height:auto; display:block;">
-</div>
-
----
-
-# Accepted Author Portal
-
-We’re looking forward to welcoming you to **ACADIA 2026: Humanism Recoded, October 22–24!**  
-Use the [Author Portal](https://script.google.com/macros/s/AKfycbzn3IDku0YuDDEzxf6ex2FHrqv2mNY8Z0GVpQr2yZ-6Y27_QWTqNGaqRuzmGNWsNX8/exec) to prepare for your presentation, check your session information [Detailed Schedule](https://script.google.com/macros/s/AKfycbzn3IDku0YuDDEzxf6ex2FHrqv2mNY8Z0GVpQr2yZ-6Y27_QWTqNGaqRuzmGNWsNX8/exec), and complete the requirements assigned to your submission.
-
-**Download the PPT template and upload your presentation to the [Author Portal](https://script.google.com/macros/s/AKfycbzn3IDku0YuDDEzxf6ex2FHrqv2mNY8Z0GVpQr2yZ-6Y27_QWTqNGaqRuzmGNWsNX8/exec)** by **October 17, 2026, 11:59 p.m. EST**.
-
----
-
-Your submission has been accepted by ACADIA 2026|Humanism Recoded.
-This acceptance will be finalized after we receive a complete, properly formatted, camera-ready submission, all required author materials, proof of conference registration, and confirmation that the work will be presented in person.
-
-Deadline for **Tasks 1–6** (camera-ready requirements): **August 3, 2026, 11:59 PM AoE · No extensions**
-
-**Task 7** [(Conference Registration)](https://www.eventbrite.com/e/acadia-2026-conference-tickets-1994103856314?aff=oddtdtcreator) may be completed after the camera-ready deadline and is due no later than **October 21, 2026**. 
-
-**Note:** Early-bird registration rates remain available through September 20, 2026.
-
----
-
-One conference registration may cover a maximum of:
-
-1. One Full Paper, and One Project or Field Note
-2. One Project
-3. One Field Note
-
-When both submissions are presented by the same author, a coauthor must register separately for every additional accepted submission. Every accepted submission must be covered by a valid registration to appear in the conference program and proceedings. 
-
-Please note that Projects and Field Notes by themselves each require one individual registration, i.e. a single registration cannot cover Project + Project, or Project + Field Note.
-
-At least one author must attend ACADIA 2026 and present the work. The Registration page in the Attend Hub also includes information about conference locations, workshops, accommodation, publication, indexing, attendance, and registration coverage.
-
----
-
-ACADIA 2026 is planned as an in-person conference only. Conditional remote presentation is available only when a foreign national author’s travel-permit application is formally refused or rejected by an immigration authority.
-
-Authors who qualify for conditional remote presentation must contact 2026@acadia.org within two weeks of receiving the acceptance notice so that the organizing team can arrange the appropriate session. Full conference registration remains required, and conference tickets are non-refundable.
-
-We will share the presentation schedule, presentation format, and additional conference information after the camera-ready submissions have been reviewed.
+<iframe
+  id="author-portal-embed"
+  src="https://script.google.com/macros/s/AKfycbzn3IDku0YuDDEzxf6ex2FHrqv2mNY8Z0GVpQr2yZ-6Y27_QWTqNGaqRuzmGNWsNX8/exec"
+  title="ACADIA 2026 Author Portal"
+  loading="eager"
+  style="display:block; width:100%; height:90vh; height:90svh; min-height:600px; border:0; margin:0;">
+</iframe>
 
