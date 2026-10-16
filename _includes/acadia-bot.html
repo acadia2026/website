@@ -1,0 +1,106 @@
+<style>
+  #acadia-site-bot-launch {
+    position: fixed; right: max(16px, env(safe-area-inset-right)); bottom: max(16px, env(safe-area-inset-bottom));
+    z-index: 1000; display: flex; align-items: center; gap: 8px; min-height: 44px;
+    padding: 10px 14px; border: 1px solid #933231; border-radius: 0;
+    background: #933231; color: #fff; box-shadow: 0 3px 12px #0002;
+    font: 14px/1.4 Arial, sans-serif; cursor: pointer;
+  }
+  #acadia-site-bot-launch svg { width: 18px; height: 18px; flex: none; }
+  #acadia-site-bot-launch:focus-visible { outline: 2px solid #933231; outline-offset: 3px; }
+  #acadia-site-bot-panel {
+    position: fixed; inset: auto 16px 16px auto; margin: 0; padding: 0;
+    width: min(448px, calc(100vw - 32px)); height: min(688px, calc(100vh - 32px));
+    height: min(688px, calc(100dvh - 32px)); max-width: none; max-height: none;
+    border: 1px solid #d6d2cf; border-radius: 0; background: #fff;
+    box-shadow: 0 12px 50px #0003; overflow: hidden;
+  }
+  #acadia-site-bot-panel:not([open]) { display: none; }
+  #acadia-site-bot-panel::backdrop { background: #0002; }
+  #acadia-site-bot-frame { display: block; width: 100%; height: 100%; border: 0; background: #fff; }
+  #acadia-site-bot-loading { position: absolute; inset: 0; padding: 24px; background: #fff; color: #242424; font: 14px/1.5 Arial, sans-serif; }
+  #acadia-site-bot-loading[hidden] { display: none; }
+  #acadia-site-bot-loading button { padding: 8px 12px; min-height: 44px; border: 1px solid #d6d2cf; color: #933231; background: #fff; cursor: pointer; }
+  #acadia-site-bot-loading a { color: #933231; text-decoration: underline; }
+  @media (max-width: 600px) {
+    #acadia-site-bot-panel { inset: auto 8px 8px 8px; width: calc(100vw - 16px); height: calc(100vh - 32px); height: calc(100dvh - 32px); }
+  }
+  @media print { #acadia-site-bot-launch, #acadia-site-bot-panel { display: none !important; } }
+</style>
+<button id="acadia-site-bot-launch" type="button" aria-haspopup="dialog" aria-controls="acadia-site-bot-panel" aria-expanded="false">
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M4 4h16v12H9l-5 4V4Z"/><path d="M8 8h8M8 12h5"/></svg>
+  Talk to ACADIA Bot
+</button>
+<dialog id="acadia-site-bot-panel" aria-label="ACADIA Bot">
+  <iframe id="acadia-site-bot-frame" title="ACADIA Bot conversation"></iframe>
+  <div id="acadia-site-bot-loading" role="status">
+    <p id="acadia-site-bot-loading-text">Loading ACADIA Bot…</p>
+    <p><a href="https://script.google.com/macros/s/AKfycbyGz8ilJnb0Ojg9EVhrRsqlFolXUBDEW0G9-eros-910LQya3UTlIppjWj_U8uTTzX3/exec" target="_blank" rel="noopener noreferrer">Open the program in a new tab</a></p>
+    <button id="acadia-site-bot-loading-close" type="button">Close</button>
+  </div>
+</dialog>
+<script>
+(() => {
+  const programUrl = 'https://script.google.com/macros/s/AKfycbyGz8ilJnb0Ojg9EVhrRsqlFolXUBDEW0G9-eros-910LQya3UTlIppjWj_U8uTTzX3/exec';
+  const channel = crypto.randomUUID();
+  const launch = document.getElementById('acadia-site-bot-launch');
+  const panel = document.getElementById('acadia-site-bot-panel');
+  const frame = document.getElementById('acadia-site-bot-frame');
+  const loading = document.getElementById('acadia-site-bot-loading');
+  let botWindow = null, botOrigin = '', pendingPaper = '', loadTimer;
+  const paperValue = value => /^[A-Za-z0-9_-]{1,80}$/.test(String(value || '')) ? String(value) : '';
+  function sendContext() {
+    if (botWindow) botWindow.postMessage({type: 'acadia-bot:context', channel, paper: pendingPaper}, botOrigin);
+  }
+  function openBot(paper) {
+    pendingPaper = paperValue(paper);
+    if (!panel.open) panel.showModal();
+    launch.setAttribute('aria-expanded', 'true');
+    if (!frame.hasAttribute('src')) {
+      const url = new URL(programUrl);
+      url.searchParams.set('view', 'bot');
+      url.searchParams.set('channel', channel);
+      if (pendingPaper) url.searchParams.set('paper', pendingPaper);
+      frame.src = url.href;
+      loadTimer = setTimeout(() => {
+        if (!loading.hidden) document.getElementById('acadia-site-bot-loading-text').textContent = 'The bot is taking longer to load. You can wait or open the program in a new tab.';
+      }, 20000);
+    } else sendContext();
+  }
+  function closeBot() {
+    panel.close();
+    launch.setAttribute('aria-expanded', 'false');
+    launch.focus({preventScroll: true});
+  }
+  launch.addEventListener('click', () => openBot(''));
+  document.getElementById('acadia-site-bot-loading-close').addEventListener('click', closeBot);
+  panel.addEventListener('cancel', event => { event.preventDefault(); closeBot(); });
+  panel.addEventListener('click', event => {
+    if (event.target !== panel) return;
+    const bounds = panel.getBoundingClientRect();
+    if (event.clientX < bounds.left || event.clientX > bounds.right || event.clientY < bounds.top || event.clientY > bounds.bottom) closeBot();
+  });
+  window.addEventListener('message', event => {
+    const message = event.data;
+    if (!/^https:\/\/[a-z0-9-]+-script\.googleusercontent\.com$/.test(event.origin) || !message || message.channel !== channel) return;
+    if (message.type === 'acadia-bot:ready' && frame.hasAttribute('src')) {
+      botWindow = event.source; botOrigin = event.origin;
+      clearTimeout(loadTimer); loading.hidden = true; sendContext();
+    } else if (message.type === 'acadia-bot:close' && event.source === botWindow) closeBot();
+    else if (message.type === 'acadia-bot:open') openBot(message.paper);
+  });
+  // Load the Schedule embed once, with the same message channel and any source link.
+  document.querySelectorAll('iframe[data-acadia-program-src]').forEach(program => {
+    const url = new URL(program.dataset.acadiaProgramSrc);
+    url.searchParams.set('bot', 'external');
+    url.searchParams.set('channel', channel);
+    const params = new URL(location.href).searchParams;
+    for (const key of ['paper', 'event']) {
+      const raw = params.get(key) || '';
+      const value = /^[A-Za-z0-9_-]{1,240}$/.test(raw) ? raw : '';
+      if (value) url.searchParams.set(key, value);
+    }
+    program.src = url.href;
+  });
+})();
+</script>
