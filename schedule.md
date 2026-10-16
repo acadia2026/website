@@ -10,7 +10,7 @@ permalink: /schedule/
 
 <div class="program-embed">
   <iframe
-    src="https://script.google.com/macros/s/AKfycbyGz8ilJnb0Ojg9EVhrRsqlFolXUBDEW0G9-eros-910LQya3UTlIppjWj_U8uTTzX3/exec"
+    data-acadia-program-src="https://script.google.com/macros/s/AKfycbyGz8ilJnb0Ojg9EVhrRsqlFolXUBDEW0G9-eros-910LQya3UTlIppjWj_U8uTTzX3/exec"
     title="ACADIA 2026 Conference Program"
     loading="eager">
   </iframe>
