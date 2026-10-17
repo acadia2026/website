@@ -15,7 +15,7 @@ Established in 1998, the ACADIA Awards of Excellence honor outstanding contribut
 This award recognizes innovative research that contributes to the field of digital design in architecture. The award distinguishes research with the potential to transform contemporary architecture.
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/assets/images/awards/ACADIA2025_Awards_Website_Tsz Yan Ng.jpg" alt="Tsz Yan Ng" style="max-width: 300px; width: 100%; height: auto; border-radius: 8px;">
+  <img src="/assets/images/awards/award-dillenburger.jpg" alt="Benjamin Dillenburger" style="max-width: 300px; width: 100%; height: auto; border-radius: 8px;">
 </div>
 
 ### Benjamin Dillenburger
@@ -30,7 +30,7 @@ This award recognizes innovative research that contributes to the field of digit
 This award recognizes innovative teaching in the field of digital design in architecture.
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/assets/images/awards/ACADIA2025_Awards_Website_Kristy Balliet.jpg" alt="Kristy Balliet" style="max-width: 300px; width: 100%; height: auto; border-radius: 8px;">
+  <img src="/assets/images/awards/award-JLGdC.jpg" alt="Jose Luis García del Castillo y López" style="max-width: 300px; width: 100%; height: auto; border-radius: 8px;">
 </div>
 
 ### Jose Luis García del Castillo y López
@@ -47,7 +47,7 @@ Jose Luis holds a Doctorate in Design from the Harvard Graduate School of Design
 This award recognizes an innovative academic program that contributes to education and access for students in the field of digital design.
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/assets/images/awards/ACADIA2025_Awards_Website_Feminist Spatial Practices.jpg" alt="Feminist Spatial Practices" style="max-width: 300px; width: 100%; height: auto; border-radius: 8px;">
+  <img src="/assets/images/awards/award-MSD-RAS.png" alt="Master of Science in Design: Robotics & Autonomous Systems (MSD-RAS)" style="max-width: 300px; width: 100%; height: auto; border-radius: 8px;">
 </div>
 
 ### University of Pennsylvania Master of Science in Design: Robotics & Autonomous Systems (MSD-RAS) Representative: Robert-Stuart Smith, Founding Director
@@ -65,7 +65,7 @@ The award will be accepted by its founding director, Robert Stuart-Smith @robstu
 This award recognizes longstanding contributions to computational design education and the broader digital design community.
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/assets/images/awards/ACADIA2025_Awards_Website_Jenny Sabin.jpg" alt="Jenny Sabin" style="max-width: 300px; width: 100%; height: auto; border-radius: 8px;">
+  <img src="/assets/images/awards/award-CCA_BW.jpg" alt="California College of the Arts Architecture Division" style="max-width: 300px; width: 100%; height: auto; border-radius: 8px;">
 </div>
 
 ###  California College of the Arts Architecture Division
