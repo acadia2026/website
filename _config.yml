@@ -24,14 +24,12 @@ header_pages:
       - call for workshops 2026.md
       - phd-workshop.md
       - book-forum.md
-      
-  - workshops.md
   
-#  - title: Program
-   # children:
-    #  - workshops.md
-  #     - awards.md
-  #     - gallery.md
+  - title: Program
+    children:
+      - workshops.md
+      - awards.md
+      - keynotes.md
 
   - title: About
     children:
