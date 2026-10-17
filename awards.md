@@ -4,6 +4,12 @@ layout: page
 permalink: /awards
 ---
 
+<div style="max-width:700px; margin: 0 auto 24px auto;">
+  <img src="{{ '/assets/images/acadia_graphic2.png' | relative_url }}"
+       alt="ACADIA Call for Submissions graphic"
+       style="width:100%; height:auto; display:block;">
+</div>
+
 ## ACADIA Awards of Excellence
 
 Established in 1998, the ACADIA Awards of Excellence honor outstanding contributions to architectural computing. Originally focused on Teaching, Service, and Research, the program has expanded over time to include Digital Practice, Society, and, more recently, the Impact Award, which recognizes innovative educational and community initiatives. Each year, select individuals or programs are recognized for exceptional and innovative achievements that advance the field of digital design.
