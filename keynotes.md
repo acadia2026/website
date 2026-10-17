@@ -4,6 +4,12 @@ layout: page
 permalink: /keynotes
 ---
 
+<div style="max-width:700px; margin: 0 auto 24px auto;">
+  <img src="{{ '/assets/images/acadia_graphic2.png' | relative_url }}"
+       alt="ACADIA Call for Submissions graphic"
+       style="width:100%; height:auto; display:block;">
+</div>
+
 # Keynote Panel: PROJECT WHY  
 
 <div style="text-align: center; margin: 20px 0;">
